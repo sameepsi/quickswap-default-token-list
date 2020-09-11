@@ -19,7 +19,7 @@ module.exports = function buildList() {
       'default'
     ],
     tokens: [
-      ...mainnet,
+      //...mainnet,
       ...mumbai
     ]
       // sort them by symbol for easy readability
