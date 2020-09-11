@@ -5,7 +5,7 @@ const mumbai = require('./tokens/mumbai.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Quickswap Default List',
+    'name': 'Quickswap Token List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
