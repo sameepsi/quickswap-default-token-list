@@ -1,14 +1,11 @@
 const { version } = require('../package.json');
-const mainnet = require('./tokens/mainnet.json');
-const ropsten = require('./tokens/ropsten.json');
-const rinkeby = require('./tokens/rinkeby.json');
-const goerli = require('./tokens/goerli.json');
-const kovan = require('./tokens/kovan.json');
+//const mainnet = require('./tokens/mainnet.json');
+const mumbai = require('./tokens/mumbai.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Uniswap Default List',
+    'name': 'Quickswap Default List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -23,10 +20,7 @@ module.exports = function buildList() {
     ],
     tokens: [
       ...mainnet,
-      ...ropsten,
-      ...goerli,
-      ...kovan,
-      ...rinkeby
+      ...mumbai
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
