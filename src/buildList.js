@@ -1,5 +1,5 @@
 const { version } = require('../package.json');
-const matic = require('./tokens/matic.json');
+const mainnet = require('./tokens/mainnet.json');
 const mumbai = require('./tokens/mumbai.json');
 
 module.exports = function buildList() {
@@ -19,7 +19,7 @@ module.exports = function buildList() {
       'default'
     ],
     tokens: [
-      //...mainnet,
+      ...mainnet,
       ...mumbai
     ]
       // sort them by symbol for easy readability
