@@ -1,5 +1,5 @@
 const { version } = require('../package.json');
-//const mainnet = require('./tokens/mainnet.json');
+const matic = require('./tokens/matic.json');
 const mumbai = require('./tokens/mumbai.json');
 
 module.exports = function buildList() {
