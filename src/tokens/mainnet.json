@@ -24,6 +24,54 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
+    "name": "USD Coin",
+    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Quickswap",
+    "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.jpeg"
+  },
+  {
+    "name": "Easy USDC",
+    "address": "0x4eBdE54ba404bE158262EDe801744b92b9878c61",
+    "symbol": "eUSDC",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+  },
+  {
+    "name": "Easy DAI",
+    "address": "0xa1C09C8F4f5D03fcC27b456475d53d988e98D7C5",
+    "symbol": "eDAI",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+  },
+  {
+    "name": "Easy USDT",
+    "address": "0xfc39742Fe9420a7Af23757Fc7E78D1c3AE4A9474",
+    "symbol": "eUSDT",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
+  },
+  {
     "name": "Ether",
     "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
     "symbol": "ETH",
