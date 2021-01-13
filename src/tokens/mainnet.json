@@ -73,11 +73,11 @@
   },
   {
     "name": "Aavegotchi GHST Token",
-    "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+    "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
     "symbol": "GHST",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/AavegotchiGHST_32.png"
+    "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
   },
   {
     "name": "IG Gold",
