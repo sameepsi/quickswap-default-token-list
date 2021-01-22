@@ -152,6 +152,14 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
   },
   {
+    "name": "Swirge",
+    "address": "0x043a3aa319b563ac25d4e342d32bffb51298db7b",
+    "symbol": "SWG",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://photos.app.goo.gl/33pUuVM6AXWUmEYV7"
+  },
+  {
     "name": "Matic Aave interest bearing USDC",
     "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
     "symbol": "maUSDC",
