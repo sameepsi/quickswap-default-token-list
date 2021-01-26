@@ -165,7 +165,7 @@
     "symbol": "RBAL",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "http://rebalancetoken.io/images/logo/logo.png"
+    "logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
   },
   {
     "name": "Matic Aave interest bearing USDC",
