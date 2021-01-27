@@ -72,6 +72,14 @@
     "logoURI": "https://etherscan.io/token/images/om_32.png"
   },
   {
+    "name": "decentral.games",
+    "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
+    "symbol": "$DG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"
+  },
+  {
     "name": "Aavegotchi GHST Token",
     "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
     "symbol": "GHST",
