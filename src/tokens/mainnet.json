@@ -176,6 +176,14 @@
     "logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
   },
   {
+    "name": "SportX",
+    "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+    "symbol": "SX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
+  },
+  {
     "name": "Matic Aave interest bearing USDC",
     "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
     "symbol": "maUSDC",
