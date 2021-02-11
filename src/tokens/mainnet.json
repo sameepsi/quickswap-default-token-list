@@ -80,6 +80,22 @@
     "logoURI": "https://etherscan.io/token/images/om_32.png"
   },
   {
+    "name": "Must",
+    "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+    "symbol": "MUST",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/cometh_32.png"
+  },
+  {
+    "name": "Frax",
+    "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
+  },
+  {
     "name": "decentral.games",
     "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
     "symbol": "$DG",
