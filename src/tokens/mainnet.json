@@ -224,6 +224,62 @@
     "logoURI": "https://aavegotchi.com/images/matokens/maDAI.svg"
   },
   {
+    "name": "Matic Aave interest bearing WETH",
+    "address": "0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142",
+    "symbol": "maWETH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maWETH.svg"
+  },
+  {
+    "name": "Matic Aave interest bearing AAVE",
+    "address": "0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
+    "symbol": "maAAVE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maAAVE.svg"
+  },
+  {
+    "name": "Matic Aave interest bearing LINK",
+    "address": "0x98ea609569bD25119707451eF982b90E3eb719cD",
+    "symbol": "maLINK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maLINK.svg"
+  },
+  {
+    "name": "Matic Aave interest bearing USDT",
+    "address": "0xDAE5F1590db13E3B40423B5b5c5fbf175515910b",
+    "symbol": "maUSDT",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maUSDT.svg"
+  },
+  {
+    "name": "Matic Aave interest bearing TUSD",
+    "address": "0xF4b8888427b00d7caf21654408B7CBA2eCf4EbD9",
+    "symbol": "maTUSD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maTUSD.svg"
+  },
+  {
+    "name": "Matic Aave interest bearing UNI",
+    "address": "0x8c8bdBe9CeE455732525086264a4Bf9Cf821C498",
+    "symbol": "maUNI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maUNI.svg"
+  },
+  {
+    "name": "Matic Aave interest bearing YFI",
+    "address": "0xe20f7d1f0eC39C4d5DB01f53554F2EF54c71f613",
+    "symbol": "maYFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg"
+  },
+  {
     "name": "Easy USDT",
     "address": "0xfc39742Fe9420a7Af23757Fc7E78D1c3AE4A9474",
     "symbol": "eUSDT",
