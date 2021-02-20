@@ -294,5 +294,38 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+
+  {
+    "name": "Matic Rebalance Token",
+    "address": "0xFc1cA508A0E36E362cdbF17780eA8Db796FC0740",
+    "symbol": "mRBAL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://rebalancetoken.io/images/logo/logo.png"
+  },
+  {
+    "name": "GAME Credits",
+    "address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
+    "symbol": "GAME",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/IIUglm9.png?1"
+  },
+  {
+    "name": "Sentinel",
+    "address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
+    "symbol": "SENT",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1308841930260910081/N1uVUjfS_400x400.jpg"
+  },
+  {
+    "name": "Elementeum",
+    "address": "0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4",
+    "symbol": "ELET",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherlegends.com/ELET.png"
   }
 ]
