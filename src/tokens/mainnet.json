@@ -298,7 +298,7 @@
 
   {
     "name": "Matic Rebalance Token",
-    "address": "0xFc1cA508A0E36E362cdbF17780eA8Db796FC0740",
+    "address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
     "symbol": "mRBAL",
     "decimals": 18,
     "chainId": 137,
