@@ -334,7 +334,7 @@
     "symbol": "HEX",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://hex.com/assets/images/hexcom_logo.svg"
+    "logoURI": "https://hex.com/favicon.png"
   },
   {
     "name": "TrustSwap Token",
