@@ -327,5 +327,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherlegends.com/ELET.png"
+  },
+  {
+    "name": "HEXX",
+    "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
+    "symbol": "HEX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://hex.com/assets/images/hexcom_logo.svg"
+  },
+  {
+    "name": "TrustSwap Token",
+    "address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://trustswap.org/images/icon-trustswap.png"
   }
 ]
