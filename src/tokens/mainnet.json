@@ -332,7 +332,7 @@
     "name": "HEXX",
     "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
     "symbol": "HEX",
-    "decimals": 18,
+    "decimals": 8,
     "chainId": 137,
     "logoURI": "https://hex.com/favicon.png"
   },
