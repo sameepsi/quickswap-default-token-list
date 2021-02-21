@@ -342,6 +342,22 @@
     "symbol": "SWAP",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://trustswap.org/images/icon-trustswap.png"
+    "logoURI": "https://i.imgur.com/vZnU36G.png"
+  },
+  {
+    "name": "Dark.Build",
+    "address": "0x0e59D50adD2d90f5111aca875baE0a72D95B4762",
+    "symbol": "DB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://dark-build.app/logo192.png"
+  },
+  {
+    "name": "ZeroUtility",
+    "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
+    "symbol": "ZUT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.gifyu.com/images/zutlogo.jpg"
   }
 ]
