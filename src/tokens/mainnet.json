@@ -359,5 +359,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.gifyu.com/images/zutlogo.jpg"
+  },
+  {
+    "name": "Ocean Protcol",
+    "address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+    "symbol": "mOCEAN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3687/large/ocean-protocol-logo.jpg"
+  },
+  {
+    "name": "DefiPulse Index",
+    "address": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
+    "symbol": "DPI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://set-core.s3.amazonaws.com/img/social_trader_set_icons/defi_pulse_index_set.svg"
   }
 ]
