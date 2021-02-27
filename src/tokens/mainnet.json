@@ -359,5 +359,31 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.gifyu.com/images/zutlogo.jpg"
+  },
+  {
+    "name": "Unibright",
+    "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+    "symbol": "UBT",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916"
+  },
+  {
+    "name": "Vision Token",
+    "address": "0x034b2090b579228482520c589dbD397c53Fc51cC",
+    "symbol": "VISION",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s3-us-west-2.amazonaws.com/acf-uploads/apyvisionlogo200circle.png"
+  },
+  {
+    "name": "iFARM",
+    "address": "0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff",
+    "symbol": "iFARM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/harvestfi/assets/main/farm-logo.png"
   }
+
+
 ]
