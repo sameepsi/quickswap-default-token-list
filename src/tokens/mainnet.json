@@ -383,6 +383,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/harvestfi/assets/main/farm-logo.png"
+  },
+  {
+    "name": "Frax Share",
+    "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+    "symbol": "FXS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
   }
 
 
