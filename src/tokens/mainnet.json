@@ -77,7 +77,7 @@
     "symbol": "OM",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/om_32.png"
+    "logoURI": "https://etherscan.io/token/images/mantradao_32.png"
   },
   {
     "name": "Must",
@@ -399,6 +399,47 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2"
+  },
+
+  {
+    "name": "Celsius",
+    "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+    "symbol": "CEL",
+    "decimals": 4,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753"
+  },
+  {
+    "name": "ARIANEE",
+    "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
+    "symbol": "ARIA20",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aria.fyi/images/Aria_Logo_256.png"
+  },
+  {
+    "name": "CyberFi Token",
+    "address": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
+    "symbol": "CFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/Z8V1O7H.png"
+  },
+  {
+    "name": "DSLA",
+    "address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639",
+    "symbol": "DSLA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://storage.googleapis.com/stacktical-public/dsla.png"
+  },
+  {
+    "name": "Digital Reserve Currency",
+    "address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
+    "symbol": "DRC",
+    "decimals": 0,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1318783238291292160/R4DxXdRA_400x400.jpg"
   }
 
 
