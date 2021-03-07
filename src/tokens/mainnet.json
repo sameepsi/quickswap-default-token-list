@@ -403,7 +403,7 @@
 
   {
     "name": "Celsius",
-    "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
+    "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
     "symbol": "CEL",
     "decimals": 4,
     "chainId": 137,
