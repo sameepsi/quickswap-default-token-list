@@ -488,6 +488,14 @@
     "decimals": 9,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/deflect_32.png?=v1"
+  },
+  {
+    "name": "Dark Matter Token",
+    "address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
+    "symbol": "DMT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://darkmatter.finance/i/favicon/512x512.png"
   }
 
 
