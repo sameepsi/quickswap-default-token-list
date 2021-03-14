@@ -440,6 +440,62 @@
     "decimals": 0,
     "chainId": 137,
     "logoURI": "https://pbs.twimg.com/profile_images/1318783238291292160/R4DxXdRA_400x400.jpg"
+  },
+  {
+    "name": "SuperFarm",
+    "address": "0xa1428174F516F527fafdD146b883bB4428682737",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
+  },
+  {
+    "name": "Standard",
+    "address": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
+    "symbol": "xMARK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png"
+  },
+  {
+    "name": "DEFI Top 5 Tokens Index",
+    "address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
+    "symbol": "DEFI5",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/uVGtugL.png"
+  },
+  {
+    "name": "DokiDokiAzuki",
+    "address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
+    "symbol": "AZUKI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png"
+  },
+  {
+    "name": "Holyheld",
+    "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
+    "symbol": "HH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626"
+  },
+  {
+    "name": "Holyheld",
+    "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
+    "symbol": "HH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626"
+  },
+  {
+    "name": "Matic Deflect Protocol",
+    "address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
+    "symbol": "mDEF",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/deflect_32.png?=v1"
   }
 
 
