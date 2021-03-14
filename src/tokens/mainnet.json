@@ -451,7 +451,7 @@
   },
   {
     "name": "Standard",
-    "address": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
+    "address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
     "symbol": "xMARK",
     "decimals": 18,
     "chainId": 137,
@@ -480,15 +480,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626"
-  },
-  {
-    "name": "Holyheld",
-    "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
-    "symbol": "HH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626"
-  },
+  }
   {
     "name": "Matic Deflect Protocol",
     "address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
