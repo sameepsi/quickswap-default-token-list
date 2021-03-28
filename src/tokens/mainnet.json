@@ -512,6 +512,38 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/FR12tmm.jpg"
+  },
+  {
+    "name": "Wise Token",
+    "address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
+    "symbol": "WISE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/wisetoken_32.png"
+  },
+  {
+    "name": "Cryptocurrency Top Tokens Index",
+    "address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
+    "symbol": "CC10",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/indexed-cc10_32.png"
+  },
+  {
+    "name": "Ocean Token",
+    "address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+    "symbol": "mOCEAN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://oceanprotocol.com/static/4ad704a150d436a1f32d495413fc47cd/favicon-white.png"
+  },
+  {
+    "name": "Zeus",
+    "address": "0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad",
+    "symbol": "ZUZ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/zuzprotocol_32.png"
   }
 
 
