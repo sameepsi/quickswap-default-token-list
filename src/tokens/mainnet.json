@@ -544,6 +544,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/zuzprotocol_32.png"
+  },
+  {
+    "name": "BTU Protocol",
+    "address": "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
+    "symbol": "BTU",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png"
+  },
+  {
+    "name": "Wise Token",
+    "address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
+    "symbol": "WISE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/eOOhNeh.png"
   }
 
 
