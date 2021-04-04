@@ -576,6 +576,14 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/06BkcTT.png"
+  },
+  {
+    "name": "Cartesi Token",
+    "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
+    "symbol": "CTSI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/q3SnElh.png"
   }
 
 
