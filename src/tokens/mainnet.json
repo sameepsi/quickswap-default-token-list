@@ -552,6 +552,38 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png"
+  },
+  {
+    "name": "moonwolf.io",
+    "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+    "symbol": "WOLF",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/UIjlQpC.png"
+  },
+  {
+    "name": "AGA Token",
+    "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+    "symbol": "AGA",
+    "decimals": 4,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/R0aQlym.png"
+  },
+  {
+    "name": "AGA Rewards",
+    "address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
+    "symbol": "AGAr",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/06BkcTT.png"
+  },
+  {
+    "name": "AGA Rewards",
+    "address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
+    "symbol": "AGAr",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/06BkcTT.png"
   }
 
 
