@@ -571,14 +571,6 @@
   },
   {
     "name": "AGA Rewards",
-    "address": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d",
-    "symbol": "AGAr",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/06BkcTT.png"
-  },
-  {
-    "name": "AGA Rewards",
     "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
     "symbol": "AGAr",
     "decimals": 8,
