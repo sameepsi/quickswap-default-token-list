@@ -584,6 +584,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/q3SnElh.png"
+  },
+  {
+    "name": "Telcoin",
+    "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+    "symbol": "TEL",
+    "decimals": 2,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/933388441475194881/57fOk40N_400x400.jpg"
   }
 
 
