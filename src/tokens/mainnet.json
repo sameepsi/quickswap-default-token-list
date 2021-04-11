@@ -592,6 +592,22 @@
     "decimals": 2,
     "chainId": 137,
     "logoURI": "https://pbs.twimg.com/profile_images/933388441475194881/57fOk40N_400x400.jpg"
+  },
+  {
+    "name": "Gains V2",
+    "address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
+    "symbol": "GFARM2",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://gains.farm/images/logo256.png"
+  },
+  {
+    "name": "NFT Platform Index",
+    "address": "0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
+    "symbol": "NFTP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/NFTP.png"
   }
 
 
