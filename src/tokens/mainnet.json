@@ -608,6 +608,46 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/NFTP.png"
+  },
+  {
+    "name": "Aave",
+    "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/aave_32.png"
+  },
+  {
+    "name": "Fusion",
+    "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+    "symbol": "FSN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://cryptologos.cc/logos/fusion-fsn-logo.png?v=010"
+  },
+  {
+    "name": "Anyswap",
+    "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+    "symbol": "ANY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-128-white.svg"
+  },
+  {
+    "name": "PLOT",
+    "address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+    "symbol": "PLOT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/nQDG9AQ.png"
+  },
+  {
+    "name": "Opu Coin",
+    "address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
+    "symbol": "OPU",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://www.opucoin.io/wp-content/uploads/2021/04/opu-coiin-icon-border.svg"
   }
 
 
