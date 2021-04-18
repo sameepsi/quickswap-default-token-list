@@ -619,7 +619,7 @@
   },
   {
     "name": "Fusion",
-    "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
     "symbol": "FSN",
     "decimals": 18,
     "chainId": 137,
@@ -627,7 +627,7 @@
   },
   {
     "name": "Anyswap",
-    "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
     "symbol": "ANY",
     "decimals": 18,
     "chainId": 137,
