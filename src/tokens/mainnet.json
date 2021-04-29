@@ -56,22 +56,6 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
   },
   {
-    "name": "Easy USDC",
-    "address": "0x4eBdE54ba404bE158262EDe801744b92b9878c61",
-    "symbol": "eUSDC",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
-  },
-  {
-    "name": "EASY",
-    "address": "0xDb3b3b147A030F032633f6C4BEBf9a2fB5a882B5",
-    "symbol": "EASY",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
-  },
-  {
     "name": "OM",
     "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
     "symbol": "OM",
@@ -176,14 +160,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
   },
   {
-    "name": "Easy DAI",
-    "address": "0xa1C09C8F4f5D03fcC27b456475d53d988e98D7C5",
-    "symbol": "eDAI",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
-  },
-  {
     "name": "Swirge",
     "address": "0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b",
     "symbol": "SWG",
@@ -278,14 +254,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg"
-  },
-  {
-    "name": "Easy USDT",
-    "address": "0xfc39742Fe9420a7Af23757Fc7E78D1c3AE4A9474",
-    "symbol": "eUSDT",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
   },
   {
     "name": "Ether",
@@ -648,6 +616,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://www.opucoin.io/wp-content/uploads/2021/04/opu-coiin-icon-border.svg"
+  },
+  {
+    "name": "Krill",
+    "address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
+    "symbol": "Krill",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/REyP9yh.jpg"
   }
 
 
