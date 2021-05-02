@@ -624,7 +624,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/REyP9yh.jpg"
+  },
+  {
+    "name": "Uranium",
+    "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+    "symbol": "U",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://www.manhattan.finance/logo.png"
   }
-
-
 ]
