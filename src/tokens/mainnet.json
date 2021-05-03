@@ -624,6 +624,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/REyP9yh.jpg"
+  },
+  {
+    "name": "miMATIC",
+    "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+    "symbol": "miMATIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://github.com/0xlaozi/qidao/blob/main/images/mimatic-red.png"
   }
 
 
