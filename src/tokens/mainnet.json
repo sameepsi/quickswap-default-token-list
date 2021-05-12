@@ -632,7 +632,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/ncleoTN.png"
+  },
+  {
+    "name": "PolyDoge",
+    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "symbol": "PolyDoge",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/eLoPHbt.png"
   }
-
-
 ]
