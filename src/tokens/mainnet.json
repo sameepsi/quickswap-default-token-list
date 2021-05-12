@@ -632,7 +632,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/ncleoTN.png"
+  },
+  {
+    "name": "Lif",
+    "address": "0x5b3455590Ec7F5a25119885Ed62aFBA9bC2e5D65",
+    "symbol": "LIF",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/windingtree/branding/master/lif/png/lif-logo.png"
   }
-
-
 ]
