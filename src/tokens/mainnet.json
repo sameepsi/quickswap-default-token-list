@@ -665,6 +665,15 @@
     "chainId": 137,
     "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
   }
+  ,
+  {
+    "name": "EthermonToken",
+    "address": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
+    "symbol": "EMON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
+  }
 
 
 ]
