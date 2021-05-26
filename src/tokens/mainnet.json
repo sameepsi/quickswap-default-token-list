@@ -704,6 +704,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
+  },
+  {
+    "name": "UniLend Finance Token",
+    "address": "0x5B4CF2C120A9702225814E18543ee658c5f8631e",
+    "symbol": "UFT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
   }
 
 
