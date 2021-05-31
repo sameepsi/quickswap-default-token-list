@@ -527,7 +527,7 @@
     "symbol": "WOLF",
     "decimals": 9,
     "chainId": 137,
-    "logoURI": "https://i.imgur.com/UIjlQpC.png"
+    "logoURI": "https://i.postimg.cc/PfLb0ssB/wolf-black.png"
   },
   {
     "name": "AGA Token",
@@ -632,6 +632,78 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/ncleoTN.png"
+  },
+  {
+    "name": "beefy.finance",
+    "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
+  },
+  {
+    "name": "Qi Dao",
+    "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+    "symbol": "QI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/qi.png"
+  },
+  {
+    "name": "miMATIC",
+    "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+    "symbol": "miMATIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
+  },
+  {
+    "name": "PolyDoge",
+    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "symbol": "PolyDoge",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
+  },
+  {
+    "name": "EthermonToken",
+    "address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+    "symbol": "EMON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
+  },
+  {
+    "name": "Polywolf",
+    "address": "0xc56d17dD519e5eB43a19C9759b5D5372115220BD",
+    "symbol": "MOON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.postimg.cc/CxvzF5bJ/moon-black.png"
+  },
+  {
+    "name": "Adamant",
+    "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+    "symbol": "ADDY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://adamant.finance/img/adamant.png"
+  },
+  {
+    "name": "QuickChart",
+    "address": "0x99dA82C5464C49962Cdda44fe30d352Bc5Da0580",
+    "symbol": "QuickChart",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/jv5A0eX.png"
+  },
+  {
+    "name": "Orbit Bridge Polygon AUTOv2",
+    "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
+    "symbol": "PAUTO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
   },
   {
     "name": "Lif",
