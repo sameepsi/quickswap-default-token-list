@@ -704,7 +704,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
+  },
+  {
+    "name": "Lif",
+    "address": "0x5b3455590Ec7F5a25119885Ed62aFBA9bC2e5D65",
+    "symbol": "LIF",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/windingtree/branding/master/lif/png/lif-logo.png"
   }
-
-
 ]
