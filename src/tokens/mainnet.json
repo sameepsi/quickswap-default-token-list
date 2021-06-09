@@ -779,14 +779,6 @@
   },
   {
     "name": "Eleven.finance",
-    "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
-    "symbol": "ELE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"
-  },
-  {
-    "name": "Eleven.finance",
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "symbol": "ELE",
     "decimals": 18,
