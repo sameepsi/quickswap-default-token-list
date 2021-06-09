@@ -760,6 +760,46 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://cdn.rupeeto.com/images/rupeeto-symbol.jpeg"
+  },
+  {
+    "name": "Gravity Finance",
+    "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
+    "symbol": "GFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15871/small/GFI-Icon.png?1622178588"
+  },
+  {
+    "name": "ChumHum",
+    "address": "0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca",
+    "symbol": "CHUM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/66lM7Rx.png"
+  },
+  {
+    "name": "Eleven.finance",
+    "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+    "symbol": "ELE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"
+  },
+  {
+    "name": "Eleven.finance",
+    "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+    "symbol": "ELE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"
+  },
+  {
+    "name": "CRV",
+    "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
   }
 
 
