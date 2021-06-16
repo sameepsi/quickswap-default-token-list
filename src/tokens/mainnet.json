@@ -792,7 +792,61 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
+  },
+  {
+    "name": "Orbit Bridge Polygon Binance Coin",
+    "address": "0x7e9928aFe96FefB820b85B4CE6597B8F660Fe4F4",
+    "symbol": "PBNB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
+  },
+  {
+    "name": "IOI Token",
+    "address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",
+    "symbol": "IOI",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15952/small/IOI.jpg?1622514420"
+  },
+  {
+    "name": "Ethernity Chain",
+    "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
+    "symbol": "ERN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14238/small/ethernity_logo.png?1615189750"
+  },
+  {
+    "name": "RAMP",
+    "address": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",
+    "symbol": "RAMP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://rampdefi.com/assets/RAMP_LOGO_V4_256.png"
+  },
+  {
+    "name": "rUSD",
+    "address": "0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5",
+    "symbol": "rUSD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://rampdefi.com/assets/rUSD-Logo-200.png"
+  },
+  {
+    "name": "Memecoin",
+    "address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
+    "symbol": "MEM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png"
+  },
+  {
+    "name": "Wrapped BUSD",
+    "address": "0x87ff96aba480f1813aF5c780387d8De7cf7D8261",
+    "symbol": "WBUSD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
   }
-
-
 ]
