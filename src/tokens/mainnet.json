@@ -856,5 +856,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/Jo6QWz7.png"
+  },
+  {
+    "name": "Wootrade Network",
+    "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+    "symbol": "WOO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg"
   }
 ]
