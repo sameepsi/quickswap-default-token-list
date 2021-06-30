@@ -714,22 +714,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
   },
   {
-    "name": "IRON Stablecoin",
-    "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
-    "symbol": "IRON",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://ironfi.s3.amazonaws.com/images/IRON.png"
-  },
-  {
-    "name": "IRON Titanium Token",
-    "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
-    "symbol": "TITAN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://ironfi.s3.amazonaws.com/images/TITAN.png"
-  },
-  {
     "name": "ZeroSwapToken",
     "address": "0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C",
     "symbol": "ZEE",
