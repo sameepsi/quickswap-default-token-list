@@ -893,7 +893,7 @@
     "name": "ChainGuardians Governance Token",
     "address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
     "symbol": "CGG",
-    "decimals": 4,
+    "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14326/small/cgg_logo.png?1615429976"
   }
