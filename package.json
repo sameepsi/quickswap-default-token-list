@@ -1,6 +1,6 @@
 {
   "name": "quickswap-default-token-list",
-  "version": "1.0.71",
+  "version": "1.0.72",
   "description": "◦ The Quickswap default token list",
   "main": "build/quickswap-default.tokenlist.json",
   "scripts": {

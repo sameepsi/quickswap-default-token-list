@@ -896,5 +896,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14326/small/cgg_logo.png?1615429976"
+  },
+  {
+    "name": "Polygon BUNNY Token",
+    "address": "0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a",
+    "symbol": "polyBUNNY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/PancakeBunny-finance/PolygonBUNNY/main/assets/token-bunny_32x32.png"
+  },
+  {
+    "name": "GemBites",
+    "address": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
+    "symbol": "GBTS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/D7nDtJK/Gem-Bites32x32.png"
   }
 ]
