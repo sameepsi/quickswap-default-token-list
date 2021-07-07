@@ -912,5 +912,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/D7nDtJK/Gem-Bites32x32.png"
+  },
+  {
+    "name": "The Force Token",
+    "address": "0x546b4c391520E6652897c65153074088BFC0A909",
+    "symbol": "FOR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/8242/small/for.png?1606195375"
+  },
+  {
+    "name": "renDOGE",
+    "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+    "symbol": "renDOGE",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13796/small/renDOGE.png?1611897869"
   }
 ]
