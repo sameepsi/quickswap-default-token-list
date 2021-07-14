@@ -735,7 +735,7 @@
     "symbol": "IQ",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://i.imgur.com/2Tocoq5.png"
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/IQ.png"
   },
   {
     "name": "Rupeeto",
