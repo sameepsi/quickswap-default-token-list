@@ -968,5 +968,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png"
+  },
+  {
+    "name": "Gnosis Token",
+    "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
+    "symbol": "GNO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
   }
 ]
