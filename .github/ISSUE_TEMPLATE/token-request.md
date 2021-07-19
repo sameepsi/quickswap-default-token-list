@@ -12,11 +12,12 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Token Address: 
+Token Address(Ethereum):
+Token Address(Polygon):
 Token Name (from contract): 
 Token Decimals (from contract): 
 Token Symbol (from contract): 
-Pair Address of Token: 
+Pair Address of Token on QuickSwap: 
 
 Link to the official homepage of token:
 Link to CoinMarketCap or CoinGecko page of token: 
