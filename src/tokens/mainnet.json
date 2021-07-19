@@ -971,7 +971,7 @@
   },
   {
     "name": "Gnosis Token",
-    "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
+    "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
     "symbol": "GNO",
     "decimals": 18,
     "chainId": 137,
