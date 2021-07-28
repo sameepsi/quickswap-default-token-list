@@ -738,14 +738,6 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/IQ.png"
   },
   {
-    "name": "Rupeeto",
-    "address": "0xde485931674F4EdD3Ed3bf22e86E7d3C7D5347a1",
-    "symbol": "INRP",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://cdn.rupeeto.com/images/rupeeto-symbol.jpeg"
-  },
-  {
     "name": "Gravity Finance",
     "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
     "symbol": "GFI",
@@ -1024,5 +1016,69 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://yamp.finance/img/yamp_logo.svg"
+  },
+  {
+    "name": "Augury Finance",
+    "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+    "symbol": "OMEN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://augury.finance/_nuxt/img/omen.b433161.png"
+  },
+  {
+    "name": "kogecoin.io",
+    "address": "0x13748d548D95D78a3c83fe3F32604B4796CFfa23",
+    "symbol": "KOGECOIN",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://kogefarm.io/koge-logo-01.png"
+  },
+  {
+    "name": "MeebMaster.com Token",
+    "address": "0x64aFDF9e28946419E325d801Fb3053d8B8FFdC23",
+    "symbol": "MEEB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/tmPoZ1D.png"
+  },
+  {
+    "name": "Impermax",
+    "address": "0x60bB3D364B765C497C8cE50AE0Ae3f0882c5bD05",
+    "symbol": "IMX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygon.impermax.finance/build/assets/icons/0x60bb3d364b765c497c8ce50ae0ae3f0882c5bd05.png"
+  },
+  {
+    "name": "Avalanche Token",
+    "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+    "symbol": "YAMP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://yamp.finance/img/yamp_logo.svg"
+  },
+  {
+    "name": "Helmet.insure on Polygon",
+    "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+    "symbol": "Guard",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/VtDIzy7.png"
+  },
+  {
+    "name": "YEL Token",
+    "address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+    "symbol": "YEL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/cwfndaf.png"
+  },
+  {
+    "name": "pSwampy",
+    "address": "0x5f1657896B38c4761dbc5484473c7A7C845910b6",
+    "symbol": "pSwamp",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://swamp.finance/static/frontend/img/symbols/pswamp.svg"
   }
 ]
