@@ -1052,7 +1052,7 @@
   {
     "name": "Avalanche Token",
     "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
-    "symbol": "YAMP",
+    "symbol": "AVX",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://yamp.finance/img/yamp_logo.svg"
