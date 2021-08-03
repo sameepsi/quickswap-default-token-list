@@ -1055,7 +1055,7 @@
     "symbol": "AVAX",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
+    "logoURI": "      "
   },
   {
     "name": "Helmet.insure on Polygon",
@@ -1080,5 +1080,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://swamp.finance/static/frontend/img/symbols/pswamp.svg"
+  },
+  {
+    "name": "Relay Token",
+    "address": "0x904371845Bc56dCbBcf0225ef84a669b2fD6bd0d",
+    "symbol": "RELAY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://starter.xyz/Relay.png"
+  },
+  {
+    "name": "HuobiToken",
+    "address": "0xFAD65Eb62a97fF5Ed91B23aFD039956aaCa6e93b",
+    "symbol": "HT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
+  },
+  {
+    "name": "BNB",
+    "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+    "symbol": "BNB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
   }
 ]
