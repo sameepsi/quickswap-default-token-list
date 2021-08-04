@@ -1055,7 +1055,7 @@
     "symbol": "AVAX",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "      "
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
   },
   {
     "name": "Helmet.insure on Polygon",
@@ -1088,5 +1088,45 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://starter.xyz/Relay.png"
+  },
+  {
+    "name": "O3 Swap Token",
+    "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+    "symbol": "O3",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://o3.network/assets/images/logo.png"
+  },
+  {
+    "name": "Adshares",
+    "address": "0x598e49f01bEfeB1753737934a5b11fea9119C796",
+    "symbol": "ADS",
+    "decimals": 11,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png"
+  },
+  {
+    "name": "EASY V2",
+    "address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
+    "symbol": "EZ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/easyfi_32.png?v=2"
+  },
+  {
+    "name": "DinoX Coin",
+    "address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+    "symbol": "DNXC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://dinox.io/images/asset_icon_dnx.png"
+  },
+  {
+    "name": "PoolTogether",
+    "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+    "symbol": "POOL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
   }
 ]
