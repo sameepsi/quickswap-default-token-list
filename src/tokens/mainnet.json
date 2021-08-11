@@ -1130,14 +1130,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
   },
   {
-    "name": "OpenOcean",
-    "address": "0xcBbF49E5065537843a7dcFDF8f49116B2DeB5a0f",
-    "symbol": "OOE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://cloudstorage.openocean.finance/image/ooe_log.png"
-  },
-  {
     "name": "MODEFI",
     "address": "0x8346Ab8d5EA7A9Db0209aEd2d1806AFA0E2c4C21",
     "symbol": "MOD",
