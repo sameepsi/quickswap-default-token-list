@@ -1095,7 +1095,7 @@
     "symbol": "O3",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://o3.network/assets/images/logo.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/15460/small/o3.png?1620904316"
   },
   {
     "name": "Adshares",
@@ -1128,5 +1128,45 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
+  },
+  {
+    "name": "OpenOcean",
+    "address": "0xcBbF49E5065537843a7dcFDF8f49116B2DeB5a0f",
+    "symbol": "OOE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://cloudstorage.openocean.finance/image/ooe_log.png"
+  },
+  {
+    "name": "MODEFI",
+    "address": "0x8346Ab8d5EA7A9Db0209aEd2d1806AFA0E2c4C21",
+    "symbol": "MOD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://modefi.io/images/modefi256.png"
+  },
+  {
+    "name": "LoserchickEgg",
+    "address": "0x245e5ddb65eFea6522Fa913229dF1f4957fB2e21",
+    "symbol": "EGG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png"
+  },
+  {
+    "name": "loserchick",
+    "address": "0x9e725Cf7265D12fd5f59499AFf1258CA92CAc74d",
+    "symbol": "CHICK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
+  },
+  {
+    "name": "Huobi Token",
+    "address": "0xA731349fa468614c1698fc46ebf06Da6F380239e",
+    "symbol": "HT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
   }
 ]
