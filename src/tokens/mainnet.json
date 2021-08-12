@@ -1160,5 +1160,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
+  },
+  {
+    "name": "Wrapped Ubiq",
+    "address": "0xb1c5C9b97B35592777091cD34fFff141ae866AbD",
+    "symbol": "WUBQ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Ubiq-UBQ-icon.png"
   }
 ]
