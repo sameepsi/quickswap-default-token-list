@@ -650,9 +650,9 @@
     "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/qi.png"
   },
   {
-    "name": "miMATIC",
+    "name": "MAI",
     "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
-    "symbol": "miMATIC",
+    "symbol": "MAI",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
