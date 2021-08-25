@@ -1202,14 +1202,6 @@
     "logoURI": "https://cloudstorage.openocean.finance/image/ooe_log.png"
   },
   {
-    "name": "Monavale",
-    "address": "0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
-    "symbol": "MONA",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/13298/small/monavale_logo.jpg?1607232721"
-  },
-  {
     "name": "MoonEdge",
     "address": "0x7E4c577ca35913af564ee2a24d882a4946Ec492B",
     "symbol": "MOONED",
