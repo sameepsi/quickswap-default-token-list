@@ -1239,7 +1239,7 @@
     "symbol": "MASK",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://dimensiondev.github.io/Maskbook-VI/assets/Logo/MB--Logo--CombH-Circle--White.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14051/small/Mask_Network.jpg?1614050316"
   },
   {
     "name": "Darwinia",
@@ -1303,7 +1303,7 @@
     "symbol": "CNTR",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://i.imgur.com/cH3LOBD.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12743/small/logo_%2898%29.png?1602630445"
   },
   {
     "name": "Polytrade",
