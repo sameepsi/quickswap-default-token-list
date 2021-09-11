@@ -1384,5 +1384,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/18197/small/snk.png?1630979321"
+  },
+  {
+    "name": "Daily COP",
+    "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+    "symbol": "DLYCOP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://github.com/miDaily/Daily-COP/raw/main/logo.png"
   }
 ]
