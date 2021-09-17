@@ -1386,6 +1386,62 @@
     "logoURI": "https://assets.coingecko.com/coins/images/18197/small/snk.png?1630979321"
   },
   {
+    "name": "Binance Token",
+    "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
+    "symbol": "BNB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
+  },
+  {
+    "name": "ETHA",
+    "address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
+    "symbol": "ETHA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14141/small/etha_logo200x200.png?1614646986"
+  },
+  {
+    "name": "Morpheus Infrastructure Token",
+    "address": "0x31042A4E66eDa0d12143ffc8cC1552D611dA4cbA",
+    "symbol": "MITx",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3164/small/mitx.png?1604888269"
+  },
+  {
+    "name": "Zerogoki USD",
+    "address": "0x5668F6d40E15188045a1dE6295054103C13ffAc1",
+    "symbol": "zUSD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17028/small/iconUSD.png?1626619046"
+  },
+  {
+    "name": "Zerogoki Token",
+    "address": "0xB9f9e37c2CdbaFF928C3Da730b02F06fE09aE70E",
+    "symbol": "REI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921"
+  },
+  {
+    "name": "Phoenix Token",
+    "address": "0x9C6BfEdc14b5C23E3900889436Edca7805170f01",
+    "symbol": "PHX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17675/small/phx_logo.png?1628832432"
+  },
+  {
+    "name": "OddzToken",
+    "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+    "symbol": "ODDZ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14421/small/img_circle_200x200.png?1617345151"
+  },
+  {
     "name": "Daily COP",
     "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
     "symbol": "DLYCOP",
