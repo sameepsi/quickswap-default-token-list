@@ -64,14 +64,6 @@
     "logoURI": "https://etherscan.io/token/images/mantradao_32.png"
   },
   {
-    "name": "Must",
-    "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
-    "symbol": "MUST",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/cometh_32.png"
-  },
-  {
     "name": "Frax",
     "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
     "symbol": "FRAX",
@@ -166,14 +158,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/swirge_32.png"
-  },
-  {
-    "name": "Rebalance Token",
-    "address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
-    "symbol": "RBAL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
   },
   {
     "name": "SportX",
@@ -311,22 +295,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/vZnU36G.png"
-  },
-  {
-    "name": "Dark.Build",
-    "address": "0x0e59D50adD2d90f5111aca875baE0a72D95B4762",
-    "symbol": "DB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://dark-build.app/logo192.png"
-  },
-  {
-    "name": "ZeroUtility",
-    "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
-    "symbol": "ZUT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://s2.gifyu.com/images/zutlogo.jpg"
   },
   {
     "name": "Unibright",
@@ -691,7 +659,7 @@
   },
   {
     "name": "QuickChart",
-    "address": "0x99dA82C5464C49962Cdda44fe30d352Bc5Da0580",
+    "address": "0x0Af77B096cbDF53B5c39c2fcff8F14C5E3a36356",
     "symbol": "QuickChart",
     "decimals": 9,
     "chainId": 137,
@@ -1440,5 +1408,45 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14421/small/img_circle_200x200.png?1617345151"
+  },
+  {
+    "name": "DeFi11",
+    "address": "0xc58158c14D4757EF36Ce25e493758F2fcEEDec5D",
+    "symbol": "D11",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11147.png"
+  },
+  {
+    "name": "PolkaBridge",
+    "address": "0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0",
+    "symbol": "PBR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13744/small/symbol-whitebg200x200.png?1611377553"
+  },
+  {
+    "name": "MaticVerse",
+    "address": "0x0B313b4C589A3BD3350f625f2e94DC80AB50017E",
+    "symbol": "Mverse",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18403/small/A0782-F05-535-C-45-C8-BE4-F-FEBB4-B8-B5933.jpg?1631792934"
+  },
+  {
+    "name": "Cryptomeda",
+    "address": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
+    "symbol": "TECH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17983/small/Profile_picture_white.jpg?1630149169"
+  },
+  {
+    "name": "GAMEE",
+    "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+    "symbol": "GMEE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14716/small/gmee-200x200.png?1621827468"
   }
 ]
