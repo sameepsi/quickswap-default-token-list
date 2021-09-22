@@ -120,14 +120,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
   },
   {
-    "name": "0xBitcoin Token",
-    "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
-    "symbol": "0xBTC",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
-  },
-  {
     "name": "EthLend Token",
     "address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
     "symbol": "LEND",
@@ -329,15 +321,6 @@
     "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
   },
   {
-    "name": "Pepedex",
-    "address": "0x127984b5E6d5c59f81DACc9F1C8b3Bdc8494572e",
-    "symbol": "PPDEX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2"
-  },
-
-  {
     "name": "Celsius",
     "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
     "symbol": "CEL",
@@ -402,22 +385,6 @@
     "logoURI": "https://i.imgur.com/uVGtugL.png"
   },
   {
-    "name": "DokiDokiAzuki",
-    "address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
-    "symbol": "AZUKI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png"
-  },
-  {
-    "name": "Holyheld",
-    "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
-    "symbol": "HH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626"
-  },
-  {
     "name": "Matic Deflect Protocol",
     "address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
     "symbol": "mDEF",
@@ -474,22 +441,6 @@
     "logoURI": "https://oceanprotocol.com/static/4ad704a150d436a1f32d495413fc47cd/favicon-white.png"
   },
   {
-    "name": "Zeus",
-    "address": "0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad",
-    "symbol": "ZUZ",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/zuzprotocol_32.png"
-  },
-  {
-    "name": "BTU Protocol",
-    "address": "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
-    "symbol": "BTU",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png"
-  },
-  {
     "name": "moonwolf.io",
     "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
     "symbol": "WOLF",
@@ -512,14 +463,6 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/06BkcTT.png"
-  },
-  {
-    "name": "Cartesi Token",
-    "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
-    "symbol": "CTSI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/q3SnElh.png"
   },
   {
     "name": "Telcoin",
@@ -576,14 +519,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/nQDG9AQ.png"
-  },
-  {
-    "name": "Opu Coin",
-    "address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
-    "symbol": "OPU",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://www.opucoin.io/wp-content/uploads/2021/04/opu-coiin-icon-border.svg"
   },
   {
     "name": "Krill",
@@ -792,14 +727,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
-  },
-  {
-    "name": "BoringDAO",
-    "address": "0xff88434E29d1E2333aD6baa08D358b436196da6b",
-    "symbol": "BORING",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/Jo6QWz7.png"
   },
   {
     "name": "Wootrade Network",
