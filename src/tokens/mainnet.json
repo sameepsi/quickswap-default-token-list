@@ -1306,7 +1306,7 @@
   },
   {
     "name": "MaticVerse",
-    "address": "0xfeb090fcd433de479396e82db8b83a470dbad3c9",
+    "address": "0xFEb090FcD433dE479396E82DB8B83a470dbAD3c9",
     "symbol": "Mverse",
     "decimals": 18,
     "chainId": 137,
