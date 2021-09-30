@@ -144,14 +144,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
   },
   {
-    "name": "Swirge",
-    "address": "0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b",
-    "symbol": "SWG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/swirge_32.png"
-  },
-  {
     "name": "SportX",
     "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
     "symbol": "SX",
@@ -257,14 +249,6 @@
     "logoURI": "https://i.imgur.com/IIUglm9.png?1"
   },
   {
-    "name": "Sentinel",
-    "address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
-    "symbol": "SENT",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://cdn-images-1.medium.com/max/1200/1*mK1oPGsQWh4Nfupg-e0S-g.png"
-  },
-  {
     "name": "Elementeum",
     "address": "0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4",
     "symbol": "ELET",
@@ -337,14 +321,6 @@
     "logoURI": "https://aria.fyi/images/Aria_Logo_256.png"
   },
   {
-    "name": "CyberFi Token",
-    "address": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
-    "symbol": "CFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/Z8V1O7H.png"
-  },
-  {
     "name": "DSLA",
     "address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639",
     "symbol": "DSLA",
@@ -383,14 +359,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/uVGtugL.png"
-  },
-  {
-    "name": "Matic Deflect Protocol",
-    "address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
-    "symbol": "mDEF",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/deflect_32.png?=v1"
   },
   {
     "name": "Dark Matter Token",
@@ -480,15 +448,7 @@
     "chainId": 137,
     "logoURI": "https://gains.farm/images/logo256.png"
   },
-  {
-    "name": "NFT Platform Index",
-    "address": "0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
-    "symbol": "NFTP",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/NFTP.png"
-  },
-  {
+ {
     "name": "Aave",
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "symbol": "AAVE",
@@ -647,14 +607,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15871/small/GFI-Icon.png?1622178588"
-  },
-  {
-    "name": "ChumHum",
-    "address": "0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca",
-    "symbol": "CHUM",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/66lM7Rx.png"
   },
   {
     "name": "Eleven.finance",
@@ -1354,7 +1306,7 @@
   },
   {
     "name": "MaticVerse",
-    "address": "0x0B313b4C589A3BD3350f625f2e94DC80AB50017E",
+    "address": "0xFEb090FcD433dE479396E82DB8B83a470dbAD3c9",
     "symbol": "Mverse",
     "decimals": 18,
     "chainId": 137,
@@ -1377,11 +1329,51 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14716/small/gmee-200x200.png?1621827468"
   },
   {
+    "name": "YfDAI.finance",
+    "address": "0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8",
+    "symbol": "Yf-DAI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12385/small/1619048513068.png?1622193581"
+  },
+  {
+    "name": "Mobius Token",
+    "address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
+    "symbol": "MOT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18144/small/11322.png?1630668459"
+  },
+  {
+    "name": "NASDEX Token",
+    "address": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+    "symbol": "NSDX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18634/small/nadex.PNG?1632727863"
+  },
+  {
+    "name": "SifChain",
+    "address": "0xa7051C5a22d963b81D71C2BA64D46a877fBc1821",
+    "symbol": "EROWAN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14044/small/EROWAN.png?1614656300"
+  },
+  {
+    "name": "Cosmos",
+    "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+    "symbol": "ATOM",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960"
+  },
+  {
     "name": "Million",
     "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
     "symbol": "MM",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/logo200x200.png"
-  }  
+  }
 ]
