@@ -1367,5 +1367,37 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960"
+  },
+  {
+    "name": "yieldwatch",
+    "address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2",
+    "symbol": "WATCH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14186/small/WATCH1.png?1614825718"
+  },
+  {
+    "name": "Monsoon Finance",
+    "address": "0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
+    "symbol": "MCASH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18632/small/DdcZZeP_%282%29.png?1632716316"
+  },
+  {
+    "name": "Forest Knight",
+    "address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+    "symbol": "KNIGHT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18441/small/Coin_Forest_Knight_200x200.png?1632480031"
+  },
+  {
+    "name": "Jarvis Reward Token",
+    "address": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5",
+    "symbol": "JRT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/b8086dbc7040582d1412effe7a951914d4a96eef/blockchains/ethereum/assets/0x8A9C67fee641579dEbA04928c4BC45F66e26343A/logo.png"
   }
 ]
