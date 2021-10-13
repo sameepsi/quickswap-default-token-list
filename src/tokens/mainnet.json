@@ -1209,14 +1209,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/16185/small/Pera.jpg?1623238387"
   },
   {
-    "name": "Iris",
-    "address": "0xdaB35042e63E93Cc8556c9bAE482E5415B5Ac4B1",
-    "symbol": "IRIS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://www.hermesdefi.io/hermes-logo-1.png"
-  },
-  {
     "name": "X-Cash",
     "address": "0x03678f2c2c762DC63c2Bb738c3a837D366eDa560",
     "symbol": "XCash",
