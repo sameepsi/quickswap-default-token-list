@@ -120,14 +120,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
   },
   {
-    "name": "EthLend Token",
-    "address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
-    "symbol": "LEND",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
-  },
-  {
     "name": "ChainLink Token",
     "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
     "symbol": "LINK",
@@ -231,15 +223,6 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
-
-  {
-    "name": "Matic Rebalance Token",
-    "address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
-    "symbol": "mRBAL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://rebalancetoken.io/images/logo/logo.png"
-  },
   {
     "name": "GAME Credits",
     "address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
@@ -329,36 +312,12 @@
     "logoURI": "https://storage.googleapis.com/stacktical-public/dsla.png"
   },
   {
-    "name": "Digital Reserve Currency",
-    "address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
-    "symbol": "DRC",
-    "decimals": 0,
-    "chainId": 137,
-    "logoURI": "https://pbs.twimg.com/profile_images/1318783238291292160/R4DxXdRA_400x400.jpg"
-  },
-  {
     "name": "SuperFarm",
     "address": "0xa1428174F516F527fafdD146b883bB4428682737",
     "symbol": "SUPER",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
-  },
-  {
-    "name": "Standard",
-    "address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
-    "symbol": "xMARK",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png"
-  },
-  {
-    "name": "DEFI Top 5 Tokens Index",
-    "address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
-    "symbol": "DEFI5",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/uVGtugL.png"
   },
   {
     "name": "Dark Matter Token",
@@ -391,14 +350,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/wisetoken_32.png"
-  },
-  {
-    "name": "Cryptocurrency Top Tokens Index",
-    "address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
-    "symbol": "CC10",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/indexed-cc10_32.png"
   },
   {
     "name": "Ocean Token",
@@ -455,14 +406,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/aave_32.png"
-  },
-  {
-    "name": "Fusion",
-    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-    "symbol": "FSN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://cryptologos.cc/logos/fusion-fsn-logo.png?v=010"
   },
   {
     "name": "Anyswap",
@@ -593,22 +536,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/15761/small/xg1NFl0.png?1621825451"
   },
   {
-    "name": "Everipedia IQ",
-    "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
-    "symbol": "IQ",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/IQ.png"
-  },
-  {
-    "name": "Gravity Finance",
-    "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
-    "symbol": "GFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/15871/small/GFI-Icon.png?1622178588"
-  },
-  {
     "name": "Eleven.finance",
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "symbol": "ELE",
@@ -695,14 +622,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://starter.xyz/logo_poly_sym.png"
-  },
-  {
-    "name": "polySAFU",
-    "address": "0x26f6Cb841F9D4D72b68D7dCb6fDB5d6C832dD2A7",
-    "symbol": "SAFU",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16074/small/polysafu.PNG?1622770619"
   },
   {
     "name": "HONOR",
