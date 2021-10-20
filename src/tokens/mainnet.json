@@ -424,14 +424,6 @@
     "logoURI": "https://i.imgur.com/nQDG9AQ.png"
   },
   {
-    "name": "Krill",
-    "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
-    "symbol": "Krill",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/REyP9yh.jpg"
-  },
-  {
     "name": "Fish",
     "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
     "symbol": "FISH",
@@ -640,14 +632,6 @@
     "logoURI": "https://falconswap.com/assets/img/logo/logo.png"
   },
   {
-    "name": "YAYO Coin",
-    "address": "0xf7058856f405542cd660e8ce4751248F2d037f2B",
-    "symbol": "YAYO",
-    "decimals": 4,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/YayoCorp/yayo-assets/master/avatar.png"
-  },
-  {
     "name": "ChainGuardians Governance Token",
     "address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
     "symbol": "CGG",
@@ -750,14 +734,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452"
-  },
-  {
-    "name": "PUSD",
-    "address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
-    "symbol": "PUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16762/small/PUSD-purple-200.png?1624937879"
   },
   {
     "name": "DinoSwap",
@@ -1366,5 +1342,45 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/16733/small/REGEN.png?1624861317"
+  },
+  {
+    "name": "DefiPulse Index",
+    "address": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
+    "symbol": "DPI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053"
+  },
+  {
+    "name": "Fantom Token",
+    "address": "0xB85517b87BF64942adf3A0B9E4c71E4Bc5Caa4e5",
+    "symbol": "FTM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016"
+  },
+  {
+    "name": "Dogelon",
+    "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+    "symbol": "ELON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413"
+  },
+  {
+    "name": "SHIBA INU",
+    "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
+  },
+  {
+    "name": "DeSpace Protocol",
+    "address": "0xa062fc09cA6bdeb2f6E3b77E1d4e09C42C964742",
+    "symbol": "DES",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
   }
 ]
