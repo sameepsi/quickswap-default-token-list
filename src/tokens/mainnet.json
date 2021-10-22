@@ -1382,5 +1382,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
+  },
+  {
+    "name": "StrongNodeEdge Token",
+    "address": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+    "symbol": "SNE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12258.png"
   }
 ]
