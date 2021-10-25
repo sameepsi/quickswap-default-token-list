@@ -1390,5 +1390,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12258.png"
+  },
+  {
+    "name": "Golem Network Token",
+    "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
+    "symbol": "GLM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/542/small/Golem_Submark_Positive_RGB.png?1606392013"
   }
 ]
