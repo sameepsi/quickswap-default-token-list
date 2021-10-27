@@ -1390,5 +1390,45 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12258.png"
+  },
+  {
+    "name": "Decentral Games ICE",
+    "address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
+    "symbol": "ICE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18110/small/ice-poker.png?1630500966"
+  },
+  {
+    "name": "PureFi Token",
+    "address": "0x3c205c8b3e02421da82064646788c82f7bd753b9",
+    "symbol": "UFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
+  },
+  {
+    "name": "TETU Reward Token",
+    "address": "0x255707B70BF90aa112006E1b07B9AeA6De021424",
+    "symbol": "TETU",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17882/small/gradient_icon_926.png?1629707907"
+  },
+  {
+    "name": "Gains Network",
+    "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+    "symbol": "GNS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://gains.trade/images/logo.png"
+  },
+  {
+    "name": "ScaleSwapToken",
+    "address": "0x11a819beb0aa3327e39f52f90d65cc9bca499f33",
+    "symbol": "SCA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16360/small/thumbnail_1170823958_vertical_logo_lateral_radiance.png?1623810516"
   }
 ]
