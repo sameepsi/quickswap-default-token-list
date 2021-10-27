@@ -1425,7 +1425,7 @@
   },
   {
     "name": "ScaleSwapToken",
-    "address": "0x11a819beb0aa3327e39f52f90d65cc9bca499f33",
+    "address": "0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33",
     "symbol": "SCA",
     "decimals": 18,
     "chainId": 137,
