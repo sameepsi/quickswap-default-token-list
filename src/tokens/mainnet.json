@@ -1401,7 +1401,7 @@
   },
   {
     "name": "PureFi Token",
-    "address": "0x3c205c8b3e02421da82064646788c82f7bd753b9",
+    "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
     "symbol": "UFI",
     "decimals": 18,
     "chainId": 137,
