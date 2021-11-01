@@ -1424,6 +1424,14 @@
     "logoURI": "https://gains.trade/images/logo.png"
   },
   {
+    "name": "Million",
+    "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+    "symbol": "MM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/logo200x200.png"
+  },
+  {
     "name": "ScaleSwapToken",
     "address": "0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33",
     "symbol": "SCA",
