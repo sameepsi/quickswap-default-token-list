@@ -391,14 +391,6 @@
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/telcoin_28.png"
   },
-  {
-    "name": "Gains V2",
-    "address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
-    "symbol": "GFARM2",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://gains.farm/images/logo256.png"
-  },
  {
     "name": "Aave",
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
@@ -512,14 +504,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
   },
   {
-    "name": "ZeroSwapToken",
-    "address": "0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C",
-    "symbol": "ZEE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://pbs.twimg.com/profile_images/1366339230683652096/sit30Uuo_400x400.png"
-  },
-  {
     "name": "Future of Finance Fund",
     "address": "0x9aCeB6f749396d1930aBc9e263eFc449E5e82c13",
     "symbol": "FFF",
@@ -542,14 +526,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
-  },
-  {
-    "name": "Orbit Bridge Polygon Binance Coin",
-    "address": "0x7e9928aFe96FefB820b85B4CE6597B8F660Fe4F4",
-    "symbol": "PBNB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
   },
   {
     "name": "IOI Token",
@@ -613,7 +589,7 @@
     "symbol": "START",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://starter.xyz/logo_poly_sym.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14301/small/logo_poly_sym.png?1624893386"
   },
   {
     "name": "HONOR",
@@ -1430,5 +1406,63 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/16360/small/thumbnail_1170823958_vertical_logo_lateral_radiance.png?1623810516"
+  },
+  {
+    "name": "DeRace Token",
+    "address": "0xB35fcBCF1fD489fCe02Ee146599e893FDCdC60e6",
+    "symbol": "DERC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17438/small/derace-logo-black-coingecko.png?1627656907"
+  },
+  {
+    "name": "Hanu Yokia",
+    "address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
+    "symbol": "HANU",
+    "decimals": 12,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17161/small/Goji_Hanu_Logo_200x200.png?1627127472"
+  },
+  {
+    "name": "FireStarter",
+    "address": "0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5",
+    "symbol": "FLAME",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17359/small/Logo_black_%282%29.png?1634095075"
+  },
+  {
+    "name": "GameStation",
+    "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+    "symbol": "GAMER",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19584/small/game_station.PNG?1635471603"
+  },
+  {
+    "name": "AutoMatic",
+    "address": "0x3eB177A6693eC81d1E170136f8AD02fffBE172a7",
+    "symbol": "AUMI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19413/small/automatic.PNG?1635212504"
+  },
+  {
+    "name": "Continuum",
+    "address": "0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a",
+    "symbol": "UM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18798/small/Moneda.png?1633474110"
+  },
+  {
+    "name": "Wall Street Games",
+    "address": "0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87",
+    "symbol": "WSG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/BDibHLm.png"
   }
+
+
 ]
