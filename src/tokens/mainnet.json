@@ -144,78 +144,6 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
   },
   {
-    "name": "Matic Aave interest bearing USDC",
-    "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
-    "symbol": "maUSDC",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maUSDC.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing DAI",
-    "address": "0xE0b22E0037B130A9F56bBb537684E6fA18192341",
-    "symbol": "maDAI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maDAI.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing WETH",
-    "address": "0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142",
-    "symbol": "maWETH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maWETH.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing AAVE",
-    "address": "0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
-    "symbol": "maAAVE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maAAVE.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing LINK",
-    "address": "0x98ea609569bD25119707451eF982b90E3eb719cD",
-    "symbol": "maLINK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maLINK.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing USDT",
-    "address": "0xDAE5F1590db13E3B40423B5b5c5fbf175515910b",
-    "symbol": "maUSDT",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maUSDT.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing TUSD",
-    "address": "0xF4b8888427b00d7caf21654408B7CBA2eCf4EbD9",
-    "symbol": "maTUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maTUSD.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing UNI",
-    "address": "0x8c8bdBe9CeE455732525086264a4Bf9Cf821C498",
-    "symbol": "maUNI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maUNI.svg"
-  },
-  {
-    "name": "Matic Aave interest bearing YFI",
-    "address": "0xe20f7d1f0eC39C4d5DB01f53554F2EF54c71f613",
-    "symbol": "maYFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg"
-  },
-  {
     "name": "Ether",
     "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
     "symbol": "ETH",
@@ -568,14 +496,6 @@
     "logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png"
   },
   {
-    "name": "Wrapped BUSD",
-    "address": "0x87ff96aba480f1813aF5c780387d8De7cf7D8261",
-    "symbol": "WBUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
-  },
-  {
     "name": "Wootrade Network",
     "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
     "symbol": "WOO",
@@ -662,14 +582,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15825/small/fear-logo-400-400.png?1625552865"
-  },
-  {
-    "name": "Bytom minted",
-    "address": "0xA16EbA3b7562FC92597579A80Fe53a92DCab7122",
-    "symbol": "mBTM",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/q0LZUrw.png"
   },
   {
     "name": "renDGB",
@@ -805,7 +717,7 @@
     "symbol": "RELAY",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://starter.xyz/Relay.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/17816/small/relay-logo-200.png?1629339288"
   },
   {
     "name": "O3 Swap Token",
@@ -862,14 +774,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png"
-  },
-  {
-    "name": "loserchick",
-    "address": "0x9e725Cf7265D12fd5f59499AFf1258CA92CAc74d",
-    "symbol": "CHICK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
   },
   {
     "name": "Huobi Token",
@@ -1038,14 +942,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/809/small/v2logo-1.png?1624906282"
-  },
-  {
-    "name": "renBTC",
-    "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
-    "symbol": "renBTC",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/11370/small/Bitcoin.jpg?1628072791"
   },
   {
     "name": "Orbs",
@@ -1462,7 +1358,85 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/BDibHLm.png"
+  },
+  {
+    "name": "JPY Coin",
+    "address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492"
+  },
+  {
+    "name": "Genesis",
+    "address": "0x51869836681BcE74a514625c856aFb697a013797",
+    "symbol": "GENESIS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19905/small/kKkWmniB_400x400.jpg?1636100432"
+  },
+  {
+    "name": "Lympo Market Token",
+    "address": "0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C",
+    "symbol": "LMT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15155/small/coin_%282%29.png?1619995483"
+  },
+  {
+    "name": "MacaronSwap Token",
+    "address": "0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40",
+    "symbol": "MCRN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14633/small/macaron.png?1623038435"
+  },
+  {
+    "name": "pTokens PNT",
+    "address": "0xB6bcae6468760bc0CDFb9C8ef4Ee75C9dd23e1Ed",
+    "symbol": "PNT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/11659/small/pNetwork.png?1592411134"
+  },
+  {
+    "name": "pTokens BTC",
+    "address": "0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947",
+    "symbol": "pBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/10805/small/J51iIea.png?1583891599"
+  },
+  {
+    "name": "HBAR[0x]",
+    "address": "0x1646C835d70F76D9030DF6BaAeec8f65c250353d",
+    "symbol": "HBAR[0x]",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3688/small/mqTDGK7Q.png?1566256777"
+  },
+  {
+    "name": "Million",
+    "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+    "symbol": "MM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16825/small/logo200x200.png?1625834139"
+  },
+  {
+    "name": "NFT Champions",
+    "address": "0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f",
+    "symbol": "CHAMP",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19536/small/champ.png?1635905981"
+  },
+  {
+    "name": "Wall Street Games",
+    "address": "0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87",
+    "symbol": "WSG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/BDibHLm.png"
   }
-
-
 ]
