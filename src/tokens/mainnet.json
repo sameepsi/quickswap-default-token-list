@@ -1430,5 +1430,21 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19536/small/champ.png?1635905981"
+  },
+  {
+    "name": "Kirobo",
+    "address": "0xB382C1cfA622795a534e5bd56Fac93d59BAc8B0D",
+    "symbol": "KIRO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12688/small/QmScxyKBwqbGJZmp38EwaoRpXbzPkq3tvuMjeuJE1YLZeG.png?1601672684"
+  },
+  {
+    "name": "Render Token",
+    "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+    "symbol": "RNDR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/11636/small/uTDd98ZN_400x400.jpg?1592200150"
   }
 ]
