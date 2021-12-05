@@ -1494,5 +1494,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14796/small/zignaly.jpg?1618496339"
+  },
+  {
+    "name": "GOGOcoin",
+    "address": "0xdD2AF2E723547088D3846841fbDcC6A8093313d6",
+    "symbol": "GOGO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://gogocoin-assets.s3.eu-central-1.amazonaws.com/gogoticker.png"
   }
 ]
