@@ -1558,21 +1558,5 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19479/small/agEUR.png?1635283566"
-  },
-  {
-    "name": "GoBlank Token",
-    "address": "0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435",
-    "symbol": "BLANK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14209/small/blank.png?1614940842"
-  },
-  {
-    "name": "GoBlank Token",
-    "address": "0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435",
-    "symbol": "BLANK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14209/small/blank.png?1614940842"
   }
 ]
