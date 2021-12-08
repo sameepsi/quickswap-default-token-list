@@ -913,7 +913,7 @@
   },
   {
     "name": "Wrapped LUNA Token",
-    "address": "0x74946a114ca2b26267983ef51ad8664cabde4034",
+    "address": "0x74946A114ca2B26267983ef51aD8664Cabde4034",
     "symbol": "LUNA",
     "decimals": 18,
     "chainId": 137,
