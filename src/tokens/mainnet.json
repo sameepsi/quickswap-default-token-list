@@ -208,28 +208,12 @@
     "logoURI": "https://raw.githubusercontent.com/harvestfi/assets/main/farm-logo.png"
   },
   {
-    "name": "Frax Share",
-    "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
-    "symbol": "FXS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
-  },
-  {
     "name": "Celsius",
     "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
     "symbol": "CEL",
     "decimals": 4,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753"
-  },
-  {
-    "name": "ARIANEE",
-    "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
-    "symbol": "ARIA20",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://aria.fyi/images/Aria_Logo_256.png"
   },
   {
     "name": "DSLA",
@@ -432,28 +416,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
   },
   {
-    "name": "Future of Finance Fund",
-    "address": "0x9aCeB6f749396d1930aBc9e263eFc449E5e82c13",
-    "symbol": "FFF",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/15761/small/xg1NFl0.png?1621825451"
-  },
-  {
     "name": "Eleven.finance",
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "symbol": "ELE",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"
-  },
-  {
-    "name": "CRV",
-    "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
-    "symbol": "CRV",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"
   },
   {
     "name": "IOI Token",
@@ -600,14 +568,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png"
   },
   {
-    "name": "Gnosis Token",
-    "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
-    "symbol": "GNO",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
-  },
-  {
     "name": "Bella",
     "address": "0x28C388FB1F4fa9F9eB445f0579666849EE5eeb42",
     "symbol": "BEL",
@@ -704,14 +664,6 @@
     "logoURI": "https://i.imgur.com/cwfndaf.png"
   },
   {
-    "name": "pSwampy",
-    "address": "0x5f1657896B38c4761dbc5484473c7A7C845910b6",
-    "symbol": "pSwamp",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://swamp.finance/static/frontend/img/symbols/pswamp.svg"
-  },
-  {
     "name": "Relay Token",
     "address": "0x904371845Bc56dCbBcf0225ef84a669b2fD6bd0d",
     "symbol": "RELAY",
@@ -774,14 +726,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png"
-  },
-  {
-    "name": "Huobi Token",
-    "address": "0xA731349fa468614c1698fc46ebf06Da6F380239e",
-    "symbol": "HT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
   },
   {
     "name": "Crosschain IOTX",
@@ -1014,14 +958,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/3164/small/mitx.png?1604888269"
-  },
-  {
-    "name": "Zerogoki USD",
-    "address": "0x5668F6d40E15188045a1dE6295054103C13ffAc1",
-    "symbol": "zUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17028/small/iconUSD.png?1626619046"
   },
   {
     "name": "Zerogoki Token",
