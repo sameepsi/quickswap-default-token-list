@@ -1494,5 +1494,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19479/small/agEUR.png?1635283566"
+  },
+  {
+    "name": "99Starz",
+    "address": "0x2c92a8A41f4b806a6f6F1F7C9D9DEc78DCd8c18e",
+    "symbol": "STZ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21467/small/n1fqEYRI_400x400.png?1639345175"
   }
 ]
