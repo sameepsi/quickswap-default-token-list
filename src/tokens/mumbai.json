@@ -1,7 +1,7 @@
 [
   {
     "name": "Wrapped Matic",
-    "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+    "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 80001,
@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 80001,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "SAND",
+    "address": "0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025",
+    "symbol": "SAND",
+    "decimals": 18,
+    "chainId": 80001,
+    "logoURI": "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942"
   }
 ]
