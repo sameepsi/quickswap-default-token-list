@@ -74,7 +74,7 @@
   {
     "name": "decentral.games",
     "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
-    "symbol": "$DG",
+    "symbol": "DG",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://polygonscan.com/token/images/decentralgame_32.png?v=5"
@@ -232,22 +232,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
   },
   {
-    "name": "Dark Matter Token",
-    "address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
-    "symbol": "DMT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://darkmatter.finance/i/favicon/512x512.png"
-  },
-  {
-    "name": "DEGEN Index",
-    "address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
-    "symbol": "DEGEN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/DEGEN_LOGO.png"
-  },
-  {
     "name": "Monavale",
     "address": "0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
     "symbol": "MONA",
@@ -278,22 +262,6 @@
     "decimals": 9,
     "chainId": 137,
     "logoURI": "https://i.postimg.cc/PfLb0ssB/wolf-black.png"
-  },
-  {
-    "name": "AGA Token",
-    "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
-    "symbol": "AGA",
-    "decimals": 4,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/R0aQlym.png"
-  },
-  {
-    "name": "AGA Rewards",
-    "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
-    "symbol": "AGAr",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/06BkcTT.png"
   },
   {
     "name": "Telcoin",
@@ -376,14 +344,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
   },
   {
-    "name": "Polywolf",
-    "address": "0xc56d17dD519e5eB43a19C9759b5D5372115220BD",
-    "symbol": "MOON",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.postimg.cc/CxvzF5bJ/moon-black.png"
-  },
-  {
     "name": "Adamant",
     "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
     "symbol": "ADDY",
@@ -422,14 +382,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"
-  },
-  {
-    "name": "IOI Token",
-    "address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",
-    "symbol": "IOI",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/15952/small/IOI.jpg?1622514420"
   },
   {
     "name": "Ethernity Chain",
@@ -486,14 +438,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10620.png"
-  },
-  {
-    "name": "FalconSwap Token",
-    "address": "0xad5dc12E88C6534Eea8cFe2265851D9d4A1472AD",
-    "symbol": "FSW",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://falconswap.com/assets/img/logo/logo.png"
   },
   {
     "name": "ChainGuardians Governance Token",
@@ -720,14 +664,6 @@
     "logoURI": "https://modefi.io/images/modefi256.png"
   },
   {
-    "name": "LoserchickEgg",
-    "address": "0x245e5ddb65eFea6522Fa913229dF1f4957fB2e21",
-    "symbol": "EGG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png"
-  },
-  {
     "name": "Crosschain IOTX",
     "address": "0x300211Def2a644b036A9bdd3e58159bb2074d388",
     "symbol": "CIOTX",
@@ -794,7 +730,7 @@
   {
     "name": "AnRKey X",
     "address": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
-    "symbol": "$ANRX",
+    "symbol": "ANRX",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13415/small/anrkey.jpg?1608311301"
@@ -849,7 +785,7 @@
   },
   {
     "name": "Wrapped UST Token",
-    "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+    "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
     "symbol": "UST",
     "decimals": 18,
     "chainId": 137,
@@ -1502,5 +1438,85 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/21467/small/n1fqEYRI_400x400.png?1639345175"
+  },
+  {
+    "name": "TOMB",
+    "address": "0x0e98C977B943f06075b2D795794238fBfB9b9a34",
+    "symbol": "TOMB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16133/small/tomb_icon_noBG.png?1623055476"
+  },
+  {
+    "name": "Otter Clam",
+    "address": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
+    "symbol": "CLAM2",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png?1637548092"
+  },
+  {
+    "name": "Fodl",
+    "address": "0x5314bA045a459f63906Aa7C76d9F337DcB7d6995",
+    "symbol": "FODL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19040/small/new.jpg?1634559024"
+  },
+  {
+    "name": "PolyPug",
+    "address": "0xF13bfC42bFcc421Db1fD471EC49Bb865Cede7270",
+    "symbol": "PolyPug",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21582/small/200x200_%2845%29.png?1639533031"
+  },
+  {
+    "name": "Mysterium",
+    "address": "0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3",
+    "symbol": "MYST",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/757/small/mysterium.png?1547034503"
+  },
+  {
+    "name": "THX Network",
+    "address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
+    "symbol": "THX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21323/small/logo-thx-resized-200-200.png?1638945575"
+  },
+  {
+    "name": "Waves Ducks",
+    "address": "0x51dE72b17c7bD12E9E6d69eb506a669EB6b5249E",
+    "symbol": "EGG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17298/small/200x200_pixel.png?1627288546"
+  },
+  {
+    "name": "SHEESHA POLYGON",
+    "address": "0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D",
+    "symbol": "mSHEESHA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1427241161417060359/uHXKH64w_400x400.jpg"
+  },
+  {
+    "name": "Orion Money Token (Wormhole)",
+    "address": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+    "symbol": "ORION",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png?1632710781"
+  },
+  {
+    "name": "Wrapped ONE",
+    "address": "0x80c0CBDB8d0B190238795d376f0bD57fd40525F2",
+    "symbol": "WONE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793"
   }
 ]
