@@ -1518,5 +1518,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793"
+  },
+  {
+    "name": "ParaSwap",
+    "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+    "symbol": "PSP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/20403/small/ep7GqM19_400x400.jpg?1636979120"
   }
 ]
