@@ -787,7 +787,7 @@
     "name": "Wrapped UST Token",
     "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
     "symbol": "UST",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407"
   },
