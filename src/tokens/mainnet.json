@@ -1368,6 +1368,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14796/small/zignaly.jpg?1618496339"
   },
   {
+    "name": "GOVI",
+    "address": "0x43df9c0a1156c96cea98737b511ac89d0e2a1f46",
+    "symbol": "GOVI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/cvifinance_32.png"
+  },
+  {
     "name": "GAIA Everworld",
     "address": "0x723B17718289A91AF252D616DE2C77944962d122",
     "symbol": "GAIA",
