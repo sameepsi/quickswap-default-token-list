@@ -1566,5 +1566,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/22198/small/download.png?1641192480"
+  },
+  {
+    "name": "Quadrant Protocol",
+    "address": "0xdab625853c2b35d0a9c6bd8e5a097a664ef4ccfb",
+    "symbol": "EQUAD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/4462/small/equad.png?1547039783"
   }
 ]
