@@ -1662,5 +1662,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/VDPBwHS/cx-ETH-128x128.png"
+  },
+  {
+    "name": "Milk",
+    "address": "0x1599fE55Cda767b1F631ee7D414b41F5d6dE393d",
+    "symbol": "MILK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/6FDxmPG/milk-coin.png"
   }
 ]
