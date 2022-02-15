@@ -1638,5 +1638,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14686/small/sofi.png?1640249595"
+  },
+  {
+    "name": "CelsiusX Wrapped ADA",
+    "address": "0x64875Aaa68d1d5521666C67d692Ee0B926b08b2F",
+    "symbol": "cxADA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/x3RcB6Q/cx-ADA-128x128.png"
+  },
+  {
+    "name": "CelsiusX Wrapped DOGE",
+    "address": "0x9Bd9aD490dD3a52f096D229af4483b94D63BE618",
+    "symbol": "cxDOGE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/FH1GMYX/cx-DOGE-128x128.png"
+  },
+  {
+    "name": "CelsiusX Wrapped ETH",
+    "address": "0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9",
+    "symbol": "cxETH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/VDPBwHS/cx-ETH-128x128.png"
   }
 ]
