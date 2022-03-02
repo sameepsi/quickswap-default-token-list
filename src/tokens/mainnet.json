@@ -728,14 +728,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407"
   },
   {
-    "name": "Wrapped LUNA Token",
-    "address": "0x74946A114ca2B26267983ef51aD8664Cabde4034",
-    "symbol": "LUNA",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
-  },
-  {
     "name": "Centaur Token",
     "address": "0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5",
     "symbol": "CNTR",
@@ -1734,5 +1726,53 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/22535/small/17200.png?1642023748"
+  },
+  {
+    "name": "Fancy Games",
+    "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+    "symbol": "FNC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21367/small/fnc.png?1639025576"
+  },
+  {
+    "name": "ETH 2x Flexible Leverage Index",
+    "address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
+    "symbol": "ETH2x-FLI-P",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21183/small/ETH2x-FLO_token_logo.jpg?1638512434"
+  },
+  {
+    "name": "Fuse",
+    "address": "0xF915fDDa4c882731C0456a4214548Cd13A822886",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
+  },
+  {
+    "name": "ARTH Valuecoin",
+    "address": "0xE52509181FEb30EB4979E29EC70D50FD5C44D590",
+    "symbol": "ARTH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
+  },
+  {
+    "name": "Unbound Dollar",
+    "address": "0x1eBA4B44C4F8cc2695347C6a78F0B7a002d26413",
+    "symbol": "UND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19932/small/und.PNG?1636325217"
+  },
+  {
+    "name": "LUNA (Wormhole)",
+    "address": "0x9cd6746665D9557e1B9a775819625711d0693439",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
   }
 ]
