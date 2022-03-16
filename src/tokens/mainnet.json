@@ -1774,5 +1774,37 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
+  },
+  {
+    "name": "PlanetIX",
+    "address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+    "symbol": "IXT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555"
+  },
+  {
+    "name": "PENT",
+    "address": "0x283366bb42ef49a994913BAF22263c6562e588a4",
+    "symbol": "PENT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23493/small/small-logo.png?1644221697"
+  },
+  {
+    "name": "Banana",
+    "address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/17521/small/banana-token-cg.png?1646285527"
+  },
+  {
+    "name": "Sphere Finance",
+    "address": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
+    "symbol": "SPHERE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png"
   }
 ]
