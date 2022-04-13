@@ -1894,5 +1894,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/24739/small/kek.png?1648769879"
+  },
+  {
+    "name": "Lido DAO Token",
+    "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+    "symbol": "LDO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png?1609873644"
   }
 ]
