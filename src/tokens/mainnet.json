@@ -112,14 +112,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
   },
   {
-    "name": "yearn.finance",
-    "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
-    "symbol": "YFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
-  },
-  {
     "name": "ChainLink Token",
     "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
     "symbol": "LINK",
@@ -134,14 +126,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
-  },
-  {
-    "name": "SportX",
-    "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
-    "symbol": "SX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
   },
   {
     "name": "Ether",
@@ -214,14 +198,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://storage.googleapis.com/stacktical-public/dsla.png"
-  },
-  {
-    "name": "SuperFarm",
-    "address": "0xa1428174F516F527fafdD146b883bB4428682737",
-    "symbol": "SUPER",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
   },
   {
     "name": "Monavale",
@@ -390,14 +366,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg"
-  },
-  {
-    "name": "BSCstarter",
-    "address": "0x6Ccf12B480A99C54b23647c995f4525D544A7E72",
-    "symbol": "START",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14301/small/logo_poly_sym.png?1624893386"
   },
   {
     "name": "Polygon BUNNY Token",
@@ -672,14 +640,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14051/small/Mask_Network.jpg?1614050316"
   },
   {
-    "name": "Darwinia",
-    "address": "0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f",
-    "symbol": "Ring",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/9443/small/RING.png?1615271827"
-  },
-  {
     "name": "The Crypto Prophecies",
     "address": "0x032F85b8FbF8540a92B986d953e4C3A61C76d39E",
     "symbol": "TCP",
@@ -766,14 +726,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/16185/small/Pera.jpg?1623238387"
-  },
-  {
-    "name": "X-Cash",
-    "address": "0x03678f2c2c762DC63c2Bb738c3a837D366eDa560",
-    "symbol": "XCash",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/6331/small/5fbb9e5b8f27d74dd8bcb912_xcash_coingecko_logo.png?1606133752"
   },
   {
     "name": "Snook",
@@ -1054,14 +1006,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/18110/small/ice-poker.png?1630500966"
-  },
-  {
-    "name": "PureFi Token",
-    "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
-    "symbol": "UFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
   },
   {
     "name": "TETU Reward Token",
@@ -1505,7 +1449,7 @@
   },
   {
     "name": "AurusSILVER",
-    "address": "0x24aD14A4f0BB79a9dcf201514CB0E651C79DB76B",
+    "address": "0xA96D47c621a8316d4F9539E3B38180C7067e84CA",
     "symbol": "AWS",
     "decimals": 18,
     "chainId": 137,
@@ -1902,5 +1846,61 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png?1609873644"
+  },
+  {
+    "name": "TryHards",
+    "address": "0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D",
+    "symbol": "TRY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12225.png"
+  },
+  {
+    "name": "PDSHARE",
+    "address": "0x3068382885602FC0089aeC774944b5ad6123ae60",
+    "symbol": "PDSHARE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24963/small/pdshare.png?1649574782"
+  },
+  {
+    "name": "Stader",
+    "address": "0x1d734A02eF1e1f5886e66b0673b71Af5B53ffA94",
+    "symbol": "SD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/20658/small/sd.png?1642927667"
+  },
+  {
+    "name": "Liquid Staking Matic",
+    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg"
+  },
+  {
+    "name": "Arable Protocol",
+    "address": "0x011734f6Ed20E8D011d85Cf7894814B897420acf",
+    "symbol": "ACRE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23659/small/acre_token-02.png?1644989289"
+  },
+  {
+    "name": "Goo",
+    "address": "0x6F3Cc27E17a0f2e52D8e7693FF0d892Cea1854bF",
+    "symbol": "GOO",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://playgooeys.com/GOO-200x200.png"
+  },
+  {
+    "name": "Pleasure Coin",
+    "address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
+    "symbol": "NSFW",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15315/small/pleasurecoin-icon.png?1648724879"
   }
 ]
