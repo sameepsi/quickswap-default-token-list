@@ -40,7 +40,7 @@
     "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
   },
   {
-    "name": "Quickswap",
+    "name": "QuickSwap(OLD)",
     "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
     "symbol": "QUICK(OLD)",
     "decimals": 18,
@@ -48,7 +48,7 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
   },
   {
-    "name": "Quickswap",
+    "name": "QuickSwap(NEW)",
     "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
     "symbol": "QUICK(NEW)",
     "decimals": 18,
