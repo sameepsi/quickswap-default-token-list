@@ -53,7 +53,7 @@
     "symbol": "QUICK(NEW)",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/QUICK_NEW.svg"
+    "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
   },
   {
     "name": "Uniswap",
@@ -1910,5 +1910,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15315/small/pleasurecoin-icon.png?1648724879"
+  },
+  {
+    "name": "PolysportsToken",
+    "address": "0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518",
+    "symbol": "PS1",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25070/small/L-T2x_cG_400x400.jpg?1650024620"
+  },
+  {
+    "name": "Emanate",
+    "address": "0x3fB256CFefedb6A54De7465c0EE86dC574AE464D",
+    "symbol": "EMT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/4152/small/emanate.png?1558422824"
+  },
+  {
+    "name": "Lucidao",
+    "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+    "symbol": "LCD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
   }
 ]
