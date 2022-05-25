@@ -1934,5 +1934,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+  },
+  {
+    "name": "CelsiusX Wrapped BTC",
+    "address": "0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2",
+    "symbol": "cxBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/3fQ0Vx9/Group-66.png"
+  },
+  {
+    "name": "BetSwirl Token",
+    "address": "0x9246a5F10A79a5a939b0C2a75A3AD196aAfDB43b",
+    "symbol": "BETS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+  },
+  {
+    "name": "Crypto Volatility Token",
+    "address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
+    "symbol": "CVOL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24008/small/govi-dao.03ef3083.png?1646029661"
   }
 ]
