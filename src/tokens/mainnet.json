@@ -1958,5 +1958,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/24008/small/govi-dao.03ef3083.png?1646029661"
+  },
+  {
+    "name": "Decentralized USD",
+    "address": "0xFFA4D863C96e743A2e1513824EA006B8D0353C57",
+    "symbol": "USDD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25380/small/UUSD.jpg?1651823371"
+  },
+  {
+    "name": "TrueUSD",
+    "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665"
   }
 ]
