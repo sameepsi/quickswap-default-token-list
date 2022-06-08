@@ -320,14 +320,6 @@
     "logoURI": "https://adamant.finance/img/adamant.png"
   },
   {
-    "name": "QuickChart",
-    "address": "0x0Af77B096cbDF53B5c39c2fcff8F14C5E3a36356",
-    "symbol": "QuickChart",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/jv5A0eX.png"
-  },
-  {
     "name": "Ethernity Chain",
     "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
     "symbol": "ERN",
@@ -446,14 +438,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/14770/small/1617088937196.png?1619414736"
-  },
-  {
-    "name": "YAMP.FINANCE",
-    "address": "0x87f654c4b347230C60CAD8d7ea9cF0D7238bcc79",
-    "symbol": "YAMP",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://yamp.finance/img/yamp_logo.svg"
   },
   {
     "name": "Augury Finance",
@@ -758,14 +742,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/3164/small/mitx.png?1604888269"
-  },
-  {
-    "name": "Zerogoki Token",
-    "address": "0xB9f9e37c2CdbaFF928C3Da730b02F06fE09aE70E",
-    "symbol": "REI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921"
   },
   {
     "name": "Phoenix Token",
@@ -1200,14 +1176,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/18941/small/starchi.jpg?1633961292"
   },
   {
-    "name": "ZigCoin",
-    "address": "0x7BeBd226154E865954A87650FAefA8F485d36081",
-    "symbol": "ZIG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14796/small/zignaly.jpg?1618496339"
-  },
-  {
     "name": "GAIA Everworld",
     "address": "0x723B17718289A91AF252D616DE2C77944962d122",
     "symbol": "GAIA",
@@ -1390,14 +1358,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/21692/small/NF_nshare_2_200x200.png?1639721239"
-  },
-  {
-    "name": "UniArts Network Token",
-    "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
-    "symbol": "UART",
-    "decimals": 12,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/22092/small/3Rx82r_w_400x400.png?1640823145"
   },
   {
     "name": "Moss Carbon Credit",
@@ -1726,14 +1686,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17521/small/banana-token-cg.png?1646285527"
-  },
-  {
-    "name": "Sphere Finance",
-    "address": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
-    "symbol": "SPHERE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png"
   },
   {
     "name": "Attack",
