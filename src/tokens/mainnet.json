@@ -72,14 +72,6 @@
     "logoURI": "https://etherscan.io/token/images/mantradao_32.png"
   },
   {
-    "name": "Frax",
-    "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
-    "symbol": "FRAX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
-  },
-  {
     "name": "decentral.games",
     "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
     "symbol": "DG",
@@ -821,7 +813,7 @@
     "symbol": "TECH",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17983/small/Profile_picture_white.jpg?1630149169"
+    "logoURI": "https://i.imgur.com/71B4h8s.png"
   },
   {
     "name": "GAMEE",
@@ -1974,5 +1966,37 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665"
+  },
+  {
+    "name": "Ripae",
+    "address": "0x8063037ea50E4a066bF1430EA1E3e609CD5cEf6B",
+    "symbol": "PAE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23420/small/logo192_%282%29.png?1644194954"
+  },
+  {
+    "name": "pMATIC",
+    "address": "0xA0dF47432d9d88bcc040E9ee66dDC7E17A882715",
+    "symbol": "pMATIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://matic.ripae.finance/static/media/ripae_pftm.1a3fe2b4.svg"
+  },
+  {
+    "name": "GAX Liquidity Token Reward",
+    "address": "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc",
+    "symbol": "GLTR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/qMMwsK7/gltr-token.png"
+  },
+  {
+    "name": "Frax",
+    "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/token/images/frax_32.png"
   }
 ]
