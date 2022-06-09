@@ -424,6 +424,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452"
   },
   {
+    "name": "Million",
+    "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+    "symbol": "MM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/logo200x200.png"
+  },
+  {
     "name": "DinoSwap",
     "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
     "symbol": "DINO",
