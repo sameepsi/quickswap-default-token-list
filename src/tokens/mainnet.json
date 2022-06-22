@@ -144,14 +144,6 @@
     "logoURI": "https://i.imgur.com/IIUglm9.png?1"
   },
   {
-    "name": "Elementeum",
-    "address": "0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4",
-    "symbol": "ELET",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherlegends.com/ELET.png"
-  },
-  {
     "name": "HEXX",
     "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
     "symbol": "HEX",
@@ -632,14 +624,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/15054/small/tcp.PNG?1619579195"
   },
   {
-    "name": "Angel",
-    "address": "0x0B6afe834dab840335F87d99b45C2a4bd81A93c7",
-    "symbol": "ANGEL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17739/small/Polylauncher_-_200_x_200.png?1629121147"
-  },
-  {
     "name": "Unreal Governance Token",
     "address": "0xBa4c54Ea2d66b904C82847A7d2357d22B857E812",
     "symbol": "UGT",
@@ -880,14 +864,6 @@
     "logoURI": "https://pbs.twimg.com/profile_images/1443182135410634754/l1wH-p3b_400x400.jpg"
   },
   {
-    "name": "Aluna",
-    "address": "0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A",
-    "symbol": "ALN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14379/small/uaLoLU8c_400x400_%281%29.png?1627873106"
-  },
-  {
     "name": "Persistence",
     "address": "0xb3b9c016AD1E9f7EFdAE451b04EF696e05658b32",
     "symbol": "XPRT",
@@ -958,14 +934,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
-  },
-  {
-    "name": "DeSpace Protocol",
-    "address": "0xa062fc09cA6bdeb2f6E3b77E1d4e09C42C964742",
-    "symbol": "DES",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
   },
   {
     "name": "StrongNodeEdge Token",
@@ -1254,14 +1222,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/16133/small/tomb_icon_noBG.png?1623055476"
-  },
-  {
-    "name": "Otter Clam",
-    "address": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
-    "symbol": "CLAM",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png?1637548092"
   },
   {
     "name": "Fodl",
@@ -1557,7 +1517,7 @@
     "symbol": "TRACE",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23266/small/93mryokp_400x400.png?1643413792"
+    "logoURI": "https://assets.coingecko.com/coins/images/23266/small/Token_Icon_02.png?1655797843"
   },
   {
     "name": "Daily COP",
@@ -1638,14 +1598,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
-  },
-  {
-    "name": "ARTH Valuecoin",
-    "address": "0xE52509181FEb30EB4979E29EC70D50FD5C44D590",
-    "symbol": "ARTH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
   },
   {
     "name": "Unbound Dollar",
@@ -1950,5 +1902,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://polygonscan.com/token/images/frax_32.png"
+  },
+  {
+    "name": "LunaFi",
+    "address": "0xCa7BF3C514d412AC12D10Eff302301A81153F557",
+    "symbol": "LFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24594/small/lfi.png?1648310927"
+  },
+  {
+    "name": "USD+",
+    "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+    "symbol": "USD+",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267"
   }
 ]
