@@ -1918,5 +1918,13 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267"
+  },
+  {
+    "name": "Revolt 2 Earn",
+    "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+    "symbol": "RVLT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19893.png"
   }
 ]
