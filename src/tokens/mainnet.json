@@ -1926,5 +1926,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19893.png"
+  },
+  {
+    "name": "Paxos Gold",
+    "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/9519/small/paxg.PNG?1568542565"
+  },
+  {
+    "name": "Algebra",
+    "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+    "symbol": "ALGB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/19580/small/13211.png?1635469023"
+  },
+  {
+    "name": "Sunflower Land",
+    "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+    "symbol": "SFL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203"
   }
 ]
