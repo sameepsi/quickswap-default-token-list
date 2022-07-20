@@ -360,14 +360,6 @@
     "logoURI": "https://raw.githubusercontent.com/PancakeBunny-finance/PolygonBUNNY/main/assets/token-bunny_32x32.png"
   },
   {
-    "name": "GemBites",
-    "address": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
-    "symbol": "GBTS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/D7nDtJK/Gem-Bites32x32.png"
-  },
-  {
     "name": "renDOGE",
     "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
     "symbol": "renDOGE",
@@ -792,14 +784,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12385/small/1619048513068.png?1622193581"
   },
   {
-    "name": "Mobius Token",
-    "address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
-    "symbol": "MOT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18144/small/11322.png?1630668459"
-  },
-  {
     "name": "NASDEX Token",
     "address": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
     "symbol": "NSDX",
@@ -984,14 +968,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/17438/small/derace-logo-black-coingecko.png?1627656907"
   },
   {
-    "name": "Hanu Yokia",
-    "address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
-    "symbol": "HANU",
-    "decimals": 12,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17161/small/Goji_Hanu_Logo_200x200.png?1627127472"
-  },
-  {
     "name": "FireStarter",
     "address": "0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5",
     "symbol": "FLAME",
@@ -1136,14 +1112,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13699/small/MASQ_Logo_Blue_Solo_Transparent.png?1616661801"
   },
   {
-    "name": "Starchi Liquid Luck",
-    "address": "0xED0bb69f9F96E8C5FffdF16c468eceC385134eA5",
-    "symbol": "ELIXIR",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18941/small/starchi.jpg?1633961292"
-  },
-  {
     "name": "GAIA Everworld",
     "address": "0x723B17718289A91AF252D616DE2C77944962d122",
     "symbol": "GAIA",
@@ -1174,14 +1142,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15829/small/photo_2021-06-04_09.36.16.jpeg?1622770606"
-  },
-  {
-    "name": "MaticLaunch",
-    "address": "0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26",
-    "symbol": "MTCL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18036/small/TQzTNi5.png?1630312183"
   },
   {
     "name": "Decentral Games Governance",
@@ -1845,7 +1805,7 @@
     "symbol": "BETS",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18453.png"
   },
   {
     "name": "Crypto Volatility Token",
@@ -1950,5 +1910,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203"
+  },
+  {
+    "name": "Prosper",
+    "address": "0x6109cB051c5C64093830121ed76272aB04bBDD7C",
+    "symbol": "PROS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13668/small/heD6cg22l3sF5VgPh4G1xC6lnKEWXJif-jbaqUpv8CDP6jbWaqn9UjBdkXWNrw1CewaQOxb8zXRdNeNJWWiUDjfsEl_d7E3bPLg4cFoilQF5TGKHfWyJlnpm3UYc9ytvRvOjxOevMuiu8-lusnNoOcwgsJpMkYWHqe322GAxLt0_30kFMVAcjEDUrOlkK6hUYi0m9P433mvNlOm.jpg?1610671732"
   }
 ]
