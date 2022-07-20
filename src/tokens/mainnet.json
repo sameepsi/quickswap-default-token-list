@@ -1688,14 +1688,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19725/small/quidd.png?1637303435"
   },
   {
-    "name": "pddollar",
-    "address": "0x146e58D34EaB0bFf7e0a63cfe9332908d680c667",
-    "symbol": "PDDOLLAR",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24962/small/pddollar.png?1649574672"
-  },
-  {
     "name": "Aavegotchi KEK",
     "address": "0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C",
     "symbol": "KEK",
@@ -1718,14 +1710,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12225.png"
-  },
-  {
-    "name": "PDSHARE",
-    "address": "0x3068382885602FC0089aeC774944b5ad6123ae60",
-    "symbol": "PDSHARE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24963/small/pdshare.png?1649574782"
   },
   {
     "name": "Stader",
