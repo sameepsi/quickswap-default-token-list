@@ -1168,6 +1168,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19479/small/agEUR.png?1635283566"
   },
   {
+    "name": "Minerva Wallet SuperToken",
+    "address": "0xC0b2983A17573660053BEEED6FDb1053107cf387",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://minerva.digital/i/MIVA-Token.svg"
+  },
+  {
     "name": "99Starz",
     "address": "0x2c92a8A41f4b806a6f6F1F7C9D9DEc78DCd8c18e",
     "symbol": "STZ",
