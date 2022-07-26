@@ -1910,5 +1910,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/26246/small/ATSRA_Token.png?1657276411"
+  },
+  {
+    "name": "ABCMETA Token",
+    "address": "0xedcfb6984a3c70501baa8b7f5421ae795ecc1496",
+    "symbol": "META",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://bafkreidgbbysungh6ef2dx3n7hpcnlv5ilrnlyd6gmam67pz3n32pvrz6a.ipfs.nftstorage.link"
   }
 ]
