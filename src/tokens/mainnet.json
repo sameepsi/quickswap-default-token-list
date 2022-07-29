@@ -272,6 +272,14 @@
     "logoURI": "https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
   },
   {
+    "name": "BBGO",
+    "address": "0x3Afe98235d680e8d7A52e1458a59D60f45F935C0",
+    "symbol": "BBG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/c9s/bbgo/main/assets/bbg-256.png"
+  },  
+  {
     "name": "Qi Dao",
     "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
     "symbol": "QI",
