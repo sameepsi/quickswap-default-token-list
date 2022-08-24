@@ -1750,5 +1750,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/24106/small/200px-cmc.png?1646376154"
+  },
+  {
+    "name": "Fridom Top Currencies",
+    "address": "0x2094BEBF8cD8c99a7595165C4de0054dD3191728",
+    "symbol": "FRTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://swiset.com/wp-content/uploads/2022/07/F02B1F1E-8F15-4245-8E60-BC33B0DF3864.png"
   }
 ]
