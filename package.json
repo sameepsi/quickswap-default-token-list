@@ -1,6 +1,6 @@
 {
   "name": "quickswap-default-token-list",
-  "version": "1.2.45",
+  "version": "1.2.46",
   "description": "◦ The Quickswap default token list",
   "main": "build/quickswap-default.tokenlist.json",
   "scripts": {
@@ -18,7 +18,6 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",

@@ -661,7 +661,7 @@
     "symbol": "TECH",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://i.imgur.com/71B4h8s.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/17983/small/tech.png?1654330771"
   },
   {
     "name": "GAMEE",
@@ -1741,7 +1741,7 @@
     "symbol": "IUX",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/26078/small/coin.png?1655886774"
+    "logoURI": "https://assets.coingecko.com/coins/images/26078/small/black_IUX-coin-logo2.png?1661767150"
   },
   {
     "name": "wLitiDAO",
@@ -1750,5 +1750,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/24106/small/200px-cmc.png?1646376154"
+  },
+  {
+    "name": "Affyn",
+    "address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
+    "symbol": "FYN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23275/small/fyn.png?1643526250"
   }
 ]
