@@ -1665,7 +1665,7 @@
   },
   {
     "name": "LunaFi",
-    "address": "0xCa7BF3C514d412AC12D10Eff302301A81153F557",
+    "address": "0x77D97db5615dFE8a2D16b38EAa3f8f34524a0a74",
     "symbol": "LFI",
     "decimals": 18,
     "chainId": 137,
@@ -1758,5 +1758,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/23275/small/fyn.png?1643526250"
+  },
+  {
+    "name": "VersaGames",
+    "address": "0x8497842420cFdbc97896C2353D75d89Fc8D5Be5D",
+    "symbol": "VERSA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25491/small/versa_token_96_96.png?1652074785"
   }
 ]
