@@ -1,6 +1,7 @@
 const { version } = require('../package.json');
 const mainnet = require('./tokens/mainnet.json');
 const mumbai = require('./tokens/mumbai.json');
+const dogechain = require('./tokens/dogechain.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -20,6 +21,7 @@ module.exports = function buildList() {
     ],
     tokens: [
       ...mainnet,
+      ...dogechain,
       ...mumbai
     ]
       // sort them by symbol for easy readability
