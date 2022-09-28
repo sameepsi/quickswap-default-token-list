@@ -1774,5 +1774,30 @@
     "decimals": 9,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/15486/small/hanzo.png?1635830733"
+  },
+  {
+    "name": "LumiiiToken",
+    "address": "0xED88227296943857409A8e0f15Ad7134e70D0F73",
+    "symbol": "LUMIII",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png"
+  },
+  {
+    "name": "Ankr MATIC Reward Bearing Certif",
+    "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+    "symbol": "aMATICc",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25742/small/a-matic-c-da4ec10dc9723e695700e25dbf8c8edf.png?1653462321"
+  },
+  {
+    "name": "Wombat",
+    "address": "0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd",
+    "symbol": "WOMBAT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/26430/small/Project_Page_Icon.png?1657930951"
   }
+  
 ]
