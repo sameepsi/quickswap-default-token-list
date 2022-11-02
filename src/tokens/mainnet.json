@@ -672,14 +672,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14716/small/gmee-200x200.png?1621827468"
   },
   {
-    "name": "YfDAI.finance",
-    "address": "0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8",
-    "symbol": "Yf-DAI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/12385/small/1619048513068.png?1622193581"
-  },
-  {
     "name": "NASDEX Token",
     "address": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
     "symbol": "NSDX",
@@ -1344,28 +1336,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14134/small/tower-circular-1000.png?1632195469"
   },
   {
-    "name": "NFT Worlds",
-    "address": "0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9",
-    "symbol": "WRLD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/22112/small/ZyBrRgfO.jpg?1640842284"
-  },
-  {
     "name": "CosplayToken",
     "address": "0x8d520c8E66091cfD6743fe37Fbe3A09505616C4b",
     "symbol": "COT",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/21294/small/brave_ZxsjzUc8xn.png?1638874098"
-  },
-  {
-    "name": "Wrapped METIS",
-    "address": "0xA863246658DEA34111C3C1DceDb2cfd5d6067334",
-    "symbol": "WMETIS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/15595/small/metis.PNG?1621298076"
   },
   {
     "name": "VOLTAGE",
@@ -1798,6 +1774,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/26430/small/Project_Page_Icon.png?1657930951"
+  },
+  {
+    "name": "ROND Coin",
+    "address": "0x204820b6e6feae805e376d2c6837446186e57981",
+    "symbol": "ROND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/27601/small/rond.png?1664716228"
+  },
+  {
+    "name": "AssetMantle",
+    "address": "0x38A536A31bA4d8C1Bcca016AbBf786ecD25877E8",
+    "symbol": "MNTL",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25181/small/thumbnail.png?1658821784"
   }
   
 ]
