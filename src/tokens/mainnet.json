@@ -1777,7 +1777,7 @@
   },
   {
     "name": "ROND Coin",
-    "address": "0x204820b6e6feae805e376d2c6837446186e57981",
+    "address": "0x204820B6e6FEae805e376D2C6837446186e57981",
     "symbol": "ROND",
     "decimals": 18,
     "chainId": 137,
