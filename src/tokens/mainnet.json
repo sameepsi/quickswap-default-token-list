@@ -1790,6 +1790,46 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/25181/small/thumbnail.png?1658821784"
+  },
+  {
+    "name": "FoodChain Global",
+    "address": "0x6F06e6beD64cF4c4187c06Ee2a4732f6a171BC4e",
+    "symbol": "FOOD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/23755/small/food.png?1645347956"
+  },
+  {
+    "name": "Catheon Gaming",
+    "address": "0x7e7737C40878e720b32e7bC9CD096259f876d69f",
+    "symbol": "CATHEON",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/28052/small/_removal.ai__tmp-635fe0271d6a3%281%29.png?1667286253"
+  },
+  {
+    "name": "Hop",
+    "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+    "symbol": "HOP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25445/small/hop.png?1665541677"
+  },
+  {
+    "name": "Cryption Network Token",
+    "address": "0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
+    "symbol": "CNT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16171/small/Cryption_Logo_Gradient_White_Text.png?1623191284"
+  },
+  {
+    "name": "BOB",
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "symbol": "BOB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030"
   }
   
 ]
