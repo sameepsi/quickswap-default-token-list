@@ -1846,6 +1846,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/GO11OUH.png"
+  },
+  {
+    "name": "Axelar Wrapped USDC",
+    "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+    "symbol": "axlUSDC",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   }
   
 ]
