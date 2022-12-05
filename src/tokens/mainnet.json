@@ -1861,7 +1861,15 @@
     "symbol": "Lunr",
     "decimals": 4,
     "chainId": 137,
-    "logoURI": "https://polygonscan.com/token/images/lunarcrush_32.png?=v1"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12971.png"
+  },
+  {
+    "name": "DOSE",
+    "address": "0x81382e9693dE2aFc33F69B70a6C12CA9B3a73F47",
+    "symbol": "DOSE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18847/small/dose.PNG?1633590548"
   }
   
 ]
