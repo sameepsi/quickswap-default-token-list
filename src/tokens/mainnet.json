@@ -1190,6 +1190,46 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/18847/small/dose.PNG?1633590548"
+  },
+  {
+    "name": "Aavegotchi FOMO",
+    "address": "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8",
+    "symbol": "FOMO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24737/small/fomo.png?1648769659"
+  },
+  {
+    "name": "Aavegotchi FUD",
+    "address": "0x403E967b044d4Be25170310157cB1A4Bf10bdD0f",
+    "symbol": "FUD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24736/small/fud.png?1648769512"
+  },
+  {
+    "name": "Aavegotchi ALPHA",
+    "address": "0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2",
+    "symbol": "ALPHA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24738/small/alpha.png?1648769768"
+  },
+  {
+    "name": "Aavegotchi KEK",
+    "address": "0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C",
+    "symbol": "KEK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24739/small/kek.png?1648769879"
+  },
+  {
+    "name": "GAX Liquidity Token Reward",
+    "address": "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc",
+    "symbol": "GLTR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/qMMwsK7/gltr-token.png"
   }
   
 ]
