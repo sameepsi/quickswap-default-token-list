@@ -933,7 +933,7 @@
     "symbol": "BETS",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18453.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/26618/small/icon_200.png?1659073275"
   },
   {
     "name": "Crypto Volatility Token",
@@ -1230,6 +1230,30 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/qMMwsK7/gltr-token.png"
+  },
+  {
+    "name": "Cookies Protocol",
+    "address": "0xf9D3d8B25b95BCDA979025B74fDFa7ac3F380f9f",
+    "symbol": "CP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1585702488912629763/8jX3_qXC_400x400.jpg"
+  },
+  {
+    "name": "Fear NFTs",
+    "address": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
+    "symbol": "FEAR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://quickswap.exchange/static/media/0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c.a4263994.webp"
+  },
+  {
+    "name": "Wise Token",
+    "address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
+    "symbol": "WISE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13552/small/WISE-logo-1600x1280.png?1609727947"
   }
   
 ]
