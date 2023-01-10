@@ -1254,6 +1254,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13552/small/WISE-logo-1600x1280.png?1609727947"
+  },
+  {
+    "name": "Dragon QUICK(NEW)",
+    "address": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
+    "symbol": "dQUICK(NEW)",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
+  },
+  {
+    "name": "GOVI",
+    "address": "0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46",
+    "symbol": "GOVI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/FCl7zHM.png"
   }
   
 ]
