@@ -1270,6 +1270,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/FCl7zHM.png"
+  },
+  {
+    "name": "Artificial Liquid Intelligence Token",
+    "address": "0xbFc70507384047Aa74c29Cdc8c5Cb88D0f7213AC",
+    "symbol": "ALI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/WxPZm2m.png"
   }
   
 ]
