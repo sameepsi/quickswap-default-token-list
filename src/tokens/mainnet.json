@@ -1080,12 +1080,12 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png"
   },
   {
-    "name": "Ankr MATIC Reward Bearing Certif",
+    "name": "Ankr Staked MATIC",
     "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
     "symbol": "aMATICc",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/25742/small/a-matic-c-da4ec10dc9723e695700e25dbf8c8edf.png?1653462321"
+    "logoURI": "https://i.ibb.co/Q9nbfqz/a-MATICc-2.png"
   },
   {
     "name": "Wombat",
@@ -1278,6 +1278,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/WxPZm2m.png"
+  },
+  {
+    "name": "Ankr",
+    "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/7rfcYCC/Ankr-4.png"
   }
   
 ]
