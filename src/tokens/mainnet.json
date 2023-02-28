@@ -1082,7 +1082,7 @@
   {
     "name": "Ankr Staked MATIC",
     "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
-    "symbol": "aMATICc",
+    "symbol": "ankrMATIC",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/Q9nbfqz/a-MATICc-2.png"
