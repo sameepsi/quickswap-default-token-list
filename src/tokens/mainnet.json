@@ -1286,6 +1286,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/7rfcYCC/Ankr-4.png"
+  },
+  {
+    "name": "Volt Inu",
+    "address": "0xF16EC50EC49aBc95FA793C7871682833B6bC47E7",
+    "symbol": "VOLT",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://voltinu.in/images/Volt-Inu-Logo.png"
+  },
+  {
+    "name": "Metavault Trade",
+    "address": "0x2760E46d9BB43dafCbEcaad1F64b93207f9f0eD7",
+    "symbol": "MVX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://res.cloudinary.com/metavault/image/upload/v1668603846/brand-assets/brandLogos/MVX-COIN_Simple_jikqce.png"
   }
   
 ]
