@@ -1318,6 +1318,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/28775/large/DAVOS_200x200.png?1676529599"
+  },
+  {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546"
   }
   
 ]
