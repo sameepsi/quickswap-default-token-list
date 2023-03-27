@@ -1,10 +1,10 @@
 [
     {
-        "name": "USD Coin",
-        "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
-        "symbol": "USDC",
+        "name": "Tether USD",
+        "address": "0x7379a261bc347bdd445484a91648abf4a2bdee5e",
+        "symbol": "USDT",
         "decimals": 6,
         "chainId": 1402,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
 ]
