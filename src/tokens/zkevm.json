@@ -36,7 +36,7 @@
         "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
         "symbol": "WBTC",
         "decimals": 8,
-        "chainId": 137,
+        "chainId": 1101,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
       },
       {
