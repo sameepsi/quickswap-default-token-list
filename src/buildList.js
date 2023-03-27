@@ -3,6 +3,7 @@ const mainnet = require('./tokens/mainnet.json');
 const mumbai = require('./tokens/mumbai.json');
 const dogechain = require('./tokens/dogechain.json');
 const zktest = require('./tokens/zktest.json');
+const zkevm = require('./tokens/zkevm.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -23,6 +24,7 @@ module.exports = function buildList() {
     tokens: [
       ...mainnet,
       ...dogechain,
+      ...zkevm,
       ...mumbai,
       ...zktest
     ]
