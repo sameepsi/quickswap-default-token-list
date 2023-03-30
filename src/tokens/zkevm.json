@@ -46,5 +46,13 @@
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      {
+        "name": "QuickSwap",
+        "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+        "symbol": "QUICK",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
       }
 ]
