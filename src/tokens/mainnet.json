@@ -1326,6 +1326,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546"
+  },
+  {
+    "name": "FireBotToken",
+    "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
+    "symbol": "FBX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/token/images/firebottoken_32.png"
   }
   
 ]
