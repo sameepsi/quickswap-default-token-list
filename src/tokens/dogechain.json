@@ -94,5 +94,13 @@
         "decimals": 18,
         "chainId": 2000,
         "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
+    },
+    {
+        "name": "DogeTools",
+        "address": "0xB9fcAa7590916578087842e017078D7797Fa18D0",
+        "symbol": "DTools",
+        "decimals": 18,
+        "chainId": 2000,
+        "logoURI": "https://i.ibb.co/yFTgzps/photo-2022-08-13-01-52-27-1.jpg"
     }
 ]
