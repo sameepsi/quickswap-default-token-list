@@ -1368,22 +1368,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24232.png"
   },
   {
-    "name": "StaFi",
-    "address": "0x5736df66b4f8401d639Ffa915a46B4c548C09Ac1",
-    "symbol": "rETH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14452/large/rETH.png?1680074713"
-  },
-  {
-    "name": "StaFi",
-    "address": "0x7A7B94F18EF6AD056CDa648588181CDA84800f94",
-    "symbol": "FIS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/12423/large/FIS.png?1681125834"
-  },
-  {
     "name": "Axelar",
     "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
     "symbol": "AXL",
