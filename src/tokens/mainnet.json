@@ -1341,7 +1341,7 @@
     "symbol": "pBORA",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/7646/small/mqFw8hxm_400x400.jpeg?1656657343"
+    "logoURI": "https://i.imgur.com/Qt6iIQ8.png"
   },
   {
     "name": "teleBTC",
@@ -1358,6 +1358,46 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/JnwWka0.png"
+  },
+  {
+    "name": "StaFi rMATIC",
+    "address": "0x9f28e2455f9FFcFac9EBD6084853417362bc5dBb",
+    "symbol": "rMATIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24232.png"
+  },
+  {
+    "name": "StaFi",
+    "address": "0x5736df66b4f8401d639Ffa915a46B4c548C09Ac1",
+    "symbol": "rETH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14452/large/rETH.png?1680074713"
+  },
+  {
+    "name": "StaFi",
+    "address": "0x7A7B94F18EF6AD056CDa648588181CDA84800f94",
+    "symbol": "FIS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12423/large/FIS.png?1681125834"
+  },
+  {
+    "name": "Axelar",
+    "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+    "symbol": "AXL",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/27277/small/V-65_xQ1_400x400.jpeg?1663121730"
+  },
+  {
+    "name": "teleBTC",
+    "address": "0x515D720B9D219f1931205D5B8D842bE1Fe2FeBDE",
+    "symbol": "TELEBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/rjH0eOe.png"
   }
   
 ]
