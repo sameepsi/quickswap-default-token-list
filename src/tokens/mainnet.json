@@ -1390,14 +1390,6 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/27277/small/V-65_xQ1_400x400.jpeg?1663121730"
-  },
-  {
-    "name": "teleBTC",
-    "address": "0x515D720B9D219f1931205D5B8D842bE1Fe2FeBDE",
-    "symbol": "TELEBTC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/rjH0eOe.png"
   }
   
 ]
