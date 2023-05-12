@@ -1390,6 +1390,38 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12423/large/FIS.png?1681125834"
+  },
+  {
+    "name": "Coinbase Wrapped Staked ETH",
+    "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://dynamic-assets.coinbase.com/55517c7b84cff054d0bf84f6d82680b5368915854f855ec4fe0178478a637b18a985ec85b87387beb2ae2a1b276fcb320ac7451c358302ceebb179c58934ff65/asset_icons/93aa525880c2df46f3d5404cff1844a42f1a5d1fc812128ae3f70f2ce4a882e1.png"
+  },
+  {
+    "name": "Axelar Wrapped PEPE",
+    "address": "0x8baE3F5Eb10F39663E57Be19741FD9ccEF0E113a",
+    "symbol": "axlPEPE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725"
+  },
+  {
+    "name": "Bolide",
+    "address": "0x4b27Cd6E6a5E83d236eAD376D256Fe2F9e9f0d2E",
+    "symbol": "BLID",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25548/small/BLID_token_logo_200x200.png?1652334831"
+  },
+  {
+    "name": "Saiyan PEPE",
+    "address": "0xfcA466F2fA8E667a517C9C6cfa99Cf985be5d9B1",
+    "symbol": "SPEPE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/gwmgrf0.png"
   }
   
 ]
