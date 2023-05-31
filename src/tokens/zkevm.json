@@ -62,5 +62,29 @@
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1646789287"
+      },
+      {
+        "name": "Frax",
+        "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/small/FRAX_icon.png?1679886922"
+      },
+      {
+        "name": "Frax Share",
+        "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
+        "symbol": "FXS",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947"
+      },
+      {
+        "name": "Frax Ether",
+        "address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
+        "symbol": "frxETH",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981"
       }
 ]
