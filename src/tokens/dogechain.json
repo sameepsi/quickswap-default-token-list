@@ -102,5 +102,13 @@
         "decimals": 18,
         "chainId": 2000,
         "logoURI": "https://i.ibb.co/yFTgzps/photo-2022-08-13-01-52-27-1.jpg"
+    },
+    {
+        "name": "TDH",
+        "address": "0x35EA0c670eD9f54Ac07B648aCF0F2EB173A6012D",
+        "symbol": "TDH",
+        "decimals": 18,
+        "chainId": 2000,
+        "logoURI": "https://d19z9f49qtk8r2.cloudfront.net/assets/derc-logo-white-200x200.png"
     }
 ]

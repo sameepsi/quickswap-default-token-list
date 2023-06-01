@@ -493,7 +493,7 @@
     "symbol": "DERC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/17438/small/derace-logo-black-coingecko.png?1627656907"
+    "logoURI": "https://d19z9f49qtk8r2.cloudfront.net/assets/derc-logo-white-200x200.png"
   },
   {
     "name": "FireStarter",
@@ -877,7 +877,7 @@
     "symbol": "SD",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/20658/small/sd.png?1642927667"
+    "logoURI": "https://assets.coingecko.com/coins/images/20658/small/SD_Token_Logo.png?1684410841"
   },
   {
     "name": "Liquid Staking Matic",
@@ -1422,6 +1422,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/gwmgrf0.png"
+  },
+  {
+    "name": "Polylastic",
+    "address": "0x187Ae45f2D361CbCE37c6A8622119c91148F261b",
+    "symbol": "POLX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nXZaXFCP8uQWCaJCU-32Da8jZILc7uMqoA&usqp=CAU"
+  },
+  {
+    "name": "Wefi",
+    "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+    "symbol": "WEFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://wefi-web-resources.s3.ap-south-1.amazonaws.com/wefi-128.png"
   }
   
 ]
