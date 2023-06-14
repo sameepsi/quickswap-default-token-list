@@ -1064,14 +1064,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/25491/small/versa_token_96_96.png?1652074785"
   },
   {
-    "name": "Hanzo",
-    "address": "0x37eB60F78e06c4BB2A5F836B0Fc6BCcBbaA995b3",
-    "symbol": "HANZO",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/15486/small/hanzo.png?1635830733"
-  },
-  {
     "name": "LumiiiToken",
     "address": "0xED88227296943857409A8e0f15Ad7134e70D0F73",
     "symbol": "LUMIII",

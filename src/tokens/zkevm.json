@@ -86,5 +86,13 @@
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981"
+      },
+      {
+        "name": "Mai Stablecoin",
+        "address": "0x27a4BF80C2d63E42437258533dac7eAFF9881bdB",
+        "symbol": "MAI",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
       }
 ]
