@@ -1430,6 +1430,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://wefi-web-resources.s3.ap-south-1.amazonaws.com/wefi-128.png"
+  },
+  {
+    "name": "EverRise",
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "symbol": "RISE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://data.everrise.com/icons/smartchain/0xc17c30e98541188614df99239cabd40280810ca3.png"
+  },
+  {
+    "name": "Quadrant Protocol",
+    "address": "0xDAB625853c2B35D0a9C6bD8e5a097a664ef4CcFb",
+    "symbol": "eQUAD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3625.png"
   }
   
 ]
