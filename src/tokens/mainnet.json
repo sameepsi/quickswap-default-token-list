@@ -1306,10 +1306,10 @@
   {
     "name": "Davos",
     "address": "0xEC38621e72D86775a89C7422746de1f52bbA5320",
-    "symbol": "DAVOS",
+    "symbol": "DUSD",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/28775/large/DAVOS_200x200.png?1676529599"
+    "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png"
   },
   {
     "name": "Wrapped liquid staked Ether 2.0",
@@ -1446,6 +1446,22 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3625.png"
+  },
+  {
+    "name": "Threshold Network Token",
+    "address": "0x1D0AB64eD0F1ee4a886462146D26EffC6dd00d0B",
+    "symbol": "T",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/vWCK6A0.png"
+  },
+  {
+    "name": "Polygon tBTC v2",
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/zLHm2qE.png"
   }
   
 ]
