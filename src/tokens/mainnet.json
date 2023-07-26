@@ -77,7 +77,7 @@
     "symbol": "GHST",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png"
   },
   {
     "name": "Wrapped BTC",
@@ -597,7 +597,7 @@
     "symbol": "BLANK",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14209/small/blank.png?1614940842"
+    "logoURI": "https://i.imgur.com/KYtNI3X.png"
   },
   {
     "name": "agEUR",
@@ -1463,5 +1463,37 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/zLHm2qE.png"
   }
-  
+  ,
+  {
+    "name": "Decentral Games Governance",
+    "address": "0xc6480Da81151B2277761024599E8Db2Ad4C388C8",
+    "symbol": "xDG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/21176/small/xDG_Logo.png?1638508706"
+  },
+  {
+    "name": "Ethereum Push Notification Service",
+    "address": "0x58001cC1A9E17A20935079aB40B1B8f4Fc19EFd1",
+    "symbol": "PUSH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/q1wC61C.png"
+  },
+  {
+    "name": "Polygon tBTC v2",
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/zLHm2qE.png"
+  },
+  {
+    "name": "Polygon tBTC v2",
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/zLHm2qE.png"
+  }
 ]
