@@ -1479,21 +1479,5 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/q1wC61C.png"
-  },
-  {
-    "name": "Polygon tBTC v2",
-    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-    "symbol": "tBTC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/zLHm2qE.png"
-  },
-  {
-    "name": "Polygon tBTC v2",
-    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-    "symbol": "tBTC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/zLHm2qE.png"
   }
 ]
