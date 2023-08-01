@@ -929,11 +929,11 @@
   },
   {
     "name": "BetSwirl Token",
-    "address": "0x9246a5F10A79a5a939b0C2a75A3AD196aAfDB43b",
+    "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
     "symbol": "BETS",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/26618/small/icon_200.png?1659073275"
+    "logoURI": "https://assets.coingecko.com/coins/images/26618/large/icon_200.png?1659073275"
   },
   {
     "name": "Crypto Volatility Token",
