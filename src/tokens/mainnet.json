@@ -160,14 +160,6 @@
     "logoURI": "https://i.imgur.com/nQDG9AQ.png"
   },
   {
-    "name": "beefy.finance",
-    "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
-    "symbol": "BIFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
-  },
-  {
     "name": "Qi Dao",
     "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
     "symbol": "QI",
@@ -272,14 +264,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png"
   },
   {
-    "name": "EASY V2",
-    "address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
-    "symbol": "EZ",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/easyfi_32.png?v=2"
-  },
-  {
     "name": "Crosschain IOTX",
     "address": "0x300211Def2a644b036A9bdd3e58159bb2074d388",
     "symbol": "CIOTX",
@@ -336,28 +320,12 @@
     "logoURI": "https://i.imgur.com/KTS2F7I.png"
   },
   {
-    "name": "Polytrade",
-    "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
-    "symbol": "TRADE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://polygonscan.com/token/images/polytrade_32.png"
-  },
-  {
     "name": "Orbs",
     "address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
     "symbol": "ORBS",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4630/small/Orbs.jpg?1547039896"
-  },
-  {
-    "name": "Snook",
-    "address": "0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309",
-    "symbol": "SNK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18197/small/snk.png?1630979321"
   },
   {
     "name": "Binance Token",
@@ -536,14 +504,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19536/small/champ.png?1635905981"
   },
   {
-    "name": "Polygon Ecosystem Index",
-    "address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
-    "symbol": "PECO",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/19270/small/amun-peco.png?1634868167"
-  },
-  {
     "name": "FABWELT",
     "address": "0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
     "symbol": "WELT",
@@ -608,14 +568,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19479/small/agEUR.png?1635283566"
   },
   {
-    "name": "99Starz",
-    "address": "0x2c92a8A41f4b806a6f6F1F7C9D9DEc78DCd8c18e",
-    "symbol": "STZ",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/21467/small/n1fqEYRI_400x400.png?1639345175"
-  },
-  {
     "name": "Mysterium",
     "address": "0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3",
     "symbol": "MYST",
@@ -656,14 +608,6 @@
     "logoURI": "https://i.imgur.com/ZcOLkHe.jpg"
   },
   {
-    "name": "Dogira",
-    "address": "0xdDa40cdfe4A0090f42Ff49f264A831402ADB801A",
-    "symbol": "DOGIRA",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14634/small/IQgaRw0.png?1622439620"
-  },
-  {
     "name": "Safle",
     "address": "0x04b33078Ea1aEf29bf3fB29c6aB7B200C58ea126",
     "symbol": "SAFLE",
@@ -702,14 +646,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://ipfs.io/ipfs/QmY1uqAaLvQ2cnax4P6ETQwHJmsigS6tLUQkomd4eZJMpM"
-  },
-  {
-    "name": "Cyclone Protocol",
-    "address": "0xcFb54a6D2dA14ABeCD231174FC5735B4436965D8",
-    "symbol": "CYC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/14065/small/b3_DFjFp_400x400.jpg?1614128740"
   },
   {
     "name": "Request",
@@ -808,14 +744,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
   },
   {
-    "name": "Unbound Dollar",
-    "address": "0x1eBA4B44C4F8cc2695347C6a78F0B7a002d26413",
-    "symbol": "UND",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/19932/small/und.PNG?1636325217"
-  },
-  {
     "name": "PlanetIX",
     "address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
     "symbol": "IXT",
@@ -888,14 +816,6 @@
     "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg"
   },
   {
-    "name": "Arable Protocol",
-    "address": "0x011734f6Ed20E8D011d85Cf7894814B897420acf",
-    "symbol": "ACRE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23659/small/acre_token-02.png?1644989289"
-  },
-  {
     "name": "Goo",
     "address": "0x6F3Cc27E17a0f2e52D8e7693FF0d892Cea1854bF",
     "symbol": "GOO",
@@ -934,14 +854,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/26618/large/icon_200.png?1659073275"
-  },
-  {
-    "name": "Crypto Volatility Token",
-    "address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
-    "symbol": "CVOL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24008/small/govi-dao.03ef3083.png?1646029661"
   },
   {
     "name": "Decentralized USD",
@@ -1128,36 +1040,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/25445/small/hop.png?1665541677"
   },
   {
-    "name": "Cryption Network Token",
-    "address": "0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
-    "symbol": "CNT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16171/small/Cryption_Logo_Gradient_White_Text.png?1623191284"
-  },
-  {
     "name": "BOB",
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "symbol": "BOB",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030"
-  },
-  {
-    "name": "WinGoal Token",
-    "address": "0x72B6A3155EF6C5a6222f2f946A03E3f3Fd991E3c",
-    "symbol": "WT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/yrxXY9u.png"
-  },
-  {
-    "name": "Super WinGoal Token",
-    "address": "0x9D2Aa8B9Cd32fe46F4E177F49871518D942B1E47",
-    "symbol": "SWT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/GO11OUH.png"
   },
   {
     "name": "Axelar Wrapped USDC",
@@ -1230,14 +1118,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://pbs.twimg.com/profile_images/1585702488912629763/8jX3_qXC_400x400.jpg"
-  },
-  {
-    "name": "Fear NFTs",
-    "address": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
-    "symbol": "FEAR",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://quickswap.exchange/static/media/0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c.a4263994.webp"
   },
   {
     "name": "Wise Token",
