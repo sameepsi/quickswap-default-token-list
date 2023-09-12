@@ -126,5 +126,13 @@
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://cryptologos.cc/logos/aave-aave-logo.png"
+      },
+      {
+        "name": "Davos.xyz USD",
+        "address": "0x819d1Daa794c1c46B841981b61cC978d95A17b8e",
+        "symbol": "DUSD",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png"
       }
 ]

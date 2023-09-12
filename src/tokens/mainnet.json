@@ -737,7 +737,7 @@
   },
   {
     "name": "Fuse",
-    "address": "0xF915fDDa4c882731C0456a4214548Cd13A822886",
+    "address": "0x6b021b3f68491974bE6D4009fEe61a4e3C708fD6",
     "symbol": "FUSE",
     "decimals": 18,
     "chainId": 137,
@@ -1161,7 +1161,7 @@
   },
   {
     "name": "Volt Inu",
-    "address": "0xF16EC50EC49aBc95FA793C7871682833B6bC47E7",
+    "address": "0x7f792db54B0e580Cdc755178443f0430Cf799aCa",
     "symbol": "VOLT",
     "decimals": 9,
     "chainId": 137,
@@ -1359,5 +1359,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/q1wC61C.png"
+  },
+  {
+    "name": "Veloce",
+    "address": "0x27842334C55c01DDFE81Bf687425F906816c5141",
+    "symbol": "VEXT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/31214/large/VEXT_Logo.jpg?1691461995"
+  },
+  {
+    "name": "BitCone",
+    "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
+    "symbol": "CONE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/Pg3FdXt.png"
   }
 ]
