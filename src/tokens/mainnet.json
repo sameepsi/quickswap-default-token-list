@@ -1383,5 +1383,13 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Yellow Duckies",
+    "address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
+    "symbol": "DUCKIES",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/6FWNHp8/coin-3.png"
   }
 ]
