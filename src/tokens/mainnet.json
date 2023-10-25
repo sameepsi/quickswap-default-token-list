@@ -1391,5 +1391,37 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/6FWNHp8/coin-3.png"
+  },
+  {
+    "name": "Endblock",
+    "address": "0x0C087f8D6A1F14F71bB7Cc7E1B061CA297AF7555",
+    "symbol": "END",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://endblock.io/logos/logo-endblock-200x200.png"
+  },
+  {
+    "name": "Borderless Money",
+    "address": "0xc59132FBdF8dE8fbE510F568a5D831C991B4fC38",
+    "symbol": "BOM",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://www.borderless.money/logo-200x200.png"
+  },
+  {
+    "name": "Yellow Duckies",
+    "address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
+    "symbol": "DUCKIES",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/6FWNHp8/coin-3.png"
+  },
+  {
+    "name": "Yellow Duckies",
+    "address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
+    "symbol": "DUCKIES",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/6FWNHp8/coin-3.png"
   }
 ]
