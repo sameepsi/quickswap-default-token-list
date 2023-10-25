@@ -1407,21 +1407,5 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://www.borderless.money/logo-200x200.png"
-  },
-  {
-    "name": "Yellow Duckies",
-    "address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
-    "symbol": "DUCKIES",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/6FWNHp8/coin-3.png"
-  },
-  {
-    "name": "Yellow Duckies",
-    "address": "0x18e73A5333984549484348A94f4D219f4faB7b81",
-    "symbol": "DUCKIES",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/6FWNHp8/coin-3.png"
   }
 ]
