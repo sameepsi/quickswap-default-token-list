@@ -5,6 +5,7 @@ const dogechain = require('./tokens/dogechain.json');
 const zktest = require('./tokens/zktest.json');
 const zkevm = require('./tokens/zkevm.json');
 const manta = require('./tokens/manta.json');
+const zkatana = require('./tokens/zkatana.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -28,7 +29,8 @@ module.exports = function buildList() {
       ...zkevm,
       ...mumbai,
       ...zktest,
-      ...manta
+      ...manta,
+      ...zkatana
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
