@@ -20,7 +20,7 @@ module.exports = function buildList() {
     'tags': {},
     'logoURI': 'ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ',
     'keywords': [
-      'uniswap',
+      'QuickSwap',
       'default'
     ],
     tokens: [

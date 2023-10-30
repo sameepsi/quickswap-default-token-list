@@ -1396,7 +1396,7 @@
     "name": "Endblock",
     "address": "0x0C087f8D6A1F14F71bB7Cc7E1B061CA297AF7555",
     "symbol": "END",
-    "decimals": 8,
+    "decimals": 18,
     "chainId": 137,
     "logoURI": "https://endblock.io/logos/logo-endblock-200x200.png"
   },
@@ -1404,7 +1404,7 @@
     "name": "Borderless Money",
     "address": "0xc59132FBdF8dE8fbE510F568a5D831C991B4fC38",
     "symbol": "BOM",
-    "decimals": 8,
+    "decimals": 18,
     "chainId": 137,
     "logoURI": "https://www.borderless.money/logo-200x200.png"
   }
