@@ -1407,5 +1407,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://www.borderless.money/logo-200x200.png"
+  },
+  {
+    "name": "BOOM!",
+    "address": "0xe88Ac56C4dedc973a0a26C062F0F07568dfb23FA",
+    "symbol": "BOOM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://boom.trading/icon.png"
   }
 ]
