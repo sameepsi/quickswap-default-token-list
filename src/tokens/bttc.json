@@ -1,7 +1,7 @@
 [
     {
       "name": "TRX",
-      "address": "0xedf53026aea60f8f75fca25f8830b7e2d6200662",
+      "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
       "symbol": "TRX",
       "decimals": 6,
       "chainId": 199,
@@ -9,7 +9,7 @@
     },
     {
       "name": "Tether USD_Ethereum",
-      "address": "0xe887512ab8bc60bcc9224e1c3b5be68e26048b8b",
+      "address": "0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B",
       "symbol": "USDT_e",
       "decimals": 6,
       "chainId": 199,
@@ -17,7 +17,7 @@
     },
     {
         "name": "Tether USD_TRON",
-        "address": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
+        "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
         "symbol": "USDT_T",
         "decimals": 6,
         "chainId": 199,
@@ -25,7 +25,7 @@
     },
     {
       "name": "USD Coin_Ethereum",
-      "address": "0xae17940943ba9440540940db0f1877f101d39e8b",
+      "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
       "symbol": "USDC_e",
       "decimals": 6,
       "chainId": 199,
@@ -33,7 +33,7 @@
     },
     {
       "name": "USD Coin_TRON",
-      "address": "0x935faa2fcec6ab81265b301a30467bbc804b43d3",
+      "address": "0x935faA2FCec6Ab81265B301a30467Bbc804b43d3",
       "symbol": "USDC_t",
       "decimals": 6,
       "chainId": 199,
@@ -41,7 +41,7 @@
     },
     {
       "name": "Wrapped BTT",
-      "address": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c",
+      "address": "0x23181F21DEa5936e24163FFABa4Ea3B316B57f3C",
       "symbol": "WBTT",
       "decimals": 18,
       "chainId": 199,
@@ -49,7 +49,7 @@
     },
     {
       "name": "ETH",
-      "address": "0x1249c65afb11d179ffb3ce7d4eedd1d9b98ad006",
+      "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 199,
