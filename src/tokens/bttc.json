@@ -10,7 +10,7 @@
     {
       "name": "Tether USD_Ethereum",
       "address": "0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B",
-      "symbol": "USDT_e",
+      "symbol": "USDT.e",
       "decimals": 6,
       "chainId": 199,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
@@ -18,7 +18,7 @@
     {
         "name": "Tether USD_TRON",
         "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
-        "symbol": "USDT_T",
+        "symbol": "USDT.t",
         "decimals": 6,
         "chainId": 199,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
@@ -26,7 +26,7 @@
     {
       "name": "USD Coin_Ethereum",
       "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
-      "symbol": "USDC_e",
+      "symbol": "USDC.e",
       "decimals": 6,
       "chainId": 199,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
@@ -34,7 +34,7 @@
     {
       "name": "USD Coin_TRON",
       "address": "0x935faA2FCec6Ab81265B301a30467Bbc804b43d3",
-      "symbol": "USDC_t",
+      "symbol": "USDC.t",
       "decimals": 6,
       "chainId": 199,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
