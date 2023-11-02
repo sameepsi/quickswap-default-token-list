@@ -1,0 +1,58 @@
+[
+    {
+      "name": "TRX",
+      "address": "0xedf53026aea60f8f75fca25f8830b7e2d6200662",
+      "symbol": "TRX",
+      "decimals": 6,
+      "chainId": 199,
+      "logoURI": "https://bttcscan.com/token/images/tronnetwork_32.png"
+    },
+    {
+      "name": "Tether USD_Ethereum",
+      "address": "0xe887512ab8bc60bcc9224e1c3b5be68e26048b8b",
+      "symbol": "USDT_e",
+      "decimals": 6,
+      "chainId": 199,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "name": "Tether USD_TRON",
+        "address": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
+        "symbol": "USDT_T",
+        "decimals": 6,
+        "chainId": 199,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "USD Coin_Ethereum",
+      "address": "0xae17940943ba9440540940db0f1877f101d39e8b",
+      "symbol": "USDC_e",
+      "decimals": 6,
+      "chainId": 199,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "USD Coin_TRON",
+      "address": "0x935faa2fcec6ab81265b301a30467bbc804b43d3",
+      "symbol": "USDC_t",
+      "decimals": 6,
+      "chainId": 199,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped BTT",
+      "address": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c",
+      "symbol": "WBTT",
+      "decimals": 18,
+      "chainId": 199,
+      "logoURI": "https://assets.coingecko.com/coins/images/24933/standard/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png?1696524089"
+    },
+    {
+      "name": "ETH",
+      "address": "0x1249c65afb11d179ffb3ce7d4eedd1d9b98ad006",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 199,
+      "logoURI": "https://bttcscan.com/token/images/ethereum_32.png"
+    }
+]
