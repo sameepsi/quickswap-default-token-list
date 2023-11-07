@@ -38,5 +38,13 @@
         "decimals": 18,
         "chainId": 169,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      {
+        "name": "Matic",
+        "address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://i.imgur.com/uIExoAr.png"
       }
 ]
