@@ -38,5 +38,29 @@
         "decimals": 18,
         "chainId": 169,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      {
+        "name": "Matic",
+        "address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://i.imgur.com/uIExoAr.png"
+      },
+      {
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
+      },
+      {
+        "name": "StakeStone Ether",
+        "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+        "symbol": "STONE",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
       }
 ]
