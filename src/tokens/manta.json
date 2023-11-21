@@ -62,5 +62,13 @@
         "decimals": 18,
         "chainId": 169,
         "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
+      },
+      {
+        "name": "QuickSwap",
+        "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
+        "symbol": "QUICK",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://quickswap.exchange/static/media/0xb5c064f955d8e7f38fe0460c556a72987494ee17.536e9161.png"
       }
 ]

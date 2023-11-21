@@ -741,7 +741,7 @@
     "symbol": "FUSE",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
+    "logoURI": "https://i.imgur.com/tl2Mxnt.png"
   },
   {
     "name": "PlanetIX",
@@ -897,7 +897,7 @@
   },
   {
     "name": "Revolt 2 Earn",
-    "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+    "address": "0x5d301750cc9719f00872E33Ee81f9C37aBa242F4",
     "symbol": "RVLT",
     "decimals": 18,
     "chainId": 137,
@@ -1415,5 +1415,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/aMJ32ep.png"
+  },
+  {
+    "name": "Slingshot",
+    "address": "0xfc9Fa9771145fbB98D15C8c2cc94B837a56D554C",
+    "symbol": "SLING",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.slingshotdao.com/logos/Slingshot+DAO+icon+Alpha.png"
+  },
+  {
+    "name": "DECATS",
+    "address": "0x198f1D316aad1C0Bfd36a79bd1A8e9dba92DAa18",
+    "symbol": "DECATS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://decats.io/wp-content/uploads/2023/10/logo-s-e1698287987284-1.png"
+  },
+  {
+    "name": "ICHI",
+    "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+    "symbol": "ICHI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/jO4wPoF.png"
   }
 ]
