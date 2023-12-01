@@ -70,5 +70,13 @@
         "decimals": 18,
         "chainId": 169,
         "logoURI": "https://quickswap.exchange/static/media/0xb5c064f955d8e7f38fe0460c556a72987494ee17.536e9161.png"
+      },
+      {
+        "name": "Liquid Staking Matic",
+        "address": "0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
+        "symbol": "MaticX",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg"
       }
 ]
