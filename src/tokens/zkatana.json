@@ -14,5 +14,13 @@
         "decimals": 18,
         "chainId": 1261120,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      {
+        "name": "Shibuya Token",
+        "address": "0xEaFAF3EDA029A62bCbE8a0C9a4549ef0fEd5a400",
+        "symbol": "LSBY",
+        "decimals": 18,
+        "chainId": 1261120,
+        "logoURI": "https://github.com/AstarNetwork/brand-assets/blob/main/Astar%20Identity/logo/symbol/Astar_ring.png"
       }
 ]
