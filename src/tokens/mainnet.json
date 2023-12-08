@@ -525,7 +525,7 @@
     "symbol": "GAIA",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/19629/small/gaia_icon_new.png?1637559277"
+    "logoURI": "https://i.postimg.cc/hPwSy2M1/gaiabluecircle.png"
   },
   {
     "name": "SAND",
@@ -1439,5 +1439,37 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/jO4wPoF.png"
+  },
+  {
+    "name": "ApeBond",
+    "address": "0xe6828D65bf5023AE1851D90D8783Cc821ba7eeE1",
+    "symbol": "ABOND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://dashboard-assets.dappradar.com/document/5635/apebond-dapp-exchanges-5635-logo-166x166_c19d8d83d1eac190b5a3be428c338b59.png"
+  },
+  {
+    "name": "WiFi Map",
+    "address": "0xE238Ecb42C424E877652AD82d8A939183A04C35f",
+    "symbol": "WIFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/xmpexhx.png"
+  },
+  {
+    "name": "first choice coin",
+    "address": "0xb6C3C00D730ACcA326dB40e418353f04f7444e2B",
+    "symbol": "fcc",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/HjLOAFX.png"
+  },
+  {
+    "name": "MetaTrace",
+    "address": "0x40d9fc77027A281d85de1fa660C887E645AE26C3",
+    "symbol": "TRC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/token/images/metatraceme_32.png?=v34"
   }
 ]
