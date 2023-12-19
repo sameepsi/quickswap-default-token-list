@@ -7,6 +7,7 @@ const zkevm = require('./tokens/zkevm.json');
 const manta = require('./tokens/manta.json');
 const zkatana = require('./tokens/zkatana.json');
 const bttc = require('./tokens/bttc.json');
+const x1 = require('./tokens/x1.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -32,6 +33,7 @@ module.exports = function buildList() {
       ...zktest,
       ...manta,
       ...bttc,
+      ...x1,
       ...zkatana
     ]
       // sort them by symbol for easy readability
