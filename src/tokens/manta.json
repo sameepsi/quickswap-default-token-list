@@ -94,5 +94,21 @@
         "decimals": 18,
         "chainId": 169,
         "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GAI.png"
+      },
+      {
+        "name": "Asmatch",
+        "address": "0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806",
+        "symbol": "ASM",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://i.imgur.com/grd3qpW.png"
+      },
+      {
+        "name": "Wrapped Mountain Protocol",
+        "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
+        "symbol": "wUSDM",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://assets.coingecko.com/coins/images/33785/standard/wUSDM_PNG_240px.png?1702981552"
       }
 ]

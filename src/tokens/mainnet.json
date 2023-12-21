@@ -1495,5 +1495,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/mnJXy8O.jpeg"
+  },
+  {
+    "name": "Global Coin Research",
+    "address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
+    "symbol": "GCR",
+    "decimals": 4,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/UBjdemW.png"
+  },
+  {
+    "name": "GONE",
+    "address": "0x162539172b53E9a93b7d98Fb6c41682De558a320",
+    "symbol": "GONE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/AeegcxP.png"
+  },
+  {
+    "name": "USDV",
+    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "symbol": "USDV",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://usdv.money/static/features/media-kit/TokenIcon_Black.png"
   }
 ]
