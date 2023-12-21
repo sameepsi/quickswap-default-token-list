@@ -137,7 +137,7 @@
       },
       {
         "name": "Wrapped eETH",
-        "address": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+        "address": "0xcD68DFf4415358c35a28f96Fd5bF7083B22De1D6",
         "symbol": "weETH",
         "decimals": 18,
         "chainId": 1101,
