@@ -134,5 +134,13 @@
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png"
+      },
+      {
+        "name": "Wrapped eETH",
+        "address": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+        "symbol": "weETH",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://etherfi-membership-metadata.s3.ap-southeast-1.amazonaws.com/weETH.png"
       }
 ]
