@@ -1519,5 +1519,13 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://usdv.money/static/features/media-kit/TokenIcon_Black.png"
+  },
+  {  
+    "name": "Emicoin (PoS)",
+    "address": "0xFbeCfB7b87752aa28383a5Ac1e9d9e05E0526017",
+    "symbol": "EMI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/ocra-ware/emicoin/main/logo500.png"
   }
 ]
