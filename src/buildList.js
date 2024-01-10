@@ -8,6 +8,8 @@ const manta = require('./tokens/manta.json');
 const zkatana = require('./tokens/zkatana.json');
 const bttc = require('./tokens/bttc.json');
 const x1 = require('./tokens/x1.json');
+const tIMX = require('./tokens/tIMX.json');
+
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -34,7 +36,8 @@ module.exports = function buildList() {
       ...manta,
       ...bttc,
       ...x1,
-      ...zkatana
+      ...zkatana,
+      ...tIMX
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
