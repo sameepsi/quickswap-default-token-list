@@ -33,7 +33,7 @@
       },
       {
         "name": "Wrapped IMX",
-        "address": "0x3a0c2ba54d6cbd3121f01b96dfd20e99d1696c9d",
+        "address": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D",
         "symbol": "WIMX",
         "decimals": 18,
         "chainId": 13371,
