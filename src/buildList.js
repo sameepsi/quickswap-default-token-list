@@ -9,6 +9,8 @@ const zkatana = require('./tokens/zkatana.json');
 const bttc = require('./tokens/bttc.json');
 const x1 = require('./tokens/x1.json');
 const tIMX = require('./tokens/tIMX.json');
+const IMX = require('./tokens/IMX.json');
+
 
 
 module.exports = function buildList() {
@@ -37,7 +39,8 @@ module.exports = function buildList() {
       ...bttc,
       ...x1,
       ...zkatana,
-      ...tIMX
+      ...tIMX,
+      ...IMX
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

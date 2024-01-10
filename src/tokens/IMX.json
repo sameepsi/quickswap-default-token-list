@@ -1,0 +1,42 @@
+[
+      {
+        "name": "Tether USD",
+        "address": "0x68bcc7F1190AF20e7b572BCfb431c3Ac10A936Ab",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 13371,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0x6de8aCC0D406837030CE4dd28e7c08C5a96a30d2",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 13371,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      },
+      {
+        "name": "Wrapped BTC",
+        "address": "0x235F9A2Dc29E51cE7D103bcC5Dfb4F5c9c3371De",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 13371,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      {
+        "name": "Wrapped IMX",
+        "address": "0x3a0c2ba54d6cbd3121f01b96dfd20e99d1696c9d",
+        "symbol": "WIMX",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+      }
+]
