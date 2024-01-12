@@ -1217,7 +1217,7 @@
   },
   {
     "name": "teleBTC",
-    "address": "0x515D720B9D219f1931205D5B8D842bE1Fe2FeBDE",
+    "address": "0x3BF668Fe1ec79a84cA8481CEAD5dbb30d61cC685",
     "symbol": "TELEBTC",
     "decimals": 8,
     "chainId": 137,
@@ -1519,5 +1519,61 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://usdv.money/static/features/media-kit/TokenIcon_Black.png"
+  },
+  {
+    "name": "Wormhole Taki",
+    "address": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
+    "symbol": "Wormhome TAKI",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/2iBGbwS.png"
+  },
+  {
+    "name": "TakiToken",
+    "address": "0xe78aeE6CCb05471a69677fB74da80F5d251c042B",
+    "symbol": "TAKI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/swpJ2Wx.png"
+  },
+  {
+    "name": "Wicrypt Network",
+    "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
+    "symbol": "WNT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11649.png"
+  },
+  {
+    "name": "Any Inu",
+    "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+    "symbol": "AI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://www.anyinu.xyz/anyinulogo200.png"
+  },
+  {
+    "name": "3A Utility Token",
+    "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
+    "symbol": "A3A",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FRgMuxRx6ZSaL6tvYjz18%2FA3A%20Black%20Logo.svg?alt=media&token=874a31a9-323c-4541-8634-1c097a8993c0"
+  },
+  {
+    "name": "EURO3",
+    "address": "0xA0e4c84693266a9d3BBef2f394B33712c76599Ab",
+    "symbol": "EURO3",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FJFuzcTfT6VY07JRY5cX7%2FEURO3%20Black%20Logo.svg?alt=media&token=c3cdfe3d-e847-4ff2-a2fa-d738a1386453"
+  },
+  {
+    "name": "Bullieverse",
+    "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
+    "symbol": "BULL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/La2jNVp.png"
   }
 ]
