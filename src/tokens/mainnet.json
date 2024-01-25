@@ -296,14 +296,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/17393/small/ME_logo_200_200.png?1627526275"
   },
   {
-    "name": "AnRKey X",
-    "address": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
-    "symbol": "ANRX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/13415/small/anrkey.jpg?1608311301"
-  },
-  {
     "name": "Mask Network",
     "address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
     "symbol": "MASK",
@@ -326,14 +318,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4630/small/Orbs.jpg?1547039896"
-  },
-  {
-    "name": "Binance Token",
-    "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
-    "symbol": "BNB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
   },
   {
     "name": "ETHA",
@@ -366,14 +350,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/18634/small/nadex.PNG?1632727863"
-  },
-  {
-    "name": "Cosmos",
-    "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
-    "symbol": "ATOM",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960"
   },
   {
     "name": "Forest Knight",
@@ -712,14 +688,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14134/small/tower-circular-1000.png?1632195469"
   },
   {
-    "name": "CosplayToken",
-    "address": "0x8d520c8E66091cfD6743fe37Fbe3A09505616C4b",
-    "symbol": "COT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/21294/small/brave_ZxsjzUc8xn.png?1638874098"
-  },
-  {
     "name": "Exchange Genesis Ethlas Medium",
     "address": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
     "symbol": "XGEM",
@@ -952,14 +920,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/26078/small/black_IUX-coin-logo2.png?1661767150"
   },
   {
-    "name": "wLitiDAO",
-    "address": "0xA936e1f747d14fC30d08272D065c8aeF4ab7f810",
-    "symbol": "WLD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24106/small/200px-cmc.png?1646376154"
-  },
-  {
     "name": "Affyn",
     "address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
     "symbol": "FYN",
@@ -974,14 +934,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/25491/small/versa_token_96_96.png?1652074785"
-  },
-  {
-    "name": "LumiiiToken",
-    "address": "0xED88227296943857409A8e0f15Ad7134e70D0F73",
-    "symbol": "LUMIII",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21892.png"
   },
   {
     "name": "Ankr Staked MATIC",
@@ -1006,14 +958,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/27601/small/rond.png?1664716228"
-  },
-  {
-    "name": "AssetMantle",
-    "address": "0x38A536A31bA4d8C1Bcca016AbBf786ecD25877E8",
-    "symbol": "MNTL",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/25181/small/thumbnail.png?1658821784"
   },
   {
     "name": "FoodChain Global",
@@ -1272,14 +1216,6 @@
     "logoURI": "https://dynamic-assets.coinbase.com/55517c7b84cff054d0bf84f6d82680b5368915854f855ec4fe0178478a637b18a985ec85b87387beb2ae2a1b276fcb320ac7451c358302ceebb179c58934ff65/asset_icons/93aa525880c2df46f3d5404cff1844a42f1a5d1fc812128ae3f70f2ce4a882e1.png"
   },
   {
-    "name": "Axelar Wrapped PEPE",
-    "address": "0x8baE3F5Eb10F39663E57Be19741FD9ccEF0E113a",
-    "symbol": "axlPEPE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725"
-  },
-  {
     "name": "Bolide",
     "address": "0x4b27Cd6E6a5E83d236eAD376D256Fe2F9e9f0d2E",
     "symbol": "BLID",
@@ -1465,14 +1401,6 @@
     "logoURI": "https://i.imgur.com/HjLOAFX.png"
   },
   {
-    "name": "MetaTrace",
-    "address": "0x40d9fc77027A281d85de1fa660C887E645AE26C3",
-    "symbol": "TRC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://polygonscan.com/token/images/metatraceme_32.png?=v34"
-  },
-  {
     "name": "DappRadar",
     "address": "0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD",
     "symbol": "RADAR",
@@ -1575,5 +1503,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/La2jNVp.png"
+  },
+  {
+    "name": "Digital Fitness",
+    "address": "0x428360b02C1269bc1c79fbC399ad31d58C1E8fdA",
+    "symbol": "DEFIT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/FhKKgTM.png"
+  },
+  {
+    "name": "Mammoth",
+    "address": "0x6D830A664E6aa9aab976AB66258eEcd0B5fb1dc7",
+    "symbol": "WOOLY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/WHmqpk4/mammoth.jpg"
+  },
+  {
+    "name": "CULO",
+    "address": "0x74dD45dd579caD749f9381D6227e7e02277C944B",
+    "symbol": "CULO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.postimg.cc/qBWpKF3r/IMG-20240123-225021-225.png"
   }
 ]
