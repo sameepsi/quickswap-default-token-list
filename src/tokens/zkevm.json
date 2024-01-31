@@ -8,9 +8,17 @@
         "logoURI": "https://i.imgur.com/uIExoAr.png"
       },
       {
-        "name": "Dai Stablecoin",
+        "name": "Legacy Dai Stablecoin",
         "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
         "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      },
+      {
+        "name": "Legacy Dai Stablecoin",
+        "address": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
+        "symbol": "DAI.E",
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
@@ -24,9 +32,17 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
       },
       {
-        "name": "USD Coin",
+        "name": "Legacy USD Coin",
         "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
         "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 1101,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+        "symbol": "USDC.E",
         "decimals": 6,
         "chainId": 1101,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
@@ -97,7 +113,7 @@
       },
       {
         "name": "Wrapped liquid staked Ether 2.0",
-        "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+        "address": "0xbf6De60Ccd9D22a5820A658fbE9fc87975EA204f",
         "symbol": "wstETH",
         "decimals": 18,
         "chainId": 1101,
