@@ -34,7 +34,7 @@
       {
         "name": "Legacy USD Coin",
         "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
-        "symbol": "USDC",
+        "symbol": "Legacy USDC",
         "decimals": 6,
         "chainId": 1101,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
