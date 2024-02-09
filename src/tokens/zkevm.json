@@ -105,11 +105,11 @@
       },
       {
         "name": "Mai Stablecoin",
-        "address": "0x27a4BF80C2d63E42437258533dac7eAFF9881bdB",
+        "address": "0x615B25500403Eb688Be49221b303084D9Cf0E5B4",
         "symbol": "MAI",
         "decimals": 18,
         "chainId": 1101,
-        "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
+        "logoURI": "https://i.imgur.com/lH3Kpzh.png"
       },
       {
         "name": "Wrapped liquid staked Ether 2.0",
