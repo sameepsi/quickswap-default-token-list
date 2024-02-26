@@ -1216,14 +1216,6 @@
     "logoURI": "https://static.dappradar.com/grc-public-assets/uploads/radar-logo-256.png"
   },
   {
-    "name": "The Unfettered Souls",
-    "address": "0xefCFEce12A99d1DbBf6F3264ee97F8C045e97F1f",
-    "symbol": "SOULS",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/Z4sdejC.png"
-  },
-  {
     "name": "Virtuswap Token",
     "address": "0x57999936fC9A9EC0751a8D146CcE11901Be8beD0",
     "symbol": "fxVRSW",
