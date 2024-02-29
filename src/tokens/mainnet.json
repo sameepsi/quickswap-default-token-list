@@ -1366,5 +1366,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/UilDOtk.png"
+  },
+  {
+    "name": "Carbify",
+    "address": "0xB6a5ae40e79891E4DeAdAd06C8A7cA47396Df21C",
+    "symbol": "CBY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/bac2ec73cdbb4eaf9920a534498d43b1.png"
+  },
+  {
+    "name": "Crypto Crew Token",
+    "address": "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648",
+    "symbol": "CREW",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/WkMZqNl.jpeg"
+  },
+  {
+    "name": "Ethernity CLOUD",
+    "address": "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
+    "symbol": "ECLD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://pbs.twimg.com/profile_images/1663893983578279941/ZStnNJ8m_400x400.png"
   }
 ]
