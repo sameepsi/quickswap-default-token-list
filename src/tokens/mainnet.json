@@ -1390,5 +1390,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://pbs.twimg.com/profile_images/1663893983578279941/ZStnNJ8m_400x400.png"
+  },
+  {
+    "name": "Verse",
+    "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+    "symbol": "VERSE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/28424/large/verselogo.png?1696527421"
+  },
+  {
+    "name": "Bag",
+    "address": "0x73b29199a8e4C146E893EB95f18dAc41738a88c6",
+    "symbol": "BAG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/vmct5ZL.png"
   }
 ]
