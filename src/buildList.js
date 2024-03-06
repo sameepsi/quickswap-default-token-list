@@ -10,6 +10,7 @@ const bttc = require('./tokens/bttc.json');
 const x1 = require('./tokens/x1.json');
 const tIMX = require('./tokens/tIMX.json');
 const IMX = require('./tokens/IMX.json');
+const ASTARZKEVM = require('./tokens/astarZKEVM.json');
 
 
 
@@ -40,7 +41,8 @@ module.exports = function buildList() {
       ...x1,
       ...zkatana,
       ...tIMX,
-      ...IMX
+      ...IMX,
+      ...ASTARZKEVM
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
