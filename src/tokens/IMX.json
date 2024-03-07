@@ -38,5 +38,13 @@
         "decimals": 18,
         "chainId": 13371,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+      },
+      {
+        "name": "Guild of Guardians",
+        "address": "0xb00ed913aAFf8280C17BfF33CcE82fE6D79e85e8",
+        "symbol": "GOG",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://i.imgur.com/aoXxQmo.jpeg"
       }
 ]
