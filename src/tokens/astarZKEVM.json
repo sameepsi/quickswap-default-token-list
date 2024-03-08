@@ -62,5 +62,13 @@
         "decimals": 18,
         "chainId": 3776,
         "logoURI": "https://i.imgur.com/JzAwnk1.png"
+      },
+      {
+        "name": "Mother of Memes",
+        "address": "0x92D7dE409337FfD45978ceFA82d33BEAd3A1605a",
+        "symbol": "HAHA",
+        "decimals": 18,
+        "chainId": 3776,
+        "logoURI": "https://raw.githubusercontent.com/niklabh/sample-nft/main/HAHA.jpg"
       }
 ]
