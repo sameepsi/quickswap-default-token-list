@@ -8,22 +8,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-        "name": "USD Coin",
-        "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-        "symbol": "USDC",
-        "decimals": 6,
-        "chainId": 2000,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-        "name": "Tether USD",
-        "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-        "symbol": "USDT",
-        "decimals": 6,
-        "chainId": 2000,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
         "name": "Wrapped Bitcoin",
         "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
         "symbol": "WBTC",
@@ -88,14 +72,6 @@
         "logoURI": "https://i.imgur.com/WH22eKZ.png"
     },
     {
-        "name": "Mai Stablecoin",
-        "address": "0xb84Df10966a5D7e1ab46D9276F55d57bD336AFC7",
-        "symbol": "MAI",
-        "decimals": 18,
-        "chainId": 2000,
-        "logoURI": "https://i.imgur.com/lH3Kpzh.png"
-    },
-    {
         "name": "DogeTools",
         "address": "0xB9fcAa7590916578087842e017078D7797Fa18D0",
         "symbol": "DTools",
@@ -110,5 +86,13 @@
         "decimals": 18,
         "chainId": 2000,
         "logoURI": "https://i.imgur.com/CLrv6GK.png"
+    },
+    {
+        "name": "USDoge",
+        "address": "0xD95086Fe465a2DC59F989B927472a901E2e05ff2",
+        "symbol": "USDO",
+        "decimals": 18,
+        "chainId": 2000,
+        "logoURI": "http://novadao.io/usdo/usdo-64.png"
     }
 ]
