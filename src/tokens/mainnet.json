@@ -1406,5 +1406,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/vmct5ZL.png"
+  },
+  {
+    "name": "Chain Games",
+    "address": "0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509",
+    "symbol": "CHAIN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/8WP8qFm.jpeg"
+  },
+  {
+    "name": "IQ Protocol Token",
+    "address": "0x41084fDc569099d9E527ccf126e12d9C7c688ec3",
+    "symbol": "IQT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/HeEYuVS.jpeg"
+  },
+  {
+    "name": "THX Network",
+    "address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
+    "symbol": "THX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/YTalkPn.png"
   }
 ]
