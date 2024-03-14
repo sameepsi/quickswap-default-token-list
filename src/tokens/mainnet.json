@@ -1438,5 +1438,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://cloudfront.africarare.io/website/img/afri-token-icon.png"
+  },
+  {
+    "name": "SwissCheese Token",
+    "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
+    "symbol": "SWCH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/0dF6221.png"
   }
 ]
