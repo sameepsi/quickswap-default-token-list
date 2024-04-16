@@ -11,8 +11,7 @@ const x1 = require('./tokens/x1.json');
 const tIMX = require('./tokens/tIMX.json');
 const IMX = require('./tokens/IMX.json');
 const ASTARZKEVM = require('./tokens/astarZKEVM.json');
-
-
+const XLAYER = require('./tokens/xlayer.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -42,7 +41,8 @@ module.exports = function buildList() {
       ...zkatana,
       ...tIMX,
       ...IMX,
-      ...ASTARZKEVM
+      ...ASTARZKEVM,
+      ...XLAYER
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

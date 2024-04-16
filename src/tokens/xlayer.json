@@ -1,0 +1,43 @@
+[
+    {
+        "name": "USDC",
+        "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 196,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+        "name": "Tether USD",
+        "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 196,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "name": "Wrapped OKB",
+        "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+        "symbol": "WOKB",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png"
+    },
+    {
+        "name": "Wrapped BTC",
+        "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 196,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "name": "Dai Stablecoin",
+        "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 196,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+      
+]
