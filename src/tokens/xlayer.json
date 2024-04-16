@@ -1,7 +1,7 @@
 [
     {
         "name": "USDC",
-        "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+        "address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
         "symbol": "USDC",
         "decimals": 6,
         "chainId": 196,
