@@ -78,5 +78,13 @@
         "decimals": 18,
         "chainId": 3776,
         "logoURI": "https://cdn.liebi.com/vtoken/vASTR.png"
+      },
+      {
+        "name": "StakeStone Ether",
+        "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+        "symbol": "STONE",
+        "decimals": 18,
+        "chainId": 3776,
+        "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
       }
 ]
