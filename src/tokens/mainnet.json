@@ -61,7 +61,7 @@
     "symbol": "OM",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://etherscan.io/token/images/mantradao_32.png"
+    "logoURI": "https://i.imgur.com/lB49ZJ1.png"
   },
   {
     "name": "decentral.games",
@@ -998,5 +998,61 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/0dF6221.png"
+  },
+  {
+    "name": "zkRace",
+    "address": "0xE1b3eb06806601828976e491914e3De18B5d6b28",
+    "symbol": "ZERC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://d19z9f49qtk8r2.cloudfront.net/assets/images/logos/zk-Race-logomark-bordered-256x256.png"
+  },
+  {
+    "name": "RoboHero",
+    "address": "0xB3886B3aAA6087B3d185dAeb89AC113D195b5Eb9",
+    "symbol": "ROBO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.ibb.co/jZT78qh/a-1.png"
+  },
+  {
+    "name": "AMBO",
+    "address": "0x9B8B6A1298d34B3c4bBDDce8a7fF0149121592C1",
+    "symbol": "AMBO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://sheertopia.io/_next/image?url=%2FSheertopia-logo.png&w=256&q=75"
+  },
+  {
+    "name": "Nova DAO",
+    "address": "0x119fd89E56e3845B520644dCEDf4A86Cd0B66aA6",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://novadao.io/token/nova-128.png"
+  },
+  {
+    "name": "Geodnet Token",
+    "address": "0xAC0F66379A6d7801D7726d5a943356A172549Adb",
+    "symbol": "GEOD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/IaXOx7E.jpeg"
+  },
+  {
+    "name": "Longinus",
+    "address": "0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01",
+    "symbol": "LGNS",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/egPMCht.png"
+  },
+  {
+    "name": "b0rder1ess",
+    "address": "0xF36f79feb5d97e18C69078d8D13d941CaE447A04",
+    "symbol": "b01",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/9GESEM3.jpeg"
   }
 ]
