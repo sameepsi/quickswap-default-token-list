@@ -46,6 +46,14 @@
         "decimals": 18,
         "chainId": 196,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+        "name": "rsETHWrapper",
+        "address": "0x5A71f5888EE05B36Ded9149e6D32eE93812EE5e9",
+        "symbol": "wrsETH",
+        "decimals": 18,
+        "chainId": 196,
+        "logoURI": "https://i.imgur.com/w4wBKxr.png"
     }
       
 ]
