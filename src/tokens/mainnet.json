@@ -1054,5 +1054,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/9GESEM3.jpeg"
+  },
+  {
+    "name": "Kinetix Finance",
+    "address": "0x8aD3d3e6B1b7B65138bD508E48330B544539b2C3",
+    "symbol": "KAI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/34031/standard/KFI_Token_1.png?1703675672"
   }
 ]
