@@ -1,11 +1,27 @@
 [
     {
-      "name": "Ether",
-      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-      "symbol": "ETH",
+      "name": "Wrapped Ether",
+      "address": "0xFF13A7A12fd485BC9687fF88D8Ae1A6b655Ab469",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 2000,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+        "name": "Tether USD",
+        "address": "0xB6dc6C8b71e88642cEAD3be1025565A9eE74d1C6",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 2000,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "name": "USDC",
+        "address": "0x97eec1c29f745dC7c267F90292AA663d997a601D",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 2000,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
         "name": "Wrapped Bitcoin",

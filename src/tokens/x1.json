@@ -14,5 +14,13 @@
       "decimals": 18,
       "chainId": 195,
       "logoURI": "https://i.imgur.com/fnWzJB3.png"
+    },
+    {
+      "name": "Davos.xyz USD",
+      "address": "0x0a2F62Fa25a19E5f860d150735D52B19eDe10273",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "chainId": 195,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23515.png"
     }
 ]
