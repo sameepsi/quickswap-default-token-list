@@ -1078,5 +1078,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/HY07xZV/MNW.png"
+  },
+  {
+    "name": "Landshare",
+    "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
+    "symbol": "LAND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/rGckBgo.png"
+  },
+  {
+    "name": "DerbyStarsRUN",
+    "address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
+    "symbol": "DSRUN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://resource.derbystars.com/tokens/icon/token_run_32_C.png"
   }
 ]

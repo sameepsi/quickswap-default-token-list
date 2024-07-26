@@ -62,6 +62,14 @@
         "decimals": 18,
         "chainId": 196,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23515.png"
-      }
+    },
+    {
+        "name": "InceptionLRT restaked ETH",
+        "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+        "symbol": "inETH",
+        "decimals": 18,
+        "chainId": 196,
+        "logoURI": "https://docs.inceptionlrt.com/~gitbook/image?url=https%3A%2F%2F2674700783-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH5cQR703CA1JD1dlB1kD%252Fuploads%252FJKFfvXYUNPZT5NirlaNR%252FING%2520token.png%3Falt%3Dmedia%26token%3D11c14c50-300d-44b4-8611-d70c27c92351&width=768&dpr=4&quality=100&sign=fba76ad7&sv=1"
+    }
       
 ]

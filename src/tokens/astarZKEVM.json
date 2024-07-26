@@ -86,5 +86,21 @@
         "decimals": 18,
         "chainId": 3776,
         "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
+      },
+      {
+        "name": "Utility Health Token",
+        "address": "0xfF49419c7C8095Fec612CE817De75C8C6e22719a",
+        "symbol": "UHT",
+        "decimals": 18,
+        "chainId": 3776,
+        "logoURI": "https://i.imgur.com/Sp37vt7.png"
+      },
+      {
+        "name": "Governance Health Token",
+        "address": "0xFbD5c70754C1d3AD24D29cC1C06418019B47da19",
+        "symbol": "GHT",
+        "decimals": 18,
+        "chainId": 3776,
+        "logoURI": "https://i.imgur.com/H9BmSFr.png"
       }
 ]
