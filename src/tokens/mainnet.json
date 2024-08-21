@@ -1094,5 +1094,37 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://resource.derbystars.com/tokens/icon/token_run_32_C.png"
+  },
+  {
+    "name": "GEMS",
+    "address": "0x25eFae7B0b2866CaFB14E8eaD333a42eeb2A0b80",
+    "symbol": "GEMS",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/3KaxWm1.png"
+  },
+  {
+    "name": "GOON",
+    "address": "0x433cDE5a82b5e0658dA3543b47A375dffd126Eb6",
+    "symbol": "GOON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCkT3B3doTovmgi0Viddb7LwTvkAsG4Ibm1g&s"
+  },
+  {
+    "name": "Wisdomise",
+    "address": "0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220",
+    "symbol": "WSDM",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/7cRuuMW.png"
+  },
+  {
+    "name": "Verida",
+    "address": "0x683565196C3EAb450003C964D4bad1fd3068D4cC",
+    "symbol": "VDA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/34636/large/vda_token_image.png?1705555715"
   }
 ]
