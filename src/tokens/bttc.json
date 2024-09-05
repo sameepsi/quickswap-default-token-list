@@ -5,7 +5,8 @@
       "symbol": "TRX",
       "decimals": 6,
       "chainId": 199,
-      "logoURI": "https://bttcscan.com/token/images/tronnetwork_32.png"
+      "logoURI": "https://bttcscan.com/token/images/tronnetwork_32.png",
+      "trending": false
     },
     {
       "name": "Tether USD_Ethereum",
@@ -13,7 +14,8 @@
       "symbol": "USDT.e",
       "decimals": 6,
       "chainId": 199,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "trending": false
     },
     {
         "name": "Tether USD_TRON",
@@ -21,7 +23,8 @@
         "symbol": "USDT.t",
         "decimals": 6,
         "chainId": 199,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+        "trending": false
     },
     {
       "name": "USD Coin_Ethereum",
@@ -29,7 +32,8 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "chainId": 199,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "trending": false
     },
     {
       "name": "USD Coin_TRON",
@@ -37,7 +41,8 @@
       "symbol": "USDC.t",
       "decimals": 6,
       "chainId": 199,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "trending": false
     },
     {
       "name": "Wrapped BTT",
@@ -45,7 +50,8 @@
       "symbol": "WBTT",
       "decimals": 18,
       "chainId": 199,
-      "logoURI": "https://assets.coingecko.com/coins/images/24933/standard/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png?1696524089"
+      "logoURI": "https://assets.coingecko.com/coins/images/24933/standard/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png?1696524089",
+      "trending": false
     },
     {
       "name": "ETH",
@@ -53,6 +59,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 199,
-      "logoURI": "https://bttcscan.com/token/images/ethereum_32.png"
+      "logoURI": "https://bttcscan.com/token/images/ethereum_32.png",
+      "trending": false
     }
 ]

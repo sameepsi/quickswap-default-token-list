@@ -5,7 +5,8 @@
         "symbol": "WETH",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "trending": false
       },
       {
         "name": "Dai Stablecoin",
@@ -13,7 +14,8 @@
         "symbol": "DAI",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+        "trending": false
       },
       {
         "name": "Tether USD",
@@ -21,7 +23,8 @@
         "symbol": "USDT",
         "decimals": 6,
         "chainId": 3776,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+        "trending": false
       },
       {
         "name": "USD Coin",
@@ -29,7 +32,8 @@
         "symbol": "USDC",
         "decimals": 6,
         "chainId": 3776,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "trending": false
       },
       {
         "name": "Wrapped BTC",
@@ -37,7 +41,8 @@
         "symbol": "WBTC",
         "decimals": 8,
         "chainId": 3776,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+        "trending": false
       },
       {
         "name": "Matic",
@@ -45,7 +50,8 @@
         "symbol": "MATIC",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://i.imgur.com/uIExoAr.png"
+        "logoURI": "https://i.imgur.com/uIExoAr.png",
+        "trending": false
       },
       {
         "name": "Wrapped liquid staked Ether 2.0",
@@ -53,7 +59,8 @@
         "symbol": "wstETH",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
+        "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
+        "trending": false
       },
       {
         "name": "Astar",
@@ -61,7 +68,8 @@
         "symbol": "ASTR",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://i.imgur.com/JzAwnk1.png"
+        "logoURI": "https://i.imgur.com/JzAwnk1.png",
+        "trending": false
       },
       {
         "name": "Mother of Memes",
@@ -69,7 +77,8 @@
         "symbol": "HAHA",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://raw.githubusercontent.com/niklabh/sample-nft/main/HAHA.jpg"
+        "logoURI": "https://raw.githubusercontent.com/niklabh/sample-nft/main/HAHA.jpg",
+        "trending": false
       },
       {
         "name": "Bifrost Voucher ASTR",
@@ -77,7 +86,8 @@
         "symbol": "vASTR",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://cdn.liebi.com/vtoken/vASTR.png"
+        "logoURI": "https://cdn.liebi.com/vtoken/vASTR.png",
+        "trending": false
       },
       {
         "name": "StakeStone Ether",
@@ -85,7 +95,8 @@
         "symbol": "STONE",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
+        "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png",
+        "trending": false
       },
       {
         "name": "Utility Health Token",
@@ -93,7 +104,8 @@
         "symbol": "UHT",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://i.imgur.com/Sp37vt7.png"
+        "logoURI": "https://i.imgur.com/Sp37vt7.png",
+        "trending": false
       },
       {
         "name": "Governance Health Token",
@@ -101,6 +113,7 @@
         "symbol": "GHT",
         "decimals": 18,
         "chainId": 3776,
-        "logoURI": "https://i.imgur.com/H9BmSFr.png"
+        "logoURI": "https://i.imgur.com/H9BmSFr.png",
+        "trending": false
       }
 ]

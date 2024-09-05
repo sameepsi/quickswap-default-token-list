@@ -5,7 +5,8 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 2000,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "trending": false
     },
     {
         "name": "Tether USD",
@@ -13,7 +14,8 @@
         "symbol": "USDT",
         "decimals": 6,
         "chainId": 2000,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+        "trending": false
     },
     {
         "name": "USDC",
@@ -21,7 +23,8 @@
         "symbol": "USDC",
         "decimals": 6,
         "chainId": 2000,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "trending": false
     },
     {
         "name": "Wrapped Bitcoin",
@@ -29,7 +32,8 @@
         "symbol": "WBTC",
         "decimals": 6,
         "chainId": 2000,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+        "trending": false
     },
     {
         "name": "Wrapped WDOGE",
@@ -37,7 +41,8 @@
         "symbol": "WWDOGE",
         "decimals": 18,
         "chainId": 2000,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+        "trending": false
     },
     {
         "name": "Doge Dragon",
