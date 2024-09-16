@@ -827,6 +827,14 @@
     "trending": false
   },
   {
+    "name": "Risy DAO Token",
+    "address": "0xca154cF88F6ffBC23E16B5D08a9Bf4851FB97199",
+    "symbol": "RISY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/RisyDAO/quickswap-default-token-list/master/assets/RISY.svg"
+  },
+  {
     "name": "Borderless Money",
     "address": "0xc59132FBdF8dE8fbE510F568a5D831C991B4fC38",
     "symbol": "BOM",
