@@ -72,36 +72,12 @@
         "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
       },
       {
-        "name": "Staked MATIC",
-        "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
-        "symbol": "stMATIC",
-        "decimals": 18,
-        "chainId": 1101,
-        "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1646789287"
-      },
-      {
         "name": "Frax",
         "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
         "symbol": "FRAX",
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://assets.coingecko.com/coins/images/13422/small/FRAX_icon.png?1679886922"
-      },
-      {
-        "name": "Frax Share",
-        "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
-        "symbol": "FXS",
-        "decimals": 18,
-        "chainId": 1101,
-        "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947"
-      },
-      {
-        "name": "Frax Ether",
-        "address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
-        "symbol": "frxETH",
-        "decimals": 18,
-        "chainId": 1101,
-        "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981"
       },
       {
         "name": "Mai Stablecoin",
@@ -152,11 +128,11 @@
         "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png"
       },
       {
-        "name": "Wrapped eETH",
-        "address": "0xcD68DFf4415358c35a28f96Fd5bF7083B22De1D6",
-        "symbol": "weETH",
+        "name": "Polygon Ecosystem Token",
+        "address": "0x22B21BedDef74FE62F031D2c5c8F7a9F8a4b304D",
+        "symbol": "POL",
         "decimals": 18,
         "chainId": 1101,
-        "logoURI": "https://etherfi-membership-metadata.s3.ap-southeast-1.amazonaws.com/weETH.png"
+        "logoURI": "https://zkevm.polygonscan.com/token/images/pol_32.png"
       }
 ]

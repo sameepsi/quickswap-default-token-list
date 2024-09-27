@@ -80,14 +80,6 @@
         "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg"
       },
       {
-        "name": "GOK",
-        "address": "0x387660BC95682587efC12C543c987ABf0fB9778f",
-        "symbol": "GOK",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GOK.png"
-      },
-      {
         "name": "GAI",
         "address": "0xcd91716ef98798A85E79048B78287B13ae6b99b2",
         "symbol": "GAI",

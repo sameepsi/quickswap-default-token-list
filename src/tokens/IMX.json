@@ -62,5 +62,13 @@
         "decimals": 18,
         "chainId": 13371,
         "logoURI": "https://i.imgur.com/RvSvaBH.png"
+      },
+      {
+        "name": "Nifty League",
+        "address": "0xb0d7e9ff5fb8e739c4990f7920d8047acfae4884",
+        "symbol": "NFTL",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://niftyleague.com/img/logo/NFTL.png"
       }
 ]

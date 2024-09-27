@@ -27,15 +27,6 @@
         "trending": false
     },
     {
-        "name": "Wrapped Bitcoin",
-        "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
-        "symbol": "WBTC",
-        "decimals": 6,
-        "chainId": 2000,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-        "trending": false
-    },
-    {
         "name": "Wrapped WDOGE",
         "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
         "symbol": "WWDOGE",

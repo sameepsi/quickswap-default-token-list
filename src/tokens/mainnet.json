@@ -6,7 +6,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/uIExoAr.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "Dai Stablecoin",
@@ -24,7 +24,7 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "Bridged USDC",
@@ -86,7 +86,8 @@
     "symbol": "GHST",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png",
+    "trending": true
   },
   {
     "name": "Wrapped BTC",
@@ -95,7 +96,7 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "ChainLink Token",
@@ -104,7 +105,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
-    "trending": false
+    "trending": true
   },
   {
     "name": "Decentraland MANA",
@@ -122,7 +123,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    "trending": true
+    "trending": false
   },
   {
     "name": "Ocean Token",
@@ -167,7 +168,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://polydoge.com/doge-webpage_files/doge.png",
-    "trending": false
+    "trending": true
   },
   {
     "name": "Adamant",
@@ -437,7 +438,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555",
-    "trending": false
+    "trending": true
   },
   {
     "name": "Banana",
@@ -746,15 +747,6 @@
     "trending": false
   },
   {
-    "name": "Axelar",
-    "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
-    "symbol": "AXL",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/27277/small/V-65_xQ1_400x400.jpeg?1663121730",
-    "trending": false
-  },
-  {
     "name": "Coinbase Wrapped Staked ETH",
     "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
     "symbol": "cbETH",
@@ -824,15 +816,6 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-    "trending": false
-  },
-  {
-    "name": "Borderless Money",
-    "address": "0xc59132FBdF8dE8fbE510F568a5D831C991B4fC38",
-    "symbol": "BOM",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://www.borderless.money/logo-200x200.png",
     "trending": false
   },
   {
@@ -941,33 +924,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11649.png",
-    "trending": false
-  },
-  {
-    "name": "3A Utility Token",
-    "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
-    "symbol": "A3A",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FRgMuxRx6ZSaL6tvYjz18%2FA3A%20Black%20Logo.svg?alt=media&token=874a31a9-323c-4541-8634-1c097a8993c0",
-    "trending": false
-  },
-  {
-    "name": "EURO3",
-    "address": "0xA0e4c84693266a9d3BBef2f394B33712c76599Ab",
-    "symbol": "EURO3",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FJFuzcTfT6VY07JRY5cX7%2FEURO3%20Black%20Logo.svg?alt=media&token=c3cdfe3d-e847-4ff2-a2fa-d738a1386453",
-    "trending": false
-  },
-  {
-    "name": "Bullieverse",
-    "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
-    "symbol": "BULL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/La2jNVp.png",
     "trending": false
   },
   {
@@ -1175,7 +1131,7 @@
     "decimals": 9,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/egPMCht.png",
-    "trending": false
+    "trending": true
   },
   {
     "name": "b0rder1ess",
@@ -1265,6 +1221,15 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/34636/large/vda_token_image.png?1705555715",
+    "trending": false
+  },
+  {
+    "name": "Oshi Token",
+    "address": "0x09cAD96Bc28f55e9253cfB9a84a3A1Ab79061E54",
+    "symbol": "OSHI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/EcvUnvH.png",
     "trending": false
   }
 ]
