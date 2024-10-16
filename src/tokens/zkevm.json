@@ -134,5 +134,13 @@
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://zkevm.polygonscan.com/token/images/pol_32.png"
+      },
+      {
+        "name": "Giveth",
+        "address": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
+        "symbol": "GIV",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://i.imgur.com/EZg4cJP.png"
       }
 ]

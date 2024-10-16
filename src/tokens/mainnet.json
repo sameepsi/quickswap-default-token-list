@@ -1231,5 +1231,14 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/EcvUnvH.png",
     "trending": false
+  },
+  {
+    "name": "Trakx",
+    "address": "0x61bf130d973D59c69d3227f1668d534d83119860",
+    "symbol": "TRKX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/bNic6rA.jpeg",
+    "trending": false
   }
 ]
