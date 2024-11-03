@@ -1240,5 +1240,23 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/bNic6rA.jpeg",
     "trending": false
+  },
+  {
+    "name": "Tryan",
+    "address": "0x550F908e06d1DA4FFEe6B1FB63730F88eCc4d230",
+    "symbol": "TRYAN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/MyOrTE8.png",
+    "trending": false
+  },
+  {
+    "name": "PAT",
+    "address": "0xe1FA488cEC250c4D7566a02a6B7f092196c81d11",
+    "symbol": "PAT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/TyALsNv.jpeg",
+    "trending": false
   }
 ]
