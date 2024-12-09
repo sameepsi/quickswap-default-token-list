@@ -1268,4 +1268,14 @@
     "logoURI": "https://i.imgur.com/sXP3ndq.png",
     "trending": false
   }
+  ,
+  {
+    "name": "Moonflow",
+    "address": "0x7AEfff599570dEC2F3DbBc2ACe3cb1F8206749eB",
+    "symbol": "MOON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/leVSn1S.jpeg",
+    "trending": false
+  }
 ]

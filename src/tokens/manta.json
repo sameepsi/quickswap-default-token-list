@@ -134,5 +134,13 @@
         "decimals": 18,
         "chainId": 169,
         "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_btc.png"
+      },
+      {
+        "name": "Solv BTC",
+        "address": "0x207D76b287a566aBa975700f103017FD568a2181",
+        "symbol": "SolvBTC",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://i.imgur.com/TZR52S4.jpeg"
       }
 ]
