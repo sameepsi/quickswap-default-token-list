@@ -1267,8 +1267,7 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/sXP3ndq.png",
     "trending": false
-  }
-  ,
+  },
   {
     "name": "Moonflow",
     "address": "0x7AEfff599570dEC2F3DbBc2ACe3cb1F8206749eB",
@@ -1276,6 +1275,15 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/leVSn1S.jpeg",
+    "trending": false
+  },
+  {
+    "name": "Polygon Mascot",
+    "address": "0x8E4ea556759aEA8868Dc9805991BBb460f0E8512",
+    "symbol": "JEFF",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/jfWrohy.png",
     "trending": false
   }
 ]
