@@ -14,6 +14,7 @@ const ASTARZKEVM = require('./tokens/astarZKEVM.json');
 const XLAYER = require('./tokens/xlayer.json');
 const ETHEREUM = require('./tokens/ethereum.json');
 const MINATO = require('./tokens/minato.json');
+const SONEIUM = require('./tokens/soneium.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -46,7 +47,8 @@ module.exports = function buildList() {
       ...ASTARZKEVM,
       ...XLAYER,
       ...ETHEREUM,
-      ...MINATO
+      ...MINATO,
+      ...SONEIUM
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
