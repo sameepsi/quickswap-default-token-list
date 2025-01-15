@@ -1098,15 +1098,6 @@
     "trending": false
   },
   {
-    "name": "AMBO",
-    "address": "0x9B8B6A1298d34B3c4bBDDce8a7fF0149121592C1",
-    "symbol": "AMBO",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://sheertopia.io/_next/image?url=%2FSheertopia-logo.png&w=256&q=75",
-    "trending": false
-  },
-  {
     "name": "Nova DAO",
     "address": "0x119fd89E56e3845B520644dCEDf4A86Cd0B66aA6",
     "symbol": "NOVA",
