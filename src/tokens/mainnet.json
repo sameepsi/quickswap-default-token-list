@@ -1276,5 +1276,14 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/jfWrohy.png",
     "trending": false
+  },
+  {
+    "name": "SUPER TRUST",
+    "address": "0x98965474EcBeC2F532F1f780ee37b0b05F77Ca55",
+    "symbol": "SUT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/5pYJiqF.png",
+    "trending": false
   }
 ]

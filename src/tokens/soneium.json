@@ -49,5 +49,14 @@
         "chainId": 1868,
         "logoURI": "https://i.imgur.com/2qBlExZ.png",
         "trending": false
+      },
+      {
+        "name": "Mother of Memes",
+        "address": "0xA8FeAae65C44B458A16Ea4E709036A2ee85d073A",
+        "symbol": "HAHA",
+        "decimals": 18,
+        "chainId": 1868,
+        "logoURI": "https://i.imgur.com/ggpoiid.png",
+        "trending": false
       }
 ]
