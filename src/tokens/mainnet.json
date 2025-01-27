@@ -1285,5 +1285,14 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/5pYJiqF.png",
     "trending": false
+  },
+  {
+    "name": "AUSD",
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/Fr5cwbM.jpeg",
+    "trending": false
   }
 ]
