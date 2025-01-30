@@ -108,15 +108,6 @@
     "trending": true
   },
   {
-    "name": "Decentraland MANA",
-    "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
-    "symbol": "MANA",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png",
-    "trending": false
-  },
-  {
     "name": "Ether",
     "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
     "symbol": "ETH",
@@ -270,15 +261,6 @@
     "trending": false
   },
   {
-    "name": "UnirisToken",
-    "address": "0x3C720206bFaCB2d16fA3ac0ed87D2048Dbc401Fc",
-    "symbol": "UCO",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/12330/small/e353ZVj.png?1599112996",
-    "trending": false
-  },
-  {
     "name": "Dogelon",
     "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
     "symbol": "ELON",
@@ -366,15 +348,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/757/small/mysterium.png?1547034503",
-    "trending": false
-  },
-  {
-    "name": "SHEESHA POLYGON",
-    "address": "0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D",
-    "symbol": "mSHEESHA",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://pbs.twimg.com/profile_images/1427241161417060359/uHXKH64w_400x400.jpg",
     "trending": false
   },
   {
@@ -522,15 +495,6 @@
     "trending": false
   },
   {
-    "name": "Algebra",
-    "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
-    "symbol": "ALGB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/19580/small/13211.png?1635469023",
-    "trending": false
-  },
-  {
     "name": "Sunflower Land",
     "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
     "symbol": "SFL",
@@ -555,15 +519,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/27601/small/rond.png?1664716228",
-    "trending": false
-  },
-  {
-    "name": "FoodChain Global",
-    "address": "0x6F06e6beD64cF4c4187c06Ee2a4732f6a171BC4e",
-    "symbol": "FOOD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23755/small/food.png?1645347956",
     "trending": false
   },
   {
@@ -684,15 +639,6 @@
     "trending": false
   },
   {
-    "name": "Davos",
-    "address": "0xEC38621e72D86775a89C7422746de1f52bbA5320",
-    "symbol": "DUSD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/RpQ65xN/imgonline-com-ua-Resize-s-Hpa1-XPD6-NKFN4-P.png",
-    "trending": false
-  },
-  {
     "name": "Wrapped liquid staked Ether 2.0",
     "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
     "symbol": "wstETH",
@@ -708,15 +654,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://polygonscan.com/token/images/firebottoken_32.png",
-    "trending": false
-  },
-  {
-    "name": "pBORA",
-    "address": "0x0EF39E52704Ad52E2882BBfA6781167E1b6c4510",
-    "symbol": "pBORA",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/Qt6iIQ8.png",
     "trending": false
   },
   {
@@ -819,15 +756,6 @@
     "trending": false
   },
   {
-    "name": "Slingshot",
-    "address": "0xfc9Fa9771145fbB98D15C8c2cc94B837a56D554C",
-    "symbol": "SLING",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.slingshotdao.com/logos/Slingshot+DAO+icon+Alpha.png",
-    "trending": false
-  },
-  {
     "name": "ICHI",
     "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
     "symbol": "ICHI",
@@ -864,15 +792,6 @@
     "trending": false
   },
   {
-    "name": "Virtuswap Token",
-    "address": "0x57999936fC9A9EC0751a8D146CcE11901Be8beD0",
-    "symbol": "fxVRSW",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/mnJXy8O.jpeg",
-    "trending": false
-  },
-  {
     "name": "Global Coin Research",
     "address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
     "symbol": "GCR",
@@ -897,33 +816,6 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://usdv.money/static/features/media-kit/TokenIcon_Black.png",
-    "trending": false
-  },
-  {
-    "name": "Wormhole Taki",
-    "address": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
-    "symbol": "wTAKI",
-    "decimals": 9,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/2iBGbwS.png",
-    "trending": false
-  },
-  {
-    "name": "TakiToken",
-    "address": "0xe78aeE6CCb05471a69677fB74da80F5d251c042B",
-    "symbol": "TAKI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/swpJ2Wx.png",
-    "trending": false
-  },
-  {
-    "name": "Wicrypt Network",
-    "address": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
-    "symbol": "WNT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11649.png",
     "trending": false
   },
   {
@@ -963,30 +855,12 @@
     "trending": false
   },
   {
-    "name": "A51 Finance",
-    "address": "0xe9E7c09e82328c3107d367f6c617cF9977e63ED0",
-    "symbol": "A51",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/kdnL2QJ.png",
-    "trending": false
-  },
-  {
     "name": "Nakamoto.Games",
     "address": "0x311434160D7537be358930def317AfB606C0D737",
     "symbol": "NAKA",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/b75b09929e244c6ab9806bd2ca0b20db.jpg",
-    "trending": false
-  },
-  {
-    "name": "GIB",
-    "address": "0x3EFcD659b7A45D14DDA8A102836ce4b765C42324",
-    "symbol": "GIB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/UilDOtk.png",
     "trending": false
   },
   {
@@ -1026,30 +900,12 @@
     "trending": false
   },
   {
-    "name": "Bag",
-    "address": "0x73b29199a8e4C146E893EB95f18dAc41738a88c6",
-    "symbol": "BAG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/vmct5ZL.png",
-    "trending": false
-  },
-  {
     "name": "Chain Games",
     "address": "0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509",
     "symbol": "CHAIN",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/8WP8qFm.jpeg",
-    "trending": false
-  },
-  {
-    "name": "IQ Protocol Token",
-    "address": "0x41084fDc569099d9E527ccf126e12d9C7c688ec3",
-    "symbol": "IQT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/HeEYuVS.jpeg",
     "trending": false
   },
   {
@@ -1071,15 +927,6 @@
     "trending": false
   },
   {
-    "name": "SwissCheese Token",
-    "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
-    "symbol": "SWCH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/0dF6221.png",
-    "trending": false
-  },
-  {
     "name": "zkRace",
     "address": "0xE1b3eb06806601828976e491914e3De18B5d6b28",
     "symbol": "ZERC",
@@ -1095,15 +942,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.ibb.co/jZT78qh/a-1.png",
-    "trending": false
-  },
-  {
-    "name": "Nova DAO",
-    "address": "0x119fd89E56e3845B520644dCEDf4A86Cd0B66aA6",
-    "symbol": "NOVA",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://novadao.io/token/nova-128.png",
     "trending": false
   },
   {
@@ -1179,15 +1017,6 @@
     "trending": false
   },
   {
-    "name": "GEMS",
-    "address": "0x25eFae7B0b2866CaFB14E8eaD333a42eeb2A0b80",
-    "symbol": "GEMS",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/3KaxWm1.png",
-    "trending": false
-  },
-  {
     "name": "GOON",
     "address": "0x433cDE5a82b5e0658dA3543b47A375dffd126Eb6",
     "symbol": "GOON",
@@ -1239,15 +1068,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/MyOrTE8.png",
-    "trending": false
-  },
-  {
-    "name": "PAT",
-    "address": "0xe1FA488cEC250c4D7566a02a6B7f092196c81d11",
-    "symbol": "PAT",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/TyALsNv.jpeg",
     "trending": false
   },
   {

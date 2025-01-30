@@ -142,5 +142,13 @@
         "decimals": 18,
         "chainId": 1101,
         "logoURI": "https://i.imgur.com/EZg4cJP.png"
+      },
+      {
+        "name": "Citizen Wallet",
+        "address": "0x0D9B0790E97e3426C161580dF4Ee853E4A7C4607",
+        "symbol": "CTZN",
+        "decimals": 18,
+        "chainId": 1101,
+        "logoURI": "https://i.imgur.com/ETIOHXz.png"
       }
 ]
