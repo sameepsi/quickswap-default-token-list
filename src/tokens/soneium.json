@@ -58,5 +58,23 @@
         "chainId": 1868,
         "logoURI": "https://i.imgur.com/ggpoiid.png",
         "trending": false
+      },
+      {
+        "name": "Wrapped BTC",
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 1868,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+        "trending": false
+      },
+      {
+        "name": "QuickSwap",
+        "address": "0x6ef08F42C936f5d101B76160c816D3c8181C9867",
+        "symbol": "QUICK",
+        "decimals": 18,
+        "chainId": 1868,
+        "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png",
+        "trending": false
       }
 ]
