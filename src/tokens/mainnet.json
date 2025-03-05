@@ -1112,7 +1112,7 @@
     "symbol": "AUSD",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://i.imgur.com/Fr5cwbM.jpeg",
+    "logoURI": "https://agora-finance.github.io/public-assets/token-icon/AUSD.svg",
     "trending": false
   }
 ]
