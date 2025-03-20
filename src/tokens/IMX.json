@@ -70,5 +70,13 @@
         "decimals": 18,
         "chainId": 13371,
         "logoURI": "https://niftyleague.com/img/logo/NFTL.png"
+      },
+      {
+        "name": "MARBLEX",
+        "address": "0xfB457ea0990468FaB7ee53ecb9239dC45bD5a7D8",
+        "symbol": "MBX",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://i.imgur.com/w7Prguc.png"
       }
 ]

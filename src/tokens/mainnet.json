@@ -1114,5 +1114,77 @@
     "chainId": 137,
     "logoURI": "https://agora-finance.github.io/public-assets/token-icon/AUSD.svg",
     "trending": false
+  },
+  {
+    "name": "AKA",
+    "address": "0xA3dd6163B5742B0D8Cb7d79CB5DFE3F81F8F8fC4",
+    "symbol": "AKA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/oHnij18.png",
+    "trending": false
+  },
+  {
+    "name": "BEAST",
+    "address": "0x4191F84f66e0B7CC10370Ff47a0E2168E35b9Bdf",
+    "symbol": "BEAST",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "hhttps://i.imgur.com/PAY38OE.png",
+    "trending": false
+  },
+  {
+    "name": "Citizen Wallet",
+    "address": "0x0D9B0790E97e3426C161580dF4Ee853E4A7C4607",
+    "symbol": "CTZN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/bi74zCb.png",
+    "trending": false
+  },
+  {
+    "name": "Melodex",
+    "address": "0x5FDAF637Aed59B2e6d384d9e84D8ac5cF03c6697",
+    "symbol": "MELS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/lYQZY87.jpeg",
+    "trending": false
+  },
+  {
+    "name": "The Grand Timeline",
+    "address": "0xfAFB870F1918827fe57Ca4b891124606EaA7e6bd",
+    "symbol": "GRNDT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/bqiz50F.png",
+    "trending": false
+  },
+  {
+    "name": "Alpha Chad",
+    "address": "0xA1a78aC9884aDc9d04d59b2b743f1eC709618e55",
+    "symbol": "ACHAD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/bwdDhxg.png",
+    "trending": false
+  },
+  {
+    "name": "x23.ai",
+    "address": "0xc530B75465Ce3c6286e718110A7B2e2B64Bdc860",
+    "symbol": "X23",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/LpjPHcP.png",
+    "trending": false
+  },
+  {
+    "name": "Prismo Technology",
+    "address": "0x0b7a46E1af45E1EaadEeD34B55b6FC00A85c7c68",
+    "symbol": "PRSM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/OWFhZHs.png",
+    "trending": false
   }
 ]
