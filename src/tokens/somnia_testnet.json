@@ -1,0 +1,26 @@
+[
+      {
+        "name": "USDC",
+        "address": "0xE9CC37904875B459Fa5D0FE37680d36F1ED55e38",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 50312,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      },
+      {
+        "name": "Wrapped STT",
+        "address": "0x4A3BC48C156384f9564Fd65A53a2f3D534D8f2b7",
+        "symbol": "WSTT",
+        "decimals": 18,
+        "chainId": 50312,
+        "logoURI": "https://codex.somnia.network/~gitbook/image?url=https%3A%2F%2F1837978513-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FLNOy9QYx4v7FZF6yLEin%252Flogo%252F25a6fzkpJ1IfYP87StAx%252Fsomnialogo.jpeg%3Falt%3Dmedia%26token%3Dabda582d-c035-4d85-a32b-ecfc08074f91&width=260&dpr=2&quality=100&sign=71ce964&sv=2"
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0xd2480162Aa7F02Ead7BF4C127465446150D58452",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 50312,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
+      }
+]
