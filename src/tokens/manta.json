@@ -142,5 +142,21 @@
         "decimals": 18,
         "chainId": 169,
         "logoURI": "https://i.imgur.com/TZR52S4.jpeg"
+      },
+      {
+        "name": "msUSD",
+        "address": "0xfbD65dDfA27c3dE44e9A84f2DA9bf9f235b00495",
+        "symbol": "msUSD",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://i.imgur.com/5WDXApx.png"
+      },
+      {
+        "name": "msETH",
+        "address": "0x6B8f1C84E1F8866532770951d12BA73bb161C624",
+        "symbol": "msETH",
+        "decimals": 18,
+        "chainId": 169,
+        "logoURI": "https://i.imgur.com/2RgSGNA.png"
       }
 ]

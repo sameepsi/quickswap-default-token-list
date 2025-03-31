@@ -76,5 +76,23 @@
         "chainId": 1868,
         "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png",
         "trending": false
+      },
+      {
+        "name": "Governance Health Token",
+        "address": "0xcb46843Fe775EEC8499ccf18fb48B915A3Dae207",
+        "symbol": "GHT",
+        "decimals": 18,
+        "chainId": 1868,
+        "logoURI": "https://i.imgur.com/H9BmSFr.png",
+        "trending": false
+      },
+      {
+        "name": "Utility Health Token",
+        "address": "0x55a023B776AA7DF40194dfd8Cc1890f0F2BEC67d",
+        "symbol": "UHT",
+        "decimals": 18,
+        "chainId": 1868,
+        "logoURI": "https://i.imgur.com/Sp37vt7.png",
+        "trending": false
       }
 ]

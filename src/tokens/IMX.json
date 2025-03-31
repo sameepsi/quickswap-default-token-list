@@ -78,5 +78,13 @@
         "decimals": 18,
         "chainId": 13371,
         "logoURI": "https://i.imgur.com/w7Prguc.png"
+      },
+      {
+        "name": "Immortal Token",
+        "address": "0x80807723CFC04bf5dBe3186EBd8A7486e78cd8cA",
+        "symbol": "IMT",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://brand.immortalrising2.com/images/imt.png"
       }
 ]
