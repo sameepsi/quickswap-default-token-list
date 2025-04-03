@@ -86,5 +86,13 @@
         "decimals": 18,
         "chainId": 13371,
         "logoURI": "https://brand.immortalrising2.com/images/imt.png"
+      },
+      {
+        "name": "Quest Ecosystem",
+        "address": "0x8A1e8Cf52954C8D72907774D4b2b81f38Dd1c5c4",
+        "symbol": "QUEST",
+        "decimals": 6,
+        "chainId": 13371,
+        "logoURI": "https://cdn.ravenquest.io/assets/ravenquest_token-DudNXzGi.png"
       }
 ]
