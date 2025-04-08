@@ -94,5 +94,14 @@
         "chainId": 1868,
         "logoURI": "https://i.imgur.com/Sp37vt7.png",
         "trending": false
+      },
+      {
+        "name": "Wrapped stASTR",
+        "address": "0x3b0DC2daC9498A024003609031D973B1171dE09E",
+        "symbol": "WSTASTR",
+        "decimals": 18,
+        "chainId": 1868,
+        "logoURI": "https://astakes-organization.gitbook.io/~gitbook/image?url=https%3A%2F%2F2158577729-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZvrQzyC6CUbKT18tX4R4%252Fuploads%252FNTjfHGwra2Nzb4Cnkv4R%252FwstASTR.png%3Falt%3Dmedia%26token%3Dc5b6b977-5f01-449e-afaa-f9093501c1f4&width=768&dpr=2&quality=100&sign=1a82949e&sv=2",
+        "trending": false
       }
 ]
