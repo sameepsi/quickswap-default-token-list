@@ -1187,4 +1187,13 @@
     "logoURI": "https://i.imgur.com/OWFhZHs.png",
     "trending": false
   }
+  {
+    "chainId": 137,
+    "address": "0x2ed176aFEFa5DC22A09ea9D45dEe32d450cDe225",
+    "name": "DUMMYTOKEN",
+    "symbol": "DMMY",
+    "decimals": 18,
+    "logoURI": "https://shlnk.in/dummytoken/dummytoken.png",
+    "trending": false
+  }
 ]
