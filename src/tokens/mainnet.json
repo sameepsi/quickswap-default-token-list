@@ -1186,5 +1186,14 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/OWFhZHs.png",
     "trending": false
+  },
+  {
+    "name": "GENKI",
+    "address": "0xA7A01E16efC51010c1C8E900c6b1c5a828A7aB8a",
+    "symbol": "GENKI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/Kapitanliki/genkicoin/main/logo.png",
+    "trending": false
   }
 ]
