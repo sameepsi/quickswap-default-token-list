@@ -1195,5 +1195,14 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/Kapitanliki/genkicoin/main/logo.png",
     "trending": false
+  },
+  {
+    "name": "SwissCheese Token",
+    "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
+    "symbol": "SWCH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/zjQ9hRw.png",
+    "trending": false
   }
 ]
