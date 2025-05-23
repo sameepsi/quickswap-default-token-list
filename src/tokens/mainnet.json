@@ -1197,15 +1197,6 @@
     "trending": false
   },
   {
-    "name": "SwissCheese Token",
-    "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
-    "symbol": "SWCH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/zjQ9hRw.png",
-    "trending": false
-  },
-  {
     "name": "Wormhole SOL",
     "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
     "symbol": "WSOL",
