@@ -1204,5 +1204,68 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/zjQ9hRw.png",
     "trending": false
+  },
+  {
+    "name": "Wormhole SOL",
+    "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+    "symbol": "WSOL",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452",
+    "trending": false
+  },
+  {
+    "name": "Dolz",
+    "address": "0x6ab4E20f36ca48B61ECd66c0450fDf665Fa130be",
+    "symbol": "DOLZ",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://dolz.io/android-chrome-512x512.png",
+    "trending": false
+  },
+  {
+    "name": "Gridlock",
+    "address": "0x69CE536f95a84E1eF51Ed0132C514c7CE012E49b",
+    "symbol": "LOCK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/0PQHjZa.png",
+    "trending": false
+  },
+  {
+    "name": "SwissCheese Token",
+    "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
+    "symbol": "SWCH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/zjQ9hRw.png",
+    "trending": false
+  },
+  {
+    "name": "How To DAO",
+    "address": "0x6Fc91FBE42f72941486c98D11724B14Fb8d18b36",
+    "symbol": "H2DAO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/cWAlJiz.png",
+    "trending": false
+  },
+  {
+    "name": "TO DA MOON",
+    "address": "0x878b6bF76F7BA67D0c4Da616eAc1933f9b133C1c",
+    "symbol": "TDM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/T77rzag.png",
+    "trending": false
+  },
+  {
+    "name": "Web3 Pack",
+    "address": "0x4Fb9B94BD8bBbD684a7D5A5544Bc7A07188E5617",
+    "symbol": "PACK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/jMOxP5C.png",
+    "trending": false
   }
 ]

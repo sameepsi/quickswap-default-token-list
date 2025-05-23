@@ -94,5 +94,13 @@
         "decimals": 6,
         "chainId": 13371,
         "logoURI": "https://cdn.ravenquest.io/assets/ravenquest_token-DudNXzGi.png"
+      },
+      {
+        "name": "TGT",
+        "address": "0x0FA1d8Ffa9B414ABF0F47183e088bddC32e084F3",
+        "symbol": "TGT",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://i.ibb.co/GfCSp2yZ/X-TGT-Icon-3.png"
       }
 ]
