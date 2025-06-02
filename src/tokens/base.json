@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Coinbase Wrapped BTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "chainId": 8453,
+    "logoURI": "https://basescan.org/token/images/cbbtc_32.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 8453,
+    "logoURI": "https://basescan.org/token/images/centre-usdc_28.png",
+    "trending": true
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "trending": true
+  },
+  {
+    "name": "IMGN Labs",
+    "address": "0x9BbA915F036158582C20B51113B925f243A1A1A1",
+    "symbol": "IMGN",
+    "decimals": 18,
+    "chainId": 8453,
+    "logoURI": "https://basescan.org/token/images/imgnlabs_64.svg"
+  }
+]
