@@ -1258,5 +1258,14 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/jMOxP5C.png",
     "trending": false
+  },
+  {
+    "name": "GiraffeMask",
+    "address": "0x1a2b0f466484ef51db5670d1d77a4a15b32e8e98",
+    "symbol": "GiraffeMask",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/KVJLK7v.jpeg",
+    "trending": false
   }
 ]
