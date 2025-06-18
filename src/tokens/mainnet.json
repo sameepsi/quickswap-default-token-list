@@ -1270,9 +1270,9 @@
   },
   {
     "name": "eUSDCBMASr",
-    "address": "0xF383eF2d31E144a9b9e0c2237937f229BcA9f229",
+    "address": "0xF383eF2D31E1d4a19B3e04ca2937DB6A8DA9f229",
     "symbol": "eUSDCBMASr",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/OEZdhkfh.jpg",
     "trending": false
