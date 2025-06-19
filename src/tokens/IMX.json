@@ -102,5 +102,21 @@
         "decimals": 18,
         "chainId": 13371,
         "logoURI": "https://i.ibb.co/GfCSp2yZ/X-TGT-Icon-3.png"
+      },
+      {
+        "name": "GODS",
+        "address": "0xE0e0981D19eF2E0a57Cc48CA60D9454eD2D53fEB",
+        "symbol": "GODS",
+        "decimals": 18,
+        "chainId": 13371,
+        "logoURI": "https://i.imgur.com/nMKFGmw.jpg"
+      },
+      {
+        "name": "AUSD",
+        "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "symbol": "AUSD",
+        "decimals": 6,
+        "chainId": 13371,
+        "logoURI": "https://agora-finance.github.io/public-assets/token-icon/AUSD.svg"
       }
 ]

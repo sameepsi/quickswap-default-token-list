@@ -1258,5 +1258,23 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/jMOxP5C.png",
     "trending": false
+  },
+  {
+    "name": "RUM",
+    "address": "0x14E5386f47466A463f85D151653E1736c0c50Fc3",
+    "symbol": "RUM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/Pib5e7H.jpg",
+    "trending": false
+  },
+  {
+    "name": "eUSDCBMASr",
+    "address": "0xF383eF2D31E1d4a19B3e04ca2937DB6A8DA9f229",
+    "symbol": "eUSDCBMASr",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/OEZdhkf.jpg",
+    "trending": false
   }
 ]
