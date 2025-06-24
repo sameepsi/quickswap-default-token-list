@@ -71,15 +71,7 @@
     "logoURI": "https://i.imgur.com/lB49ZJ1.png",
     "trending": false
   },
-  {
-    "name": "decentral.games",
-    "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
-    "symbol": "DG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://polygonscan.com/token/images/decentralgame_32.png?v=5",
-    "trending": false
-  },
+
   {
     "name": "Aavegotchi GHST Token",
     "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
@@ -179,15 +171,7 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg",
     "trending": false
   },
-  {
-    "name": "SOL",
-    "address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
-    "symbol": "SOL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452",
-    "trending": false
-  },
+
   {
     "name": "Avalanche Token",
     "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
@@ -395,15 +379,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14134/small/tower-circular-1000.png?1632195469",
     "trending": false
   },
-  {
-    "name": "Fuse",
-    "address": "0x6b021b3f68491974bE6D4009fEe61a4e3C708fD6",
-    "symbol": "FUSE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/tl2Mxnt.png",
-    "trending": false
-  },
+
   {
     "name": "PlanetIX",
     "address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
@@ -476,15 +452,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/15315/small/pleasurecoin-icon.png?1648724879",
     "trending": false
   },
-  {
-    "name": "Lucidao",
-    "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
-    "symbol": "LCD",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706",
-    "trending": false
-  },
+
   {
     "name": "Revolt 2 Earn",
     "address": "0x5d301750cc9719f00872E33Ee81f9C37aBa242F4",
@@ -539,15 +507,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
     "trending": false
   },
-  {
-    "name": "DOSE",
-    "address": "0x81382e9693dE2aFc33F69B70a6C12CA9B3a73F47",
-    "symbol": "DOSE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18847/small/dose.PNG?1633590548",
-    "trending": false
-  },
+
   {
     "name": "Aavegotchi FOMO",
     "address": "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8",
@@ -629,15 +589,7 @@
     "logoURI": "https://res.cloudinary.com/metavault/image/upload/v1668603846/brand-assets/brandLogos/MVX-COIN_Simple_jikqce.png",
     "trending": false
   },
-  {
-    "name": "Giddy Token",
-    "address": "0x67eB41A14C0fe5CD701FC9d5A3D6597A72F641a6",
-    "symbol": "GDDY",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24960/small/gddy.png?1649573862",
-    "trending": false
-  },
+
   {
     "name": "Wrapped liquid staked Ether 2.0",
     "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
@@ -647,24 +599,8 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546",
     "trending": false
   },
-  {
-    "name": "FireBotToken",
-    "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
-    "symbol": "FBX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://polygonscan.com/token/images/firebottoken_32.png",
-    "trending": false
-  },
-  {
-    "name": "teleBTC",
-    "address": "0x3BF668Fe1ec79a84cA8481CEAD5dbb30d61cC685",
-    "symbol": "TELEBTC",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/rjH0eOe.png",
-    "trending": false
-  },
+
+
   {
     "name": "MEE Governance Token",
     "address": "0xEB7eaB87837f4Dad1bb80856db9E4506Fc441f3D",
@@ -674,15 +610,7 @@
     "logoURI": "https://i.imgur.com/JnwWka0.png",
     "trending": false
   },
-  {
-    "name": "StaFi rMATIC",
-    "address": "0x9f28e2455f9FFcFac9EBD6084853417362bc5dBb",
-    "symbol": "rMATIC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24232.png",
-    "trending": false
-  },
+
   {
     "name": "Coinbase Wrapped Staked ETH",
     "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
@@ -701,15 +629,7 @@
     "logoURI": "https://i.imgur.com/gwmgrf0.png",
     "trending": false
   },
-  {
-    "name": "Wefi",
-    "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
-    "symbol": "WEFI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://wefi-web-resources.s3.ap-south-1.amazonaws.com/wefi-128.png",
-    "trending": false
-  },
+
   {
     "name": "EverRise",
     "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
@@ -728,15 +648,7 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3625.png",
     "trending": false
   },
-  {
-    "name": "Polygon tBTC v2",
-    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-    "symbol": "tBTC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/zLHm2qE.png",
-    "trending": false
-  },
+
   {
     "name": "BitCone",
     "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
@@ -809,15 +721,7 @@
     "logoURI": "https://i.imgur.com/AeegcxP.png",
     "trending": false
   },
-  {
-    "name": "USDV",
-    "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
-    "symbol": "USDV",
-    "decimals": 6,
-    "chainId": 137,
-    "logoURI": "https://usdv.money/static/features/media-kit/TokenIcon_Black.png",
-    "trending": false
-  },
+
   {
     "name": "Digital Fitness",
     "address": "0x428360b02C1269bc1c79fbC399ad31d58C1E8fdA",
@@ -836,15 +740,7 @@
     "logoURI": "https://i.postimg.cc/qBWpKF3r/IMG-20240123-225021-225.png",
     "trending": false
   },
-  {
-    "name": "DOGAMI",
-    "address": "0x2F3E306d9F02ee8e8850F9040404918d0b345207",
-    "symbol": "DOGA",
-    "decimals": 5,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24510/standard/doga_logo.png?1696523689",
-    "trending": false
-  },
+
   {
     "name": "NFTBOOKS",
     "address": "0x6396252377F54ad33cFF9131708Da075b21d9B88",
@@ -872,15 +768,7 @@
     "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/bac2ec73cdbb4eaf9920a534498d43b1.png",
     "trending": false
   },
-  {
-    "name": "Crypto Crew Token",
-    "address": "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648",
-    "symbol": "CREW",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/WkMZqNl.jpeg",
-    "trending": false
-  },
+
   {
     "name": "Ethernity CLOUD",
     "address": "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
@@ -890,15 +778,7 @@
     "logoURI": "https://pbs.twimg.com/profile_images/1663893983578279941/ZStnNJ8m_400x400.png",
     "trending": false
   },
-  {
-    "name": "Verse",
-    "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
-    "symbol": "VERSE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/28424/large/verselogo.png?1696527421",
-    "trending": false
-  },
+
   {
     "name": "Chain Games",
     "address": "0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509",
@@ -908,15 +788,7 @@
     "logoURI": "https://i.imgur.com/8WP8qFm.jpeg",
     "trending": false
   },
-  {
-    "name": "THX Network",
-    "address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
-    "symbol": "THX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/YTalkPn.png",
-    "trending": false
-  },
+
   {
     "name": "Ubuntu",
     "address": "0x78445485A8d5b3BE765e3027bc336e3c272a23c9",
@@ -935,15 +807,7 @@
     "logoURI": "https://d19z9f49qtk8r2.cloudfront.net/assets/images/logos/zk-Race-logomark-bordered-256x256.png",
     "trending": false
   },
-  {
-    "name": "RoboHero",
-    "address": "0xB3886B3aAA6087B3d185dAeb89AC113D195b5Eb9",
-    "symbol": "ROBO",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/jZT78qh/a-1.png",
-    "trending": false
-  },
+
   {
     "name": "Geodnet Token",
     "address": "0xAC0F66379A6d7801D7726d5a943356A172549Adb",
@@ -962,33 +826,9 @@
     "logoURI": "https://i.imgur.com/egPMCht.png",
     "trending": true
   },
-  {
-    "name": "b0rder1ess",
-    "address": "0xF36f79feb5d97e18C69078d8D13d941CaE447A04",
-    "symbol": "b01",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/9GESEM3.jpeg",
-    "trending": false
-  },
-  {
-    "name": "Kinetix Finance",
-    "address": "0x8aD3d3e6B1b7B65138bD508E48330B544539b2C3",
-    "symbol": "KAI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/34031/standard/KFI_Token_1.png?1703675672",
-    "trending": false
-  },
-  {
-    "name": "Axion",
-    "address": "0x839F1a22A59eAAf26c85958712aB32F80FEA23d9",
-    "symbol": "AXN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/nVgJJfN.png",
-    "trending": false
-  },
+
+
+
   {
     "name": "Morpheus.Network",
     "address": "0x3c59798620e5fEC0Ae6dF1A19c6454094572Ab92",
@@ -998,24 +838,8 @@
     "logoURI": "https://i.ibb.co/HY07xZV/MNW.png",
     "trending": false
   },
-  {
-    "name": "Landshare",
-    "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
-    "symbol": "LAND",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/rGckBgo.png",
-    "trending": false
-  },
-  {
-    "name": "DerbyStarsRUN",
-    "address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
-    "symbol": "DSRUN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://resource.derbystars.com/tokens/icon/token_run_32_C.png",
-    "trending": false
-  },
+
+
   {
     "name": "GOON",
     "address": "0x433cDE5a82b5e0658dA3543b47A375dffd126Eb6",
@@ -1088,15 +912,7 @@
     "logoURI": "https://i.imgur.com/leVSn1S.jpeg",
     "trending": false
   },
-  {
-    "name": "Polygon Mascot",
-    "address": "0x8E4ea556759aEA8868Dc9805991BBb460f0E8512",
-    "symbol": "JEFF",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/jfWrohy.png",
-    "trending": false
-  },
+
   {
     "name": "SUPER TRUST",
     "address": "0x98965474EcBeC2F532F1f780ee37b0b05F77Ca55",
@@ -1223,15 +1039,7 @@
     "logoURI": "https://i.imgur.com/0PQHjZa.png",
     "trending": false
   },
-  {
-    "name": "SwissCheese Token",
-    "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
-    "symbol": "SWCH",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/zjQ9hRw.png",
-    "trending": false
-  },
+
   {
     "name": "How To DAO",
     "address": "0x6Fc91FBE42f72941486c98D11724B14Fb8d18b36",
